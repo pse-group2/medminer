@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+=== Ruby Version
 
-Things you may want to cover:
+At the moment, we recommend using Ruby Version 2.0.0 with Rails 4.0.3.
 
-* Ruby version
+=== Running on localhost
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+To start the server, go to the project location and run 'rails server'. In your browser, navigate to http://0.0.0.0:3000/.
