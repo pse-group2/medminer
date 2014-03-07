@@ -1,12 +1,13 @@
 Medminer::Application.routes.draw do
+  
+  match "text_mining/search" => "text_mining#search", :via => :post
   get "text_mining/search"
-  get "text_mining/results"
   
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root :to => "text_mining#search"
+  root "text_mining#search"
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'

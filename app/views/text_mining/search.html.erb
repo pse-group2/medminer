@@ -1,9 +1,12 @@
 <h1>Medical Search</h1>
 
-<form action="results" method="get">
-	
-Search: <input type="text" name="search_field">
- <input name="commit" type="submit" value="Search" />
- <br>
+<%= form_tag("/text_mining/search", :method=>"post") do %>
+  <%= text_field_tag(:search_text) %>
+  <%= submit_tag("Search", :class=>"btn") %>
+<% end %>
 
-</form>
+<h2>Results</h2>
+
+<%= @text %>
+
+
