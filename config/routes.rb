@@ -1,6 +1,6 @@
 Medminer::Application.routes.draw do
   
-  match "text_mining/search" => "text_mining#search", :via => :post
+  match "text_mining/results" => "text_mining#results", :via => :post
   get "text_mining/search"
   
   # The priority is based upon order of creation: first created -> highest priority.
