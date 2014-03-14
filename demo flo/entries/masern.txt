@@ -1,0 +1,343 @@
+Masern
+
+
+Die Masern (lat. Morbilli, Diminutiv von Morbus – Krankheit) sind eine durch das Masernvirus hervorgerufene, hoch ansteckende Infektionskrankheit, die vor allem Kinder betrifft. Neben den typischen roten Hautflecken (Masern-Exanthem) ruft die Erkrankung Fieber und einen erheblich geschwächten Allgemeinzustand hervor. Es können außerdem in manchen Fällen lebensbedrohliche Komplikationen wie Lungen- und Hirnentzündungen auftreten.
+
+Die Diagnose erfolgt durch das klinische Bild und einen Antikörpernachweis im Blut. Eine spezifische Therapie existiert nicht, der Erkrankung und somit auch den Komplikationen kann jedoch durch Impfung ab dem zwölften Lebensmonat vorgebeugt werden. Dadurch konnte die Zahl der Erkrankungen in der Vergangenheit stark reduziert werden. In den meisten Ländern ist die Erkrankung meldepflichtig.
+Masern-Ausschlag bei einem nigerianischen Mädchen. Der Großteil der weltweit auftretenden Krankheitsfälle betrifft den afrikanischen Kontinent.
+
+Inhaltsverzeichnis
+
+    1 Epidemiologie
+        1.1 Weltweite Situation
+        1.2 Europa
+        1.3 Amerika
+    2 Erreger
+        2.1 Eigenschaften
+        2.2 Übertragung und Körperabwehr
+    3 Krankheitsbild
+        3.1 Symptome und Krankheitsverlauf
+        3.2 Untypische Verlaufsbilder
+        3.3 Komplikationen
+            3.3.1 Masernpneumonie
+            3.3.2 Meningoenzephalitis
+            3.3.3 Subakute sklerosierende Panenzephalitis
+            3.3.4 Weitere Komplikationen
+    4 Diagnose
+        4.1 Differenzialdiagnose
+        4.2 Meldepflicht
+    5 Therapie
+    6 Vorbeugung
+        6.1 Quarantäne
+        6.2 Impfung
+            6.2.1 Impfreaktionen und -komplikationen
+        6.3 Postexpositionsprophylaxe
+    7 Masern und Schwangerschaft
+    8 Geschichte
+    9 Belege
+        9.1 Literatur
+        9.2 Einzelnachweise
+    10 Weblinks
+
+Epidemiologie
+Weltweite Situation
+Gemeldete Krankheitsfälle, Statistik der WHO [1] WHO-Region 	1980 	1990 	2000 	2005
+Afrika 	1.240.993 	481.204 	520.102 	316.224
+Amerika 	257.790 	218.579 	1.755 	19
+Östliches Mittelmeer 	341.624 	59.058 	38.592 	15.069
+Europa 	851.849 	234.827 	37.421 	37.332
+Südostasien 	199.535 	224.925 	61.975 	83.627
+Westlicher Pazifik 	1.319.640 	155.490 	176.493 	128.016
+Weltweit 	4.211.431 	1.374.083 	836.338 	580.287
+
+Das Masernvirus kommt weltweit vor, wobei die Krankheitshäufigkeit stark variiert. Insbesondere in Entwicklungsländern kommt es immer wieder zu lokalen Masernepidemien mit hohen Krankheits- und Sterblichkeitszahlen.[2][3] Die Masern gehören dort zu den häufigsten Infektionskrankheiten. Laut Schätzung der WHO haben sie im Jahr 2000 fast die Hälfte der 1,7 Millionen durch Impfung vermeidbaren Todesfälle bei Kindern verursacht, bei geschätzten 30 bis 40 Millionen Krankheitsfällen in jenem Jahr.[4] Die Zahl der gemeldeten Erkrankungen liegt aufgrund der hohen Dunkelziffer weit unter diesen geschätzten Werten (siehe Tabelle).
+
+Auf der anderen Seite konnte das Virus durch groß angelegte Impfkampagnen in verschiedenen anderen Regionen, so dem gesamten amerikanischen Doppelkontinent, bereits weitgehend eliminiert werden, was dadurch möglich ist, dass der Mensch der einzige Wirt des Masernvirus ist. 2001 legten die WHO und UNICEF einen Plan vor mit dem Ziel, die Sterblichkeitsrate bei Kindern durch weltweite Impfprogramme bis zum Jahr 2005 zu halbieren. Während genaue Daten noch ausstehen, zeigen verschiedene Berichte, dass dieses Ziel zu einem großen Teil erreicht wurde. Von 1999 bis 2003 gelang eine weltweite Reduktion der Masern-Sterblichkeit um 39 %, wobei weiterhin hohe Sterblichkeitsraten in Afrika und Südostasien bestehen.[5] 2005 adaptierte die World Health Assembly der WHO diese Pläne und formulierte für das Jahr 2010 das Ziel einer 90-prozentigen Reduktion der weltweiten Sterblichkeit.[6] Dieses Ziel wurde laut WHO nicht erreicht. Von weltweit 535.300 registrierten Maserntoten im Jahr 2000 sank die Zahl bis 2010 auf 139.300, dies entspricht einer Senkung um 74 %.[7]
+
+Im Jahr 2008 wurde vom U.S.-amerikanischen CDC auf einen Ausbruch von Masern in Israel hingewiesen, wo mehr als 900 Fälle bekanntgeworden sind, 700 davon in Jerusalem und Beit Shemesh.[8] In Südafrika grassiert seit 2009 eine Masernepidemie.[9] In Pakistan sind bei einem schweren Masernausbruch allein im Januar 2013 bereits über 100 Kinder an der Krankheit gestorben.[10]
+Europa
+
+Die Gesamtzahl der erfassten Erkrankungen in Europa ging von 1990 bis 2004 trotz verbesserter Überwachungs- und Meldesysteme deutlich zurück.[6] Die Häufigkeit der Fälle ist, bedingt durch variierende Impfraten, sehr unterschiedlich. Während sie in einigen Regionen, wie den skandinavischen Ländern, sehr niedrig ist – in Finnland traten seit 1996 lediglich vier importierte Fälle auf[11] – ist das in Mittel- und Osteuropa oft noch nicht der Fall. Dort kommt es aufgrund von Impflücken immer wieder zu lokalen Krankheitsausbrüchen. Trotz Meldepflicht in den meisten Ländern existiert wahrscheinlich eine hohe Dunkelziffer und die Zahl der tatsächlichen Krankheitsfälle liegt wesentlich höher als die der gemeldeten. Die Weltgesundheitsorganisation (WHO) appellierte 2011 an die EU-Mitgliedstaaten, Maßnahmen zur Bekämpfung der Masern zu verstärken.[12]
+Masernfälle in Deutschland [13] 	2001 	2002 	2003 	2004 	2005 	2006 	2007 	2008 	2009 	2010 	2011 	2012
+Fälle 	6037 	4656 	777 	122 	781 	2308 	566 	915 	571 	780 	1608 	165
+
+2005 kam es in Deutschland zu zwei größeren Masernausbrüchen, im Februar in Hessen mit einem Todesfall bei 223 Erkrankungsfällen und im Mai in Oberbayern mit 110 Erkrankungen. 2006 wurden Masernhäufungen in Baden-Württemberg sowie in Nordrhein-Westfalen gemeldet. Dies war die größte Masernepidemie seit Einführung der Masern-Meldepflicht im Jahr 2001.[14] 2013 kam es in München zu einer Epidemie. Nach Angaben des dortigen Gesundheitsreferats wurden von April bis Anfang Juni 220 Fälle registriert, verglichen mit sieben im Vorjahr. Über die Hälfte der Patienten musste in Kliniken behandelt werden, besonders häufig erkrankten Jugendliche und junge Erwachsene.[15] Die Daten Epidemiologischen Bulletin für 2013 lassen vermuten, dass Masern in Deutschland bald wieder endemisch sein werden[16].
+
+In Österreich wurde vor der Einführung der Masern-Meldepflicht 2001 vom Institut für Virologie (Wien) ein freiwilliges Meldesystem betrieben, das etwa 8 % der österreichischen Bevölkerung abdeckte. Somit konnten für den Zeitraum von 1993 bis 1997 etwa 28.000 bis 30.000 Masernfälle für ganz Österreich hochgerechnet werden, wobei besonders 1996 und 1997 ein gehäuftes Auftreten von Masernerkrankungen zu verzeichnen war. Die Zahl der jährlichen Fälle lag zwischen 2003 und 2007 jeweils unter 100 pro Jahr.[1] Im März 2008 kam es zu einem größeren Ausbruch im Raum Salzburg mit bislang etwa 180 gemeldeten Fällen, davon 69 in Salzburg-Stadt, 85 in anderen Bezirken, 7 in Oberösterreich und 21 in den angrenzenden bayerischen Landkreisen Traunstein und Berchtesgadener Land (Stand 4. April 2008).
+
+In der Schweiz kam es 1997 zu einer Epidemie mit 6400 Erkrankungen. Die Daten der Schweiz basieren auf dem Sentinella-Meldesystem.[17] Nach 574 Fällen im Jahr 2003 wurde 2004 mit 39 Fällen und 2005 mit 60 Fällen wesentlich niedrigere Erkrankungsraten gemeldet.[1] Seit November 2006 breitet sich eine neue Epidemie aus. Bis Ende 2007 wurden mehr als 1100 Erkrankungen gemeldet, der Schwerpunkt lag dabei im Kanton Luzern.[18] Anfang 2008 verschärfte sich die Lage vor allem in der Nordwest- und Ostschweiz, bis Mitte März gab es schon 734 neue Masernfälle. Verschiedene Kantonsärzte empfahlen daher vorbeugende Masernimpfungen.[19] Im Februar 2009 erkrankten an der Rudolf-Steiner-Schule in Crissier rund 40 Schüler an Masern. Daraufhin wurden 250 Schüler für drei Wochen von der Schule ausgeschlossen.[20] Im Dezember 2010 bis Januar 2011 wurden in der Schweiz 31 Fälle an der Rudolf-Steiner-Schule in Basel gemeldet.[21]
+
+In den Niederlanden wird aufgrund einer orthodox-protestantischen Bevölkerungsgruppe (Orthodox gereformeerde kerken), die aus religiösen Gründen eine Impfung ablehnt, ein epidemisches Auftreten der Masern in regelmäßigen Abständen beobachtet. 1999 kam es zu einem Ausbruch mit 2961 Erkrankungen und drei Todesfällen.[22] 2002 kam es in der Region Kampanien im südlichen Italien zu einer weiteren lokalen Epidemie mit 1571 Krankheitsfällen, von denen drei zum Tode führten.[23] In Rumänien erkrankten 2005 über 3600 Personen an den Masern, zehn Kinder starben daran.
+Amerika
+Die Zahl der Masernerkrankungen in den USA verringerte sich nach Einführung der Impfung 1962 drastisch
+
+Bis 1994 führten nahezu alle Staaten der UN-Region Amerika Impfprogramme für Kinder ein. Dadurch verringerte sich die durchschnittliche Zahl der Neuerkrankungen von 250.000 auf etwa 100 Fälle pro Jahr, die Masern gelten damit als faktisch ausgerottet. Regional treten noch vereinzelte Krankheitsausbrüche auf, die nahezu alle importiert sind oder auf importierte Masern zurückgeführt werden können.[6][24] Amerika ist somit ein Beispiel dafür, dass die Masern durch Impfprogramme weltweit beherrscht werden können.[25]
+
+Die Anzahl der Masernerkrankungen in den USA sank nach der Einführung des Impfstoffes 1963 von über 500.000 auf einige wenige Fälle im Jahr. Einen starken Anstieg der Fälle gab es jedoch von 1989 bis 1991. In diesen drei Jahren wurden über 50.000 Erkrankungsfälle berichtet, von denen 123 tödlich endeten. Hauptsächlich waren Kleinkinder aus hispanoamerikanischen und afroamerikanischen Familien betroffen, bei denen die Rate ungeimpfter Kinder deutlich höher war als bei der Gesamtbevölkerung. Mittlerweile treten genuine, also nicht importierte, Masernerkrankungen in den Staaten Nord- und Südamerikas mit Einschluss der Karibik kaum noch auf.[26] Die Centers for Disease Control and Prevention sehen die Masern in den USA nicht mehr als endemische Krankheit an.[6]
+Erreger
+Eigenschaften
+Masernvirus in der Transmissions-Elektronen- Mikroskopie (TEM)
+
+Das Masernvirus ist ein ausschließlich im Menschen vorkommendes (humanpathogenes), etwa 120–140 Nanometer großes einzelsträngiges RNA-Virus aus der Familie der Paramyxoviren (Genus Morbillivirus). Es ist eng mit dem Hundestaupevirus und dem Erreger der Rinderpest verwandt.
+
+Die Hülle des Masernvirus enthält die Oberflächenproteine Hämagglutinin (H-Protein) und Fusionsprotein (F-Protein) sowie ein Matrixprotein (M-Protein). H- und F-Protein sind für die Fusion mit der Wirtszelle und die Aufnahme durch diese verantwortlich. Die zellulären Rezeptoren, über deren Hilfe das Virus in die menschlichen Zellen aufgenommen wird, sind CD46 und CD150. Die von der Impfung hervorgerufenen (induzierten) Antikörper richten sich gegen die Oberflächenproteine des Masernvirus, insbesondere gegen das H-Protein.[27]
+
+Die WHO definiert 23 bisher bekannte Genotypen (Variationen der genetischen Informationen) in acht Gruppen (A–H).[28] Die Mutationsrate der Genome ist vergleichsweise gering, wodurch weltweite (geografische) Infektionswege nachvollzogen werden können.[29] In Mitteleuropa kommen vor allem die Genotypen C2, D6 und D7 vor. Die Masernausbrüche in der Schweiz und in Niederbayern 2006/2007 waren hingegen durch den aus Thailand oder Kambodscha stammenden Genotyp D5 verursacht.[30] Dies ermöglichte den Nachweis einer Infektkette von der Schweiz nach Niederbayern und von dort weiter nach Österreich und Hannover, da der Genotyp D5 in Mitteleuropa sonst nur in Einzelfällen auftritt. Weiterhin existiert nur ein stabiler Serotyp (Kombination von Oberflächenmerkmalen des Erregers), weshalb ein gut wirksamer Impfstoff hergestellt werden konnte.
+
+Das Virus ist sehr empfindlich gegenüber äußeren Einflüssen wie erhöhten Temperaturen, Ultraviolettstrahlung (Licht), sowie aufgrund seiner Virushülle gegenüber Fettlöse- und Desinfektionsmitteln. An der Luft bleibt das Virus lediglich zwei Stunden infektiös.
+Übertragung und Körperabwehr
+
+Die Übertragung des Masernvirus erfolgt durch direkten Kontakt oder durch Tröpfcheninfektion. Die Infektiosität der Masern besteht drei bis fünf Tage vor dem Ausbruch des Hautausschlags bis vier Tage danach. Das Masernvirus dringt über die Epithelzellen der Schleimhaut des Atemtrakts oder seltener über die Bindehaut der Augen in den Körper ein. Das Virus führt dabei durch die hohe Ansteckungsfähigkeit schon nach kurzer Exposition zu einer Infektion (Kontagionsindex von fast 1). Die Viren vermehren sich in den regionalen Lymphknoten und breiten sich nach etwa 48 Stunden über die Blutbahn in das retikulohistiozytäre System aus. Dies geht einher mit einem meist kurzen Auftreten des Virus im Blut (Virämie). Nach etwa 5–7 Tagen kommt es zu einer zweiten Virämie mit anschließender Infektion der Haut und des Atemtrakts. Dadurch werden der charakteristische Hautausschlag (Masernexanthem) und die schnupfenartigen Symptome, Husten und akute Bronchitis ausgelöst. Durch die Invasion des Virus in T-Lymphozyten sowie erhöhte Spiegel von Botenstoffen (Zytokinen), insbesondere Interleukin-4, wird eine vorübergehende Schwäche der Körperabwehr verursacht. Während dieser Phase, die etwa vier bis sechs Wochen dauert, kann es dadurch zu weiteren (sekundären) Infektionen kommen.[31]
+
+Die Körperabwehr beruht vor Beginn des Exanthems vor allem auf dem zellulären Immunsystem (zytotoxische T-Lymphozyten, natürliche Killerzellen). Patienten mit einer verminderten Immunität, die auf einer Schwächung dieses Teils des Immunsystems beruht, haben ein hohes Risiko für eine Maserninfektion, die einen schweren Verlauf nehmen kann. Eine Immunschwäche, die sich auf den Bereich des humoralen Immunsystems beschränkt, führt hingegen nicht zu einem erhöhten Erkrankungsrisiko. Für die Entwicklung der typischen Rachenrötung (Enanthem, Koplik-Flecken) sowie Hautrötung (Exanthem, s. u.) spielen Immunreaktionen in kleinen Blutgefäßen (Kapillaren) eine wichtige Rolle. Daher können diese Zeichen bei immungeschwächten Patienten fehlen (weiße Masern), obwohl ein schwerer Krankheitsverlauf vorliegt. Mit Beginn des Exanthems setzt die Bildung von Antikörpern ein, zuerst der Klasse IgM, später auch von IgG.[31]
+Krankheitsbild
+Symptome und Krankheitsverlauf
+Koplik-Flecken an der Wangeninnenseite
+Rötung des Rachens (Enanthem)
+
+Typisch für die Masern ist ein zweiphasiger Krankheitsverlauf: Auf die Inkubationszeit von 10 bis 14 Tagen folgt das drei bis vier Tage dauernde, uncharakteristische Prodromalstadium, auch Initialstadium genannt. Dieses äußert sich durch eine Entzündung der Schleimhäute des oberen (Katarrh mit Rhinitis), teilweise auch des mittleren Atemtraktes als trockene Bronchitis, sowie der Augenbindehäute (Konjunktivitis). Das Beschwerdebild in diesem Krankheitsstadium wird daher auch mit den Worten „verrotzt, verheult, verschwollen“ beschrieben. Dazu kann es zu Fieber bis 41 °C, Übelkeit, Halsschmerzen und Kopfschmerzen kommen. Die nur bei Masern vorkommenden Koplikflecken an der Wangenschleimhaut gegenüber den vorderen Backenzähnen (Prämolaren) sind eher selten zu beobachten und werden von manchen Autoren zu den atypischen Zeichen einer Maserninfektion gezählt.[32] Diese weißen, kalkspritzerartigen Flecken auf gerötetem Untergrund sind 1–2 mm groß und treten kurz vor dem Erscheinen des späteren Ausschlags auf.
+Typische Hauterscheinungen bei Masern
+
+Am 12. bis 13. Tag geht die Krankheit in das typische Exanthemstadium über, das oft mit einer typischen Schleimhautrötung (Enanthem) am weichen Gaumen beginnt. Am 14. bis 15. Tag breitet sich ein fleckig-knotiger (makulo-papulöser), zum Teil konfluierender, großfleckiger Ausschlag (Exanthem) – typischerweise hinter den Ohren (retroaurikulär) beginnend – innerhalb von 24 Stunden über den ganzen Körper aus. Nach weiteren vier bis fünf Tagen bilden sich die Symptome in der Regel zurück. Als Überbleibsel des Exanthems kann eine kleieförmige Schuppung für kurze Zeit bestehen bleiben. Begleitend treten häufig Lymphknotenschwellungen (Lymphadenopathie) auf. Bei Erwachsenen verläuft die Krankheit oft schwerer als bei Kindern.
+
+Der Fieberverlauf der Erkrankung ist häufig zweigipflig, wobei der erste Gipfel während des Prodromal-, der zweite während des späteren Exanthemstadiums auftritt. Dazwischen kommt es oft zu einer kurzen Entfieberung. In unkomplizierten Fällen folgt eine rasche Erholung und eine lebenslang anhaltende Immunität.[33][34]
+Untypische Verlaufsbilder
+
+Untypische Verläufe kommen in verschiedenen Situationen vor. Säuglinge mit Leihimmunität durch mütterliche Antikörper oder Patienten, die Antikörperpräparate erhalten haben, erkranken an einer abgeschwächten Form der Erkrankung (mitigierte Masern).
+
+Bei Personen mit Immunschwäche kann der Verlauf sehr unterschiedlich sein, so kann beispielsweise hier der typische Hautausschlag fehlen (weiße Masern). Zu dieser Gruppe zählen Patienten mit angeborenen Defekten des zellulären Immunsystems, HIV-Infektionen, bösartigen Tumoren oder immunsuppressiver Therapie. Sie haben ein hohes Risiko, an einem schweren und langwierigen Verlauf der Masern mit erhöhter Komplikations- und Sterblichkeitsrate zu erkranken.
+
+Unter atypischen Masern versteht man eine schwere Verlaufsform, die bei Patienten nach der Impfung mit einem formalininaktivierten Impfstoff auftrat, wenn sie später mit einem Wildtyp-Masernvirus konfrontiert wurden. Diese Impfstoffe wurden in den USA und Kanada in den 1960er Jahren benutzt. Neben der sehr ausgeprägten Symptomatik, die meist nicht in der typischen Reihenfolge verlief, traten Pleuraergüsse, Leberentzündungen und Ödeme der Arme und Beine auf. Trotz der Schwere des Krankheitsbildes war die Prognose gut, die Patienten erholten sich vollständig.[33]
+Komplikationen
+
+Während der Großteil der Erkrankungen unkompliziert verläuft, treten bei etwa 20–30 % der Fälle zusätzliche Begleiterscheinungen und Komplikationen auf, wobei Durchfall (in 8 % der Krankheitsfälle), Mittelohrentzündungen (7 %) und Lungenentzündungen (6 %) die häufigsten sind.[35] Daneben gibt es eine Vielzahl weiterer Komplikationen.
+
+Über die Sterblichkeitsrate gibt es verschiedene Angaben. Während das Robert-Koch-Institut diese mit 1:10.000 bis 1:20.000 angibt,[36] gehen die US-amerikanischen Centers for Disease Control and Prevention von einer Sterblichkeit von 1:500 bis 1:1000 aus.[37] Das Zentrum für Prävention und Kontrolle von Krankheiten der EU geht von einer Sterblichkeit von 3:1000 aus.[38] In Entwicklungsländern liegt die Todesrate wesentlich höher, teilweise bei bis zu 25 %.[6] Lungenentzündungen sind die am häufigsten zum Tode führenden Komplikationen.
+Masernpneumonie
+Riesenzelle bei Masernpneumonie im feingeweblichen Schnitt
+
+Unter einer primären Masernpneumonie wird eine Lungenentzündung mit dem Verlaufsbild einer interstitiellen Pneumonie mit Entzündung der kleinen Bronchien (Bronchiolitis) verstanden, die sich hauptsächlich als Atemstörung (Dyspnoe) äußert. Mittels körperlicher Untersuchung ist sie schwer zu diagnostizieren, so dass eine Röntgenaufnahme erforderlich ist.
+
+Das Epithel des respiratorischen Systems wird durch das Masernvirus direkt geschädigt, dabei wird ein Verlust von Flimmerhärchen (Cilien) beobachtet. Diese Schäden stellen eine Prädisposition für bakterielle Infekte dar (bakterielle Superinfektionen). Eine solche Infektion tritt, insbesondere nach oder bei einer gleichzeitigen interstitiellen Viruspneumonie, als Bronchopneumonie auf. Sie ist aber durch die masernbedingte Abwehrschwäche (s. o.) auch isoliert möglich.
+
+Eine seltene Form der viralen Pneumonie ist die Riesenzellpneumonie mit vielkernigen, von den Alveolarepithelien abstammenden Riesenzellen (Hecht-Riesenzellen), die typisch für Masern und Keuchhusten ist, selten jedoch auch bei Diphtherie oder Grippe vorkommt. Sie tritt vor allem bei geschwächten Patienten auf und hat eine schlechte Prognose.
+Meningoenzephalitis
+
+Die Entzündung des Gehirns und seiner Häute (Meningoenzephalitis) ist selten (bei 0,1 % der Erkrankungen), verläuft jedoch in 15–20 % der Fälle tödlich. In weiteren 20–40 % bleiben dauerhafte Schädigungen des Gehirns zurück.[36]
+
+Die Meningoenzephalitis kann sich drei bis elf Tage nach Exanthembeginn entwickeln, bei Patienten über sechs Jahren häufiger als bei Kleinkindern. Sie manifestiert sich mit Fieber, Kopfschmerz, meningealer Reizung (Nackensteifigkeit, Erbrechen) sowie Bewusstseinsstörungen bis zum Koma. Schwere Verlaufsformen äußern sich in epileptischen Anfällen und anderen neurologischen Funktionsstörungen. Bei der Lumbalpunktion zeigt das gewonnene Hirnwasser eine Zellvermehrung (Pleozytose) und eine erhöhte Proteinkonzentration. Nach Einführung der Masernimpfung sank das Vorkommen der durch Masern ausgelösten Meningoenzephalitis kontinuierlich und liegt in Deutschland bei weniger als zehn Fällen im Jahr.
+
+Bei Kindern mit angeborenen oder erworbenen Immundefekten kann es in seltenen Fällen zu einer besonderen Form der Gehirnentzündung durch Masernviren kommen („Einschlusskörperchenenzephalitis“, measles inclusion-body encephalitis, MIBE). Diese Komplikation manifestiert sich meist innerhalb eines Jahres nach Maserninfektion mit schwer behandelbaren fokalen Krampfanfällen und endet in der Regel innerhalb von wenigen Monaten tödlich.[39] Die Diagnose kann durch eine Gewebeprobeentnahme aus dem Gehirn (Biopsie) gestellt werden. Es sind auch Fälle beschrieben worden, die durch das Impfvirus verursacht wurden.[40] Menschen mit einem schweren angeborenen oder erworbenen Immundefekt dürfen daher nicht gegen Masern geimpft werden.
+Subakute sklerosierende Panenzephalitis
+
+Die subakute sklerosierende Panenzephalitis (SSPE) ist eine Spätkomplikation nach Maserninfektion, die eine generalisierte Entzündung des Gehirns mit Nerven-Entmarkung (Demyelinisierung) und schwersten Schäden nach sich zieht und immer tödlich endet. Die Entstehung der SSPE ist nicht vollständig geklärt. Eine Rolle scheinen dabei Mutationen der Proteine der Virushülle zu spielen, insbesondere des M-Proteins.[34][41]
+
+Die Erkrankung tritt Monate bis zehn Jahre nach einer Maserninfektion auf, im Durchschnitt nach sieben Jahren. Der Verlauf ist langsam progredient über ein bis drei Jahre – die SSPE zählt zu den sog. Slow Virus Infections. In jeweils 10 % der Fälle tritt ein akuter, schnellerer (3 bis 6 Monate) oder ein langsamerer Verlauf (länger als drei Jahre) auf.
+
+Es lassen sich drei Stadien der SSPE abgrenzen. Das erste Stadium ist durch psychische Störungen und Demenz gekennzeichnet, das zweite durch Muskelkrämpfe (Myoklonien) und epileptische Anfälle. Im dritten Stadium kommt es zum Dezerebrationssyndrom, bei dem das Großhirn stark geschädigt ist. Im EEG finden sich typische Veränderungen, die wegweisend für die SSPE sind (Radermecker-Komplex).
+
+Die Häufigkeit der SSPE wurde früher mit 5 bis 10 pro 1 Million Masernfällen angegeben. Die neuere Literatur geht jedoch von einer Häufigkeit von etwa 1:10.000 Infizierten aus.[36][42] Die absolute Häufigkeit der SSPE ist durch die Masernimpfung seit den 1980er Jahren deutlich reduziert worden.
+
+Die SSPE tritt in den meisten Fällen bei Kindern oder Jugendlichen auf, die vor ihrem zweiten Lebensjahr die Masern durchgemacht hatten. Da Kinder erst ab dem 12. Lebensmonat gegen Masern geimpft werden können, sind sie nur geschützt, wenn sie sich aufgrund einer durchgeimpften Umgebung nicht anstecken.
+Weitere Komplikationen
+
+Durch eine Kehlkopfentzündung mit Schwellung der Schleimhaut kommt es zu Heiserkeit und Atemnot bereits im Vorstadium (vgl. Pseudokrupp), dies wird als Masernkrupp bezeichnet.
+
+Auch eine Entzündung der Hornhaut (Keratitis) mit multiplen, punktförmigen, epithelialen Läsionen kann als Komplikation der Maserninfektion auftreten. In Entwicklungsländern sind die Masern eine der häufigsten Ursachen für Erblindungen von Kindern, besonders im Zusammenhang mit Vitamin-A-Mangel.
+
+Weitere Komplikationen sind die Wurmfortsatzentzündung (Appendizitis), Leberentzündung (Hepatitis) oder generalisierte Lymphknotenschwellung (Lymphadenitis). Selten sind eine Herzmuskelentzündung (Myokarditis), Nierenentzündung (Glomerulonephritis) oder ein Abfall der Blutplättchen (thrombozytopenische Purpura).[34]
+Diagnose
+
+Die klinische Diagnose anhand des Krankheitsbildes, insbesondere des „typischen“ Masernexanthems, ist aufgrund des zunehmend selteneren Vorkommens und untypischer Verlaufsbilder mit einer großen Fehlerhäufigkeit behaftet,[36] so dass zusätzliche Untersuchungen notwendig sind, um die Krankheit sicher diagnostizieren zu können. Im Epidemiefall kann die Diagnose dennoch häufig klinisch gestellt werden, insbesondere von erfahrenen Untersuchern.[43][44]
+
+Am sichersten ist die Diagnose über den serologischen Nachweis von IgM-Antikörpern zu führen. Dies wird heute methodisch meist mit Hilfe eines Enzymimmunoassay (ELISA) erreicht, in manchen Labors wird auch noch die Komplementbindungsreaktion (KBR) oder der Hämagglutinationshemmtest (HHT) durchgeführt. Bei der Bestimmung der IgM-Antikörper können falsch-positive und falsch-negative Ergebnisse auftreten. Ein mindestens vierfacher Anstieg des Masern-IgG-Titers innerhalb etwa einer Woche oder das Neuauftreten der IgG-Antikörper ist jedoch ein valider Hinweis auf eine frische Infektion. Eine erhöhte Sicherheit bietet die kombinierte Bestimmung von IgM- und IgG-Antikörpern. Der Nachweis von IgM ist im Allgemeinen mit dem Ausbruch des Exanthems positiv, kann in den ersten Tagen jedoch auch negativ ausfallen. Vom dritten Tag bis etwa 4–6 Wochen nach Auftreten des Exanthems sind die IgM-Antikörper meist nachweisbar, so dass ein rückwirkender Nachweis einer Erkrankung möglich ist. IgG-Antikörper sind meist nicht vor dem 7. Tag nach dem Ausbruch des Exanthems festzustellen.[34][36][45]
+
+Der direkte Erregernachweis (Vermehrung von Virus-RNA mittels RT-PCR oder Virusanzucht in Zellkulturen) ist aufwändiger als der indirekte (Antikörpernachweis) und nur bei speziellen Fragestellungen sinnvoll. Er bietet aber den Vorteil, dass der Erreger genetisch typisiert werden kann, so dass Übertragungsketten der Infektion im Detail nachvollzogen werden können. Der Erregernachweis im Liquor kommt nur bei Verdacht auf eine Masern-Enzephalitis in Frage; aufgrund der Instabilität der Virus-RNA im Liquor schließt ein negativer PCR-Befund die Masernenzephalitis nicht aus. Bei Verdacht auf eine SSPE ist meist nicht der direkte Erregernachweis erfolgreich, sondern der Nachweis von Masern-IgM im Liquor.
+
+Neben der spezifischen Virusdiagnostik der Masern fallen bei Blutuntersuchungen (Labordiagnostik) eine Verminderung der weißen Blutkörperchen (Leukopenie), insbesondere der Lymphozyten (Lymphopenie) und der eosinophilen Granulozyten (Eosinopenie), sowie eine vorübergehende Verminderung der Blutplättchen (Thrombozytopenie) auf. Bei Infektionen des Gehirns findet man eine erhöhte Eiweißkonzentration sowie vermehrt Lymphozyten (lymphozytäre Pleozytose) im Hirnwasser (Liquor).
+Differenzialdiagnose
+
+Differenzialdiagnostisch kommen bei der klinischen Diagnose am ehesten Scharlach und Röteln in Betracht. Bei Scharlach beginnt der eher feinfleckige Ausschlag in der Leisten- oder Achselregion und steigt von dort zum Kopf auf, wo er das Mund-Kinn-Dreieck auslässt. Typisch ist auch die sogenannte Himbeerzunge und eine Pharyngitis (Rachenentzündung). Die Röteln zeigen meist ein nur mildes Krankheitsbild mit mäßigem Fieber und einem schwachen, nichtkonfluierenden Exanthem an Hals und Brust. Hier ist eine starke Schwellung der im Nacken gelegenen Lymphknoten typisch. Neben diesen Erkrankungen kommen auch ein Pfeiffer-Drüsenfieber, Toxoplasmose, Infektionen mit Mykoplasmen, das Kawasaki-Syndrom und Arzneimittelallergien in Frage. Durch den Nachweis spezifischer Antikörper lassen sich diese Krankheiten ausschließen.
+Meldepflicht
+
+In Deutschland sind durch das 2001 in Kraft getretene Infektionsschutzgesetz Krankheitsverdacht, Erkrankung und Tod ebenso wie der direkte oder indirekte Nachweis des Masernvirus meldepflichtig geworden (§6 IfSG). Leiter von Gemeinschaftseinrichtungen sind bei Kenntnis von Erkrankungsfällen zur Meldung an das Gesundheitsamt verpflichtet.[46] Bei Krankheitsverdacht oder Erkrankung besteht Tätigkeits- und Aufenthaltsverbot in Gemeinschaftseinrichtungen. In Österreich besteht Meldepflicht seit Dezember 2001 (BGBl. II Nr. 456/2001 Verordnung: Anzeigepflichtige übertragbare Krankheiten), in der Schweiz seit März 1999 (Melde-Verordnung, SR 818.141.1).
+Therapie
+
+Eine spezifische antivirale Therapie, die gegen das Masernvirus gerichtet ist, existiert nicht. In der akuten Krankheitsphase soll Bettruhe eingehalten werden. Als symptomatische Therapie können fiebersenkende Medikamente (Antipyretika) und Hustenmittel (Antitussiva) eingesetzt werden. Da der Körper bei Fieber einen erhöhten Flüssigkeitsbedarf hat, sollte unbedingt viel getrunken werden. Bakterielle Superinfektionen wie eine Mittelohr- (Otitis media) oder Lungenentzündung (Pneumonie) werden mit Antibiotika behandelt.
+
+Verschiedene Studien in Entwicklungsländern zeigten einen günstigen Effekt der Gabe von Vitamin A auf die Komplikationsrate und Sterblichkeit.[47] Der Mechanismus der Wirkung ist dabei unklar. Die WHO empfiehlt die Vitamin A-Gabe im Krankheitsfall in Regionen, in denen ein Vitamin-Mangel angenommen werden kann oder in denen die Sterblichkeitsrate über einem Prozent liegt. Untersuchungen über eine Vitamin-A-Therapie in westlichen Industrieländern existieren nicht. Die Empfehlungen des Robert-Koch-Institutes enthalten keine Vitamin-Gabe.[36][48]
+
+Das Virostatikum Ribavirin ist in vitro gegen das Masernvirus wirksam; Studien zur Anwendung beim Menschen fehlen, es liegen nur einzelne Fallberichte vor, in denen eine Ribaviringabe von Nutzen war.[48][49] Die Deutsche Gesellschaft für pädiatrische Infektiologie gibt an, dass bei Immunsupprimierten mit schwerem Krankheitsverlauf in Einzelfällen eine antivirale Therapie mit Ribavirin in Kombination mit Immunglobulinen erwägenswert sei.
+
+Gemeinschaftseinrichtungen dürfen während der Erkrankung nicht besucht werden (s. u.). Durch die passive oder aktive Impfung nach Exposition kann die Krankheit unter Umständen gemildert oder verhindert werden (Postexpositionsprophylaxe, s. u.).
+Vorbeugung
+Quarantäne
+
+Nach dem deutschen Infektionsschutzgesetz (IfSG) aus dem Jahr 2001 dürfen infizierte Kinder solange keine Gemeinschaftseinrichtungen besuchen, bis sie nach Abklingen der Erkrankung keine Viren mehr ausscheiden und keine weiteren Personen mehr infizieren können. Unter Gemeinschaftseinrichtungen werden dabei Institutionen verstanden, in denen überwiegend Säuglinge, Kinder oder Jugendliche betreut werden, wie Kinderkrippen, Kindergärten, Kindertagesstätten, Kinderhorte, Schulen oder sonstige Ausbildungseinrichtungen, außerdem Heime und Ferienlager. Dieselbe Regelung gilt auch für die Beschäftigten dieser Einrichtungen.[50] In anderen Ländern bestehen vergleichbare Regelungen. Sogenannte „Masernpartys“[51] – organisierte Treffen, bei denen nicht gegen Masern geimpfte Kinder sich bei Kindern, die akut an Masern erkrankt sind, anstecken sollen – sind strafrechtlich relevant.[52]
+Impfung
+→ Hauptartikel: MMR-Impfstoff
+Die Situation der weltweiten Masern-Impfraten (2010)
+
+Die Impfung gegen Masern wird als Masern-Mumps-Röteln-Impfung oder Masern-Mumps-Röteln-Windpocken-Impfung mit einem Kombinationsimpfstoff (MMR-Impfstoff oder MMRV-Impfstoff) durchgeführt. Es handelt sich dabei um eine Lebendimpfung mit einem abgeschwächten (attenuierten) Lebendimpfstoff, der nach einmaliger Impfung bei 95 % der Kinder einen ausreichenden Schutz gegen Masern bewirkt. Da bei einer Durchimpfungsrate von weniger als 95 % mit sporadischen Masernepidemien in mehrjährigen Abständen zu rechnen ist, müssen mit einer zweiten Impfung, frühestens vier Wochen nach der ersten, Impflücken geschlossen werden, um „Impfversagern“ den entsprechenden Impfschutz zu gewähren. Nach einer zweifachen MMR-Impfung entwickeln über 99 % eine lebenslange Immunität, die durch einen Titer-unabhängigen Nachweis von Masern-IgG festgestellt werden kann. Die MMR-Impfung kann mit weiteren Impfungen kombiniert werden.
+
+Gegenanzeigen zu einer Impfung sind akute Erkrankungen, HIV-positive und andere immungeschwächte Patienten (Kortikosteroid-Therapie, Leukämie), Schwangerschaft, sowie Allergien gegen Gelatine oder ein Abfall der Blutplättchen (Thrombozytopenie) in der Vergangenheit. Im Fall einer Erkrankung bei diesen Gegenanzeigen werden Immunglobuline als Postexpositionsprophylaxe verabreicht.[48]
+
+Nach dem Impfkalender der Ständigen Impfkommission am Robert-Koch-Institut ist die erste MMR-Impfung bei allen Kindern zwischen dem vollendeten 11. und 14. Lebensmonat, die zweite im Alter von 15 bis 23 Monaten vorgesehen. Seit dem Sommer 2006 ist außerdem ein Kombinationsimpfstoff zugelassen, der zusätzlich eine Windpockenkomponente enthält und damit den Impfplan weiter vereinfacht. Auch dieser Impfstoff wird zu denselben Zeiten zweimalig verabreicht.[53] Die Maserndurchimpfung zum Schuleintritt lag in Deutschland 2006 bei 94 % für die erste und 77 % für die zweite Impfdosis.[54]
+In Österreich werden zwei Teilimpfungen im zweiten Lebensjahr mit einem Mindestabstand von einem Monat empfohlen. Wiederholungen der Impfung werden bei Schuleintritt im siebten Lebensjahr und im 13. Lebensjahr vom öffentlichen Gesundheitsdienst kostenlos angeboten.[55] Die Rate der Masernimpfung in Österreich wurde für 2006 von der WHO auf 80 % für die Erst- und 61 % für die Zweitimpfung geschätzt.[54]
+Die Empfehlungen des Bundesamtes für Gesundheit und der Schweizerischen Kommission für Impffragen sehen zwei MMR-Impfungen im Alter von 12 und 15–24 Monaten vor.[56] Die WHO schätzt die Impfrate in der Schweiz für 2006 auf 86 % für die Erstimpfung und 70 % für die Zweitimpfung.[54]
+
+Steht bei einem Kind die Aufnahme in eine Kindereinrichtung an, kann die MMR-Impfung auch vor dem zwölften Lebensmonat, jedoch nicht vor dem neunten Lebensmonat erfolgen, da im ersten Lebensjahr im Blut des Säuglings noch vorhandene mütterliche Antikörper die Impfviren neutralisieren können. Auch wenn von Eltern oder Impflingen angegeben wird, dass eine Masern-, Mumps- oder Rötelnerkrankung bereits durchgemacht wurde, wird die Durchführung der MMR-Impfung empfohlen. Anamnestische Angaben über eine Masern- oder Rötelnerkrankung sind ohne mikrobiologisch-serologische Dokumentation der Erkrankungen unzuverlässig und nicht verwertbar. Eine serologische Untersuchung auf masernspezifische IgG-Antikörper vor der zweiten Impfung und der Verzicht auf dieselbe bei ausreichendem Titer ist möglich, alle aktuellen Impfempfehlungen sehen allerdings eine routinemäßige zweite Impfung ohne vorherige Diagnostik vor.
+
+Die Eliminierung der Masern ist ein erklärtes Ziel der deutschen Gesundheitspolitik. „Es ist dafür Sorge zu tragen, dass die zweite MMR-Impfung so früh wie möglich, spätestens jedoch bis zum vollendeten 18. Lebensjahr nachgeholt wird; bei Mädchen wird damit auch der unverzichtbare Schutz vor einer Rötelnembryopathie gesichert.“[53]
+
+Die Impfung schützt nicht nur den größten Teil der Geimpften, sondern durch die Herdenimmunität auch Neugeborene und Säuglinge vor der ersten Impfung, Impfversager und Immunsupprimierte, die nicht geimpft werden können. Die Impfung dient also nicht nur dem individuellen Schutz, sondern hat auch eine soziale Dimension. Im Jahr 2008 waren in Deutschland 95,9 Prozent der neu eingeschulten Kinder gegen Masern geimpft.[57]
+Impfreaktionen und -komplikationen
+Gegenüberstellung der Komplikationen von Erkrankung mit Masern und nach Impfung gegen Masern, Mumps und Röteln (MMR).[36][48][58][59] Symptom/Erkrankung 	Komplikationsrate
+bei Masern-Erkrankung 	Komplikationsrate
+nach MMR-Impfung
+Exanthem 	98 % 	5 %, abgeschwächt
+Fieber    	98 %, meist hoch 	3 % bis 5 %, sehr selten hoch
+Fieberkrämpfe 	7 bis 8 % 	≤ 1 %
+Abfall der Blutplättchen 	1/3000 	1/30.000 bis 1/50.000
+Enzephalitis 	1/1000 bis 1/10.000 	< 1/1.000.000 (unsicher)
+Letalität 	1/1000 bis 1/20.000 	0
+
+Fieber, Abgeschlagenheit, Kopfschmerzen und lokale Impfreaktionen wie Rötung, Schmerzen und Schwellungen an der Injektionsstelle können wie bei allen Impfungen vorkommen und stellen harmlose Nebenwirkungen dar. Schwerwiegendere Impfkomplikationen wie ausgeprägte allergische Reaktionen sind sehr selten. Bei der Durchführung der Impfung sollte jedoch Personal und Ausrüstung vorhanden sein, um auch eine solche Anaphylaxie behandeln zu können. Das Auftreten einer Gehirnentzündung (Enzephalitis), oder Thrombozytopenie (Abfall der Blutplättchenzahl) ist extrem selten, der Zusammenhang der beobachteten Fälle mit der Impfung wird zudem kontrovers diskutiert.[48] Das Risiko des Auftretens von Fieberkrämpfen ist nach der Impfung leicht erhöht, jedoch ohne langfristige Schädigungen.[60]
+
+Da es sich bei der Masernimpfung um eine Impfung mit einem abgeschwächten Lebendimpfstoff handelt, können in 3–5 % der Fälle so genannte Impfmasern auftreten. Diese stellen eine milde Form der Masern dar und können die typischen Symptome zeigen, diese treten meistens in abgeschwächter Form auf. Die Impfmasern sind nicht infektiös.[36]
+
+Weitere mögliche Nebenwirkungen wurden immer wieder kontrovers diskutiert. Nach dem heutigen Kenntnisstand löst die MMR-Impfung keine Erkrankungen wie Allergien, Asthma, Diabetes mellitus oder Morbus Crohn aus. 1998 postulierte der ehemalige[61] britische Chirurg Andrew Wakefield einen Zusammenhang zwischen der MMR-Impfung und dem Auftreten von Autismus. Es stellte sich jedoch heraus, dass Wakefield von Angehörigen Autismus-Betroffener Geld erhalten hatte und die Veröffentlichung gilt als methodisch mangelhaft. Siehe auch "Der Fall Wakefield".
+
+Dem postulierten Zusammenhang ist in der Zwischenzeit in einer Vielzahl von Studien als sehr unwahrscheinlich widersprochen worden.[62][63][64]
+
+Obwohl die Impfung gegen Masern als notwendig und sicher angesehen wird, wird in verschiedenen Publikationen kritisiert, dass die Studien zur Untersuchung der Nebenwirkungen der MMR-Impfung nicht ausführlich genug und bezüglich des Studiendesigns teilweise inadäquat seien.[62]
+Postexpositionsprophylaxe
+
+Bei abwehrgeschwächten Patienten kann der Ausbruch durch eine passive Immunisierung mit humanem Immunglobulin innerhalb von drei Tagen eventuell verhindert oder abgeschwächt werden (mitigierter Verlauf). Bei immungesunden ungeimpften oder nur einmal geimpften Kontaktpersonen ohne Antikörpernachweis (seronegativ) ist innerhalb desselben Zeitraumes die aktive Immunisierung wie oben beschrieben angezeigt. Durch diese sogenannte Riegelungsimpfung soll das weitere Ausbreiten im Epidemiefall verhindert werden.[36]
+Masern und Schwangerschaft
+
+Der Kenntnisstand über mögliche Schäden einer Maserninfektion während einer Schwangerschaft ist nur unzureichend. Möglicherweise erhöht die Erkrankung die Rate der Komplikationen bei der Mutter, ein fruchtschädigender Einfluss der Masern kann im Moment weder bewiesen noch ausgeschlossen werden, wird jedoch im Falle des Bestehens für sehr klein gehalten. Ein typisches Fehlbildungsmuster wie bei den Röteln besteht nicht. Es kann zu einer Frühgeburt oder einem Spontanabort kommen. Eine Erkrankung während der Geburt muss nicht notwendigerweise eine Infektion des Neugeborenen verursachen. Solche perinatal (in der Geburtsphase) erworbene Masern gehen beim Kind jedoch mit erhöhten Komplikationsraten einher.[34]
+
+Schwangere, die an Masern erkrankt sind, sollten medizinisch beobachtet werden, eine invasive pränatale Diagnostik ist nicht empfohlen. Die Behandlung erfolgt symptomorientiert. Unter Umständen kann eine Immunglobulin-Gabe indiziert sein (s. o.).
+
+Die MMR-Impfung wird mit einem Lebendimpfstoff durchgeführt und ist deshalb in der Schwangerschaft nicht angezeigt (kontraindiziert). Drei Monate nach einer Impfung sollte ein Konzeptionsschutz erfolgen. Eine versehentliche Impfung mit MMR in einer Schwangerschaft stellt jedoch keinen Grund zum Schwangerschaftsabbruch dar.[65]
+Geschichte
+
+Erste Berichte über die Masern gehen auf das 7. Jahrhundert zurück und werden dem jüdischen Arzt Al-Yehudi zugeschrieben. Die erste bekannte ausführliche Beschreibung der Masern erfolgte durch den persischen Arzt Abu Bakr Mohammad Ibn Zakariya al-Razi (Rhazes), der Anfang des 10. Jahrhunderts angab, sie wären „mehr gefürchtet als die Pocken“.[35]
+
+Im Mittelalter forderten die Masern aufgrund ausgedehnter Epidemien viele Todesopfer. Nach der Entdeckung Amerikas starb ein großer Teil der einheimischen Bevölkerung an den aus Europa importierten Krankheiten wie Masern, Pocken, Keuchhusten und Typhus. Der Grund dafür war, dass die einheimischen Populationen keinerlei Immunität gegen diese Erreger aufwiesen.[66] So kam es in Santo Domingo (1519), Guatemala (1523) und Mexiko (1531) zu verheerenden Masernepidemien. Im Jahre 1529 kam es zu einer sich über Honduras und Mittelamerika ausbreitenden Masernepidemie, die zwei Drittel der Überlebenden der zuvor ausgebrochenen Pockenepidemie das Leben kostete.[67]
+
+Das Phänomen, dass das Masernvirus dann eine hohe Letalität zeigt, wenn es auf eine zuvor unberührte, nicht-immune Bevölkerung trifft, findet sich mehrfach auch im 19. Jahrhundert. So starben 40.000 der 148.000 Einwohner von Hawaii im Jahre 1848 und etwa ein Viertel der Bevölkerung der Fidschi-Inseln 1874.[68]
+Thomas Sydenham
+
+Der dänische Arzt Peter Panum stellte 1846 auf den Färöer-Inseln fest, dass, nachdem 65 Jahre seit 1781 keine Masernerkrankung mehr aufgetreten war, 6.100 der 7.864 Einwohner von einer Masernepidemie befallen waren. 99,5 % jener Personen, die während des letzten Ausbruchs 1781 noch nicht geboren waren, waren an Masern erkrankt. Alle 98 bereits 1781 lebenden Einwohner waren immun, so dass die lebenslange Immunität erstmals verifiziert wurde.[69]
+
+Im 17. Jahrhundert war es das Verdienst Thomas Sydenhams, während einer großen Epidemie in London die Masern als eigenständige Krankheit vom Scharlach und anderen fieberhaften ansteckenden Krankheiten abzugrenzen.[70] 1882 veröffentlichte der französische Arzt Antoine Louis Gustave Béclère seine Aufsehen erregende Arbeit „Die Ansteckung mit Masern“. Er und weitere französische Kliniker erreichten, dass die Masern im 19. Jahrhundert endgültig als eigenständige Krankheitseinheit gegenüber den anderen Erkrankungen mit Hautausschlägen wie den Röteln abgegrenzt wurden.
+
+1911 gelang es erstmals, Affen mit Masern zu infizieren. 1954 wurde das Virus von Enders und Peebles erstmalig isoliert.[71] Dies führte 1958 zur Entwicklung des ersten Impfstoffes, der ab 1963 allgemein erhältlich war.
+Belege
+Literatur
+
+    Masern. RKI-Ratgeber Infektionskrankheiten – Merkblätter für Ärzte. Robert-Koch-Institut. Stand 09/2010.
+    Measles. In: Epidemiology & Prevention of Vaccine-Preventable Diseases – “The Pink Book”, 9th Edition, Public Health Foundation, S. 129–148 – pdf-Datei (englisch), 522 kB
+    M. Dietel, N. Suttorp, M. Zeitz, T. R. Harrison: Harrisons Innere Medizin. Abw Wissenschaftsverlag; 16. Auflage 2005, ISBN 3-936072-29-9.
+    W. Köhler et al.: Medizinische Mikrobiologie. Urban & Fischer-Verlag München/Jena 2001, 8. Auflage, ISBN 3-437-41640-5.
+    W. Moss, D. Griffin: Measles. In: The Lancet. 2011, doi:10.1016/S0140-6736(10)62352-5.
+
+Einzelnachweise
+
+    WHO: Global summary on measles, 2006
+    Eine Übersicht bietet Measles History, Website des Center for Disease Control and Prevention (CDC), englisch. Archiv-Version
+    Moss WJ :Measles Still Has a Devastating Impact in Unvaccinated Populations PLoS Medicine Vol. 4, No. 1. PMID 17199409
+    WHO-UNICEF joint statement on strategies to reduce measles mortality worldwide. Weekly epidemiological record 27, 77:221–228 (2002) PMID 12125242 PDF, 158 kB
+    Muller CP, Kremer JR, Best JM, Dourado I, Triki H, Reef S; WHO Steering Committee for Measles and Rubella.: Reducing global disease burden of measles and rubella: report of the WHO Steering Committee on research related to measles and rubella vaccines and vaccination, 2005. Vaccine. 2007 Jan 2;25(1):1-9. PMID 17262908
+    Barinaga Jorge, Skolnik Paul: Epidemiology and transmission of measles. Review, UpToDate v15.1, 2007
+    Artikel in der ÄrzteZeitung vom 24. April 2012
+    Medical News Today: CDC Urges Travelers To Israel To Protect Themselves From Measles vom 15. April 2008
+    Measles Outbreak 2009 National Institute for Communicable Diseases, 21. Dezember 2011. Abgerufen am 4. Oktober 2012.
+    Über 100 Tote. Schwerer Masernausbruch in Pakistan Ärztezeitung vom 25. Januar 2013
+    Robert-Koch-Institut: Epidemiologisches Bulletin 05/2003 PDF, 98 KB
+    Masernvirus breitet sich weiter in der Europäischen Region aus: WHO fordert Mitgliedstaaten zur Intensivierung ihrer Gegenmaßnahmen auf, WHO-Pressemitteilung vom 25. Oktober 2011.
+    Robert-Koch-Institut: SurvStat (abgerufen 01/2012 und 06/2013)
+    Masern: Situationsbericht 2005, Ausbrüche in Baden-Württemberg und Nordrhein-Westfalen im 1. Halbjahr 2006. Epidemiologisches Bulletin 27 / 2006 des RKI, 7. Juli 2006, PDF, 140 kB
+    Stefan Handel: Masern-Epidemie in München In: Süddeutsche Zeitung. 5. Juni 2013, S. R1 (München-Ausgabe).
+    Aktuelle Epidemiologie und Impfquoten – Wer erkrankt in Deutschland an Masern?
+    Bundesamt für Gesundheit, Abteilung Epidemiologie und Infektionskrankheiten: Sentinellameldungen Juni 1986–April 2003: Masern. Bulletin 23, Juni 2003, PDF, 50 kB
+    Bundesamt für Gesundheit: Masern
+    Tages-Anzeiger: Masern weiter auf dem Vormarsch vom 25. März 2008
+    Masernepidemie in Waadtländer Schulhaus: 40 Teenager krank in: Berner Zeitung vom 11. Februar 2009
+    Medienmitteilung der Schule (PDF; 78 kB) vom 16. Januar 2011
+    Centers for Disease Control and Prevention (CDC): Measles outbreak – Netherlands, April 1999 – January 2000. MMWR Morb Mortal Wkly Rep. 2000 Apr 14;49(14):299-303. PMID 10825086
+    Centers for Disease Control and Prevention (CDC): Measles Epidemic Attributed to Inadequate Vaccination Coverage – Campania, Italy, 2002, MMWR Morb Mortal Wkly Rep. 2003 Oct 31;52(43):1044-7. PMID 14586297
+    De Quadros CA, Izurieta H, Carrasco P, Brana M, Tambini G: Progress toward measles eradication in the region of the Americas. J Infect Dis. 2003 May 15;187 Suppl 1:S102-10. PMID 12721900
+    de Quadros CA.: Can measles be eradicated globally? Bull World Health Organ. 2004 Feb;82(2):134-8. PMID 15042236
+    Atkinson WL, Orenstein WA, Krugman S.: The resurgence of measles in the United States, 1989–1990. Annu Rev Med. 1992;43:451-63 PMID 1580601
+    Yanagi Y, Takeda M, Ohno S, Seki F: Measles virus receptors and tropism. Jpn J Infect Dis. 2006 Feb;59(1):1-5. PMID 16495625
+    WHO: Nomenclature for describing the genetic characteristics of wild-type measles viruses (update). WER 2001; 32: 242–247 and 33: 249–251 PMID 11515240 PDF, 137 kB
+    Bellini WJ, Rota PA.: Genetic diversity of wild-type measles viruses: implications for global measles elimination programs. Emerg Infect Dis. 1998 4(1):29-35. PMID 9452396
+    Robert-Koch-Institut: Epidemiologisches Bulletin 37/2007, PDF (985kb)
+    Köhler et al.: Medizinische Mikrobiologie, S. 641-644.
+    Cherry JD: Textbook of pediatric infectious diseases, 5. Auflage, Philadelphia (WB. Saunders) 2004, S. 2292–2293
+    Harrisons Innere Medizin (2005), S. 1232–1235.
+    Barinaga Jorge, Skolnik Paul: Clinical presentation and diagnosis of measles. Review, UpToDate v15.1, 2007
+    Measles. In: Epidemiology & Prevention of Vaccine-Preventable Diseases – „The Pink Book“, 9te Edition, Public Health Foundation, S. 131-144 PDF, 830 kB
+    Masern. RKI-Ratgeber Infektionskrankheiten – Merkblätter für Ärzte. Robert-Koch-Institut. Stand 09/2010
+    Website des CDC: Overview of Measles Disease
+    Masern-Factsheet auf der Webseite der European Centres for Disease Prevention and Control, abgerufen am 16. April 2012
+    Freeman AF et al.: A new complication of stem cell transplantation: measles inclusion body encephalitis. Pediatrics. 2004 114(5):e657-60. PMID 15520095. ISSN 0031-4005 PDF, 157 kB
+    Bitnun A et al.: Measles inclusion-body encephalitis caused by the vaccine strain of measles virus. Clin Infect Dis. 1999 29(4):855-61. PMID 10589903. ISSN 1058-4838
+    Hotta H, Jiang DP, Nagano-Fujii M: SSPE virus and pathogenesis. Nippon Rinsho. 2007 Aug;65(8):1475–80. PMID 17695286
+    Bellini WJ et al.: Subacute sclerosing panencephalitis: more cases of this fatal disease are prevented by measles immunization than was previously recognized. J Infect Dis. 2005 192(10):1686–93. PMID 16235165
+    Ferson MJ, Young LC, Robertson PW, Whybin LR.: Difficulties in clinical diagnosis of measles: proposal for modified clinical case definition. Med J Aust. 1995 Oct 2;163(7):364-6. PMID 7565261
+    Oliveira SA et al.: Assessment of the performance of a definition of a suspected measles case: implications for measles surveillance. Rev Panam Salud Publica. 2006 Apr;19(4):229-35. PMID 16723063
+    Bellini, WJ, Helfand, RF: The challenges and strategies for laboratory diagnosis of measles in an international setting. J Infect Dis 2003; 187 Suppl 1:S283 PMID 12721927
+    Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen. § 6: Meldepflichtige Krankheiten, online
+    Huiming Y, Chaomin W, Meng M: Vitamin A for treating measles in children. Cochrane Database Syst Rev. 2005 Oct 19;(4):CD001479. PMID 16235283
+    Bekhor David, Barinaga Jorge, Skolnik Paul: Prevention and treatment of measles. Review, UpToDate v15.1, 2007
+    Forni, AL, Schluger, NW, Roberts, RB. Severe measles pneumonitis in adults: Evaluation of clinical characteristics and therapy with intravenous ribavirin. Clin Infect Dis 1994; 19:454. PMID 7811865
+    Gesetz zur Verhütung und Bekämpfung von Infektionskrankheiten beim Menschen. § 34, online
+    Dillner L: The return of the measles party. In: Guardian, 26. Juli 2001. Abgerufen am 13. August 2007. 
+    Nicole Schaenzler, Brigitte Strasser-Vogel: 300 Fragen zum Impfen. 1.Auflage. Graefe und Unzer Verlag, München 2008, S.149. ISBN 978-3-8338-1145-6.
+    Impfempfehlungen der Ständigen Impfkommission (STIKO), Robert-Koch-Institut, Berlin 2006, PDF, 164 kB
+    WHO: Reported estimates of MCV coverage
+    Österreichischer Impfplan 2006
+    Prävention von Masern, Mumps und Röteln. Empfehlungen des Bundesamtes für Gesundheit (BAG) und der Schweizerischen Kommission für Impffragen (SKIF), PDF, 232 kB
+    EpidemiologischesBulletin Nr. 16/2010 RKI, 26. April 2010.
+    C. Meyer, S. Reiter: Impfgegner und Impfskeptiker – Geschichte, Hintergründe, Thesen, Umgang. In: Bundesgesundheitsbl - Gesundheitsforsch - Gesundheitsschutz, Springer Medizin Verlag. 47, 2004, S. 1182–1188. doi:10.1007/s00103-004-0953-x. Abgerufen am 1. Juni 2012.
+    Chen RT: Vaccine risks: real perceived and unknown. Vaccine 17/1999. S. 41–46 PMID 10559533
+    Vestergaard M et al.: MMR vaccination and febrile seizures: evaluation of susceptible subgroups and long-term prognosis. JAMA. 2004 Jul 21;292(3):351-7. 15265850 PMID 15265850
+    [1] MMR row doctor Andrew Wakefield struck off register The Guardian, 24. Mai 2010. Abgerufen am 24. Mai 2013
+    Demicheli V, Jefferson T, Rivetti A, Price D: Vaccines for measles, mumps and rubella in children. Cochrane Database Syst Rev. 2005 Oct 19;(4):CD004407. Review. PMID 16235361
+    Madsen KM, Hviid A, Vestergaard M, Schendel D, Wohlfahrt J, Thorsen P, Olsen J, Melbye M: A population-based study of measles, mumps, and rubella vaccination and autism. N Engl J Med. 2002 Nov 7;347(19):1477–82. PMID 12421889
+    T Jefferson: Unintended events following immunization with MMR: a systematic review. Vaccine. 2003 Sep 8;21(25-26), S. 3954-60 PMID 12922131
+    Online-Informationen des Robert-Koch-Instituts
+    Bianchine PJ, Russo TA.: The role of epidemic infectious diseases in the discovery of America. Allergy Proc. 1992 Sep-Oct;13(5):225-32. PMID 1483570
+    Roy Porter: Die Kunst des Heilens: Eine medizinische Geschichte der Menschheit. Heidelberg, Berlin (Spektrum) 2003 (ISBN 3-8274-1454-7) S. 166
+    ebd. S. 24
+    Peter L. Panum: Observations Made During the Epidemic of Measles on the Faroe Islands in the Year 1846 American Public Health Association, New York 1940;(ders. Beobachtungen über das Maserncontagium, in: Archiv für Pathologische Anatomie und Physiologie und für Klinische Medizin, Berlin, Bd. 1, 1847, S. 492-512
+    J.-Ch. Sournia, J. Poulet, M: Martiny (Hrsg.): Illustrierte Geschichte der Medizin. Directmedia, Berlin 2004
+    Enders JF, Peebles TC.: Propagation in tissue cultures of cytopathogenic agents from patients with measles. Proc Soc Exp Biol Med. 2:277-86. (1954) PMID 13177653
+
+Weblinks
+ Commons: Masern – Sammlung von Bildern, Videos und Audiodateien
+ Wiktionary: Masern – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+
+    Masern – Informationen des Robert-Koch-Instituts
+    Die Arbeitsgemeinschaft Masern (AGM) ist ein bundesweites Masern-Sentinel-System.
+    Weiterführende Informationen der WHO (englisch)
+
+Gesundheitshinweis 	Bitte den Hinweis zu Gesundheitsthemen beachten!
+Von „http://de.wikipedia.org/w/index.php?title=Masern&oldid=127888146“
+Kategorien:
+
+    Wikipedia:Exzellent
+    Virale Infektionskrankheit des Menschen
+    Meldepflichtige Krankheit
+    Krankheitsbild in der Kinderheilkunde
+
+    Diese Seite wurde zuletzt am 24. Februar 2014 um 11:26 Uhr geändert.
+    Abrufstatistik
+
+    Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+    Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+

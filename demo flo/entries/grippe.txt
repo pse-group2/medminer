@@ -1,0 +1,276 @@
+Influenza
+
+Die Influenza, auch „echte“ Grippe oder Virusgrippe genannt, ist eine durch Viren aus den Gattungen Influenzavirus A oder B ausgelöste Infektionskrankheit bei Menschen.
+
+Alltagssprachlich wird die Bezeichnung Grippe häufig auch für grippale Infekte verwendet, bei denen es sich um verschiedene andere, in der Regel deutlich harmloser verlaufende Virusinfektionen handelt.
+
+Inhaltsverzeichnis
+
+    1 Vorkommen
+    2 Übertragung
+    3 Krankheitsverlauf/Symptome
+    4 Komplikationen
+    5 Diagnostik
+    6 Therapie
+        6.1 Antivirale Therapie
+            6.1.1 M2-Membranproteinhemmer
+            6.1.2 Neuraminidase-Hemmer
+        6.2 Symptomatische Therapie
+    7 Vorbeugung
+        7.1 Grippeimpfung
+        7.2 Hygiene
+        7.3 Vitamin D
+    8 Historisches
+    9 Epidemien/Pandemien
+    10 Statistik
+        10.1 Erkrankungen
+        10.2 Todesfälle
+            10.2.1 Erhebungen
+            10.2.2 Berechnungen
+            10.2.3 Forschung
+    11 Literatur
+    12 Siehe auch
+    13 Weblinks
+    14 Einzelnachweise
+
+Vorkommen
+
+Die Influenzaviren und die durch sie ausgelösten Erkrankungen existieren weltweit, allerdings kommen im Gegensatz zu den anderen Virustypen (insbesondere A) die Influenza-C-Viren nur sehr selten als Erreger der Virusgrippe vor. Jährlich sind nach Schätzungen der World Health Organization (WHO) 10 bis 20 % der Weltbevölkerung betroffen. Die Influenzaviren gehören zur Gruppe der Orthomyxoviridae.
+
+Die Arbeitsgemeinschaft Influenza veröffentlicht unter der Federführung des Robert-Koch-Instituts jährlich einen Saison-Abschlussbericht, in dem die jeweiligen statistischen Jahresdaten des Verlaufes der Erkrankung in Deutschland festgehalten sind.[1]
+Übertragung
+
+Das Virus dringt über die Schleimhaut der Atemwege, des Munds und der Augen in den Körper ein. Es erreicht diese Eintrittsorte
+
+    durch Tröpfcheninfektion, also über den Kontakt der Schleimhaut mit Exspirationströpfchen, die beim Niesen, Husten, Sprechen oder Atmen von infizierten Personen entstehen. Die größeren infektiösen Tröpfchen sinken innerhalb von etwa zwei Metern nach unten und verkleben besonders fest an rauhen Oberflächen. Wenn die Exspirationströpfchen jedoch bereits in der Luft trocknen, können die darin enthaltenen sehr kleinen Viren von ca. 0,1 µm Durchmesser als Aerosol[2] (auch Tröpfchenkerne oder airborne genannt) über weite Strecken in der Luft schweben und stundenlang infektiös bleiben.[3] Trockene Raumluft in geheizten Räumen begünstigt diese Aerosolbildung und kann ein Grund für das Auftreten von Grippewellen im Winter sein.[4]
+
+    Infizierte Personen können durch Tragen von Atemmasken den Tröpfchenausstoß stark vermindern, da die frischen Tröpfchen direkt vor deren Mund gut im Filtermaterial kleben bleiben. Gegen eine Infektion über das Aerosol kann man sich durch eine Gegenluftströmung schützen. Einfache Atemmasken über Mund und Nase halten die als Aerosol übertragenen Viren teilweise zurück, aber nicht zuverlässig, weil die Filtermaterialien Viren nicht vollständig zurückhalten können, die Masken nicht dicht genug anliegen und die Augen überhaupt nicht abdecken. Lüften kann das Infektionsrisiko durch Verdünnen der Aerosolkonzentration im Raum verringern, wenn dabei das Aerosol nicht in andere Wohnräume des Gebäudes gelangt.
+
+    über Kontaktinfektion oder Schmierinfektion mit Viren, die in Exspirationströpfchen oder durch verschmiertes Nasensekret oder Berührung von Infizierten auf Gegenstände gelangen und dort innerhalb von zwei Tagen besonders leicht von glatten Oberflächen über die Hände auf die eigenen Schleimhäute übertragen werden.
+    durch Kotpartikel erkrankter Wirte und Vektoren
+    durch Viren auf Hautschuppen, Haaren, Gefieder und Staub
+
+Das Virus ist unempfindlich gegen Austrocknung und bleibt bei niedriger Temperatur und niedriger Luftfeuchtigkeit länger infektiös.
+Temperatur 	Luftfeuchtigkeit 	Umgebung 	Zeit 	Quelle
+(°C) 	(%rF) 		aktiv 	kontakt-infektiös 	
+<0 		im Eis 	unbegrenzt 		[5]
+0 			>30 d 		[5]
+? 		glatte Oberflächen wie Edelstahl oder Plastik 	24–48 h 	<24 h 	[6]
+? 		Textilien, Papier, Papiertaschentücher 	8–12 h 	<15 min 	[6]
+? 		Geldscheine 	1–17 d 		[7]
+20 	  	auf Oberflächen an Luft 	2–8 h 	  	[5]
+21 		als Aerosol in Luft 	t½ in min 	  	[3]
+20 	>60
+40 	56
+70 	28
+22 	  	im Wasser 	>4 d 	  	[5]
+34 	  	auf Händen 	  	<5 min 	[6]
+56 	  	  	<3 h 	  	[5]
+60 	  	  	<30 min 	  	[5]
+>70 	  	  	wenige Sekunden 	  	[5]
+
+t½ = Halbwertszeit
+
+Die Latenzzeit, also die Dauer, nach der ein infizierter Mensch selbst Viren absondert und damit andere Menschen infizieren kann, beträgt je nach Untersuchung, Methode oder Virus-Subtyp 1,2 bis 4 Tage.[8]
+Krankheitsverlauf/Symptome
+
+Symptome treten nach einer Inkubationszeit von wenigen Stunden bis Tagen auf, jedoch können die Viren bereits zwei Tage vor dem Auftreten der ersten Symptome auf andere übertragen werden. Da die Krankheitsanzeichen relativ unspezifisch sind, können sie mit vielen anderen akuten Atemwegserkrankungen verwechselt werden. Charakteristisch ist allenfalls der oft sehr plötzliche Beginn des Vollbilds der Erkrankung. In der Regel dauern die Symptome 7 bis 14 Tage an. Es können jedoch ein allgemeines Schwächegefühl und Appetitlosigkeit noch einige Wochen darüber hinaus auftreten.
+Symptoms of swine flu-numbered.svg
+
+Die wichtigsten Symptome sind: (die Ziffern in Klammern beziehen sich auf die Abbildung rechts)
+
+    plötzlicher Krankheitsbeginn
+    ausgeprägtes Krankheitsgefühl im ganzen Körper (1)
+    hohes Fieber bis 40 Grad Celsius (1)
+    Schüttelfrost (1)
+    Kopfschmerzen und Müdigkeit (2)
+    Gliederschmerzen
+    Augentränen
+    trockener Husten (4)
+    trockene Kehle (3)
+    angeschwollene Nasenschleimhaut (3)
+    Appetitlosigkeit, Übelkeit und Erbrechen (5), Durchfall (6)
+
+Eine Tabelle zur Differenzierung zwischen Erkältung und echter Grippe findet sich unter Erkältung.
+Komplikationen
+
+Das Gefährliche an der Influenza sind oftmals nicht die Viren selbst, sondern die bakterielle Sekundärinfektion, die auf eine Grippeerkrankung folgt. Da der Organismus aufgrund der Bekämpfung der Influenza-Viren bereits geschwächt ist, können Bakterien leichter in den Körper eindringen, sich vermehren und dort zu weiteren Krankheiten führen.
+
+Als Komplikationen kommen Gehirnentzündungen (Enzephalitiden) und Entzündungen der Skelettmuskulatur (Myositis) sowie Herzmuskelentzündungen (Myokarditiden) in Betracht, ferner kommen Superinfektionen der Atemwege durch Bakterien vor. Diese Komplikationen können zwar in jedem Lebensalter auftreten, doch treten sie in erster Linie bei Menschen mit schwerwiegenden Grunderkrankungen wie chronischen Herz-Lungen-Erkrankungen, Stoffwechselerkrankungen, Immundefekten und anderen in Erscheinung. Da unter diesen Bedingungen eine vorbeugende Impfung oft nicht angezeigt ist, bedeutet ein deshalb nicht vorhandener Impfschutz einen weiteren Risikofaktor.
+
+In ihrer schwersten Verlaufsform führt eine Influenza bei vorerkrankten, immungeschwächten oder ohne jeden Impfschutz versehenen Jugendlichen und jüngeren Erwachsenen zu einer primären grippebedingten Lungenentzündung (Influenzapneumonie) oder auch innerhalb weniger Stunden (perakut) zum Tod.
+Diagnostik
+
+Die Diagnostik erfolgt meistens aus einem Nasenabstrich aus der hinteren Nasenhöhle oder aus dem klassischen tiefen Rachenabstrich. Andere Untersuchungsflüssigkeiten sind Trachealsekret, die Bronchoalveoläre Lavage (BAL), Nasenspülflüssigkeit, Rachenspülflüssigkeit oder das Blut.
+
+    Direkter Erregernachweis in der Elektronenmikroskopie oder Zellkultur
+    Influenzaantikörper im Blut (erst ab der zweiten Krankheitswoche bedingt aussagekräftig)
+    Labor: Die Blutsenkungsgeschwindigkeit ist erhöht, Leukozyten variabel
+    Influenza-PCR (wichtigste Methode)
+    Influenza-Schnelltest: Dieser Test liefert innerhalb von 15 Minuten ein Ergebnis. Es handelt sich hierbei um ein Verfahren, in dem Proteine des Virus mittels farblich markierter Antikörper auf einem Teststreifen sichtbar gemacht werden.
+
+Therapie
+
+Um eine Infektion mit Influenzaviren zu behandeln, stehen eine Reihe spezifischer, antiviraler Medikamente zur Verfügung. Diese können bei rechtzeitiger Einnahme die Erkrankung abkürzen und lebensgefährliche Komplikationen bei gefährdeten Patientengruppen verhindern. Alle antiviralen Medikamente sind verschreibungspflichtig, da sie unter anderem bei nicht gefährdeten Patienten nicht angewandt werden sollten, um eine Resistenzentwicklung von Virusstämmen zu vermeiden. Auch sind der Zeitpunkt der Einnahme und bestimmte wichtige Kontraindikationen zu beachten. Von einer Selbstmedikation ist abzuraten.
+Neben der spezifischen Therapie einer Influenza werden meist auch nur symptomatisch die Beschwerden der Patienten behandelt. Diese symptomatische Therapie soll die Entstehung oder das Fortschreiten von Komplikationen verhindern und die meist unangenehmen Symptome wie Fieber, Schüttelfrost, Behinderung der Atemwege oder Labilität des Herz-Kreislaufsystems lindern. Sie haben auf die Vermehrung, Elimination oder Übertragung des Virus keinen Einfluss.
+Antivirale Therapie
+
+Zur Influenza-Therapie beim Menschen sind Medikamente aus zwei Substanzklassen zugelassen: Den Hemmern eines viralen Membranproteins (M2), das als Protonenpumpe dem Schutz des viralen Hämagglutinins vor niedrigen zellulären pH-Werten dient und den erst vor wenigen Jahren entwickelten Neuraminidase-Hemmern, die die Aktivität des viralen Oberflächenenzyms Neuraminidase hemmen und damit die Loslösung des Virus bei der Freisetzung aus der Zelle blockieren. Die Viren können somit keine weiteren Zellen infizieren.
+
+Da beide antiviralen Substanzklassen nur in die Vermehrung der Viren eingreifen, können bereits im Körper befindliche Viren durch sie nicht inaktiviert oder an der Infektion weiterer Zellen gehindert werden. Dies hat zur Folge, dass der Erfolg einer antiviralen Therapie in erster Linie von der rechtzeitigen Einnahme abhängt. Liegt der Zeitpunkt des Auftretens der ersten Krankheitsanzeichen (Symptome) mutmaßlich länger als 48 Stunden zurück, ist die Beeinflussung des Krankheitsverlaufes durch diese Wirkstoffe nur noch minimal und daher wird die Einnahme dann nicht mehr empfohlen.
+
+Bereits im Jahr 2009 waren resistente Virenstämme in Umlauf.[9] Saisonale Influenza-A/H1N1 ist zu 96 % gegen Oseltamivir, 0 % gegen Zanamivir und 2 % gegen Amantadin resistent. Die pandemische Influenza-A/H1N1 hatte bisher nur in lokalen Einzelfällen die für die Resistenz gegen Oseltamivir verantwortliche Mutation H275Y[10]. Die Influenza-A/H3N2 hat eine fast 100-prozentige Resistenz gegen Amantadin, während Oseltamivir und Zanamivir noch wirksam sind. Influenza-B ist bisher gegen keinen der Stoffe resistent.
+M2-Membranproteinhemmer
+
+Die zwei M2-Membranproteinhemmer (kurz M2-Hemmer) sind das Amantadin (In Deutschland nur Generika mit Zulassung: z. B. „AL“®, „Hexal“, „Neuraxpharm“, Original: PK-Merz® (ohne Zulassung)) und das nur auf der Basis einer Zivilschutzausnahmeverordnung zum Arzneimittelgesetz von 2003 bedingt zugelassene Rimantadin (Handelsname Flumandine®). Die als Filmtablette einzunehmenden M2-Hemmer sind meist schlechter verträglich als die Neuraminidase-Hemmer, weshalb sie auch nicht mehr das Medikament der ersten Wahl darstellen. Influenzaviren entwickeln gegen Amantadin sehr schnell Resistenzen, die als neue infektiöse und resistente Viren weitergegeben werden können.[11] Die M2-Hemmer haben besonders im Zusammenhang mit der Prophylaxe und Behandlung während einer möglichen Influenza-Pandemie eine gewisse Bedeutung.
+Neuraminidase-Hemmer
+
+Der Neuraminidase-Hemmer Oseltamivir (Handelsname Tamiflu®) wird als Suspension oder Kapsel oral angewendet und ist zur Therapie und Prophylaxe ab dem ersten Lebensjahr zugelassen. Außerhalb einer besonderen Pandemie-Situation kann die Prophylaxe bei gefährdeten Personen mit Oseltamivir durchgeführt werden, wenn kein Impfschutz bei gleichzeitiger Möglichkeit einer Ansteckung vorliegt. Dies gilt auch für gefährdete Personen, die eine Impfung gegen Influenza (z. B. aufgrund einer Allergie gegen Hühnereiweiß) nicht vertragen. Das Zanamivir (Handelsname Relenza®) als weiterer Neuraminidase-Hemmer steht nur als Pulver zur Inhalation zur Verfügung. Es kann ab dem fünften Lebensjahr zur rechtzeitigen Therapie verwendet werden.
+Symptomatische Therapie
+
+Einer durch die Influenza begünstigten zusätzlichen Infektion mit Bakterien in Form einer eitrigen Halsentzündung, akuten Bronchitis, Lungenentzündung oder Meningitis kann durch eine möglichst spezifische Antibiotika-Therapie begegnet werden. Bei manchen Influenzainfektionen mit längerem Erkrankungsverlauf steht bei bereits überwundener Virusinfektion meist nur noch der bakterielle Infekt im Vordergrund.
+Der Krankheitsverlauf kann durch zusätzliche Maßnahmen wie eine ausreichende Flüssigkeitszufuhr (erheblicher Wasserverlust durch Fieber), ausreichend befeuchtete Luft, milde Inhalationen (keine ätherischen Öle bei Kindern!) und die Gabe von Medikamenten, die zur Abschwellung der Nasenschleimhaut führen, günstig beeinflusst werden.
+
+Als rein symptomatische Maßnahmen werden fiebersenkende Mittel (besonders bei Kreislauflabilität oder Herzerkrankung) verabreicht. Dabei ist zu beachten, dass die Anwendung von Acetylsalicylsäure (ASS) vor allem bei Kindern unter zwölf Jahren kontraindiziert ist, da bei einer Virusinfektion das gefährliche und zu 25 % tödlich verlaufende Reye-Syndrom auftreten kann.
+
+Da zahlreiche influenza-bedingte Schädigungen der Lunge und nachfolgende Todesfälle auf eine Überreaktion des Immunsystems („Zytokinsturm“) zurückgeführt werden, arbeiten Forscher zurzeit daran, Substanzen zu entwickeln, die im Falle einer Influenza-Erkrankung die Immunreaktion regulieren.[12]
+Vorbeugung
+Grippeimpfung
+
+Grundsätzlich ist eine vorbeugende „Grippeimpfung“ gegen die Influenza beim Menschen möglich, und sie gilt ähnlich wie die Impfung gegen Erreger anderer Infektionskrankheiten als die wirksamste vorbeugende Maßnahme. Allerdings sind Influenza-A-Viren enorm wandlungsfähig, so dass – um eine möglichst große Übereinstimmung der verwendeten Impfstämme mit den jeweils umlaufenden, krankmachenden Virus-Varianten zu erzielen – in der Regel eine jährliche Auffrischung der Immunisierung nötig ist. Deshalb finden, vorzugsweise in den Monaten Oktober und November, Impfaktionen statt, deren Kosten von den deutschen Krankenkassen in der Regel vollständig übernommen werden. Im Falle einer drohenden Epidemie ist eine Impfung auch zu jeder anderen Jahreszeit möglich und sinnvoll.
+
+Erstmals 2013 wurde berichtet, dass auch ein quadrivalenter Influenza-Impfstoff getestet wurde, der neben zwei Influenza-A-Stämmen auch zwei Influenza-B-Stämme abdeckt. Dadurch konnte die Anzahl von Grippeerkrankungen bei Kindern halbiert werden[13]. Da Influenza-B-Viren sich nicht sehr verändern, können diese nun adäquat vorgebeugt werden. Bisher waren nur trivalente Impfstoffe vorhanden und es gab eine 50:50 Chance, dass der richtige Influenza-B-Stamm inkludiert wurde.
+
+Die Impfungsrate in Deutschland nahm in den vergangenen Jahren stetig leicht zu, von 22,3 % der Bevölkerung in der Saison 2002/03 auf 26,5 % in der Saison 2004/05. Für das Jahr 1996 wurde die Zahl der Neuerkrankungen auf vier Millionen Fälle geschätzt. Einer Schätzung des Robert-Koch-Instituts zufolge fallen jährlich 800.000 bis 1,6 Millionen Arbeitstage wegen Arbeitsunfähigkeit aus, ferner gibt es 10.000 bis 20.000 influenzabedingte Krankenhauseinweisungen.[14] Aktuell zeigt sich im europäischen Vergleich eine große Spannbreite für die Impfquote der saisonalen Influenza-Schutzimpfung im Alter ab 65 Jahren: Sie reicht von 1,7 % Geimpfter in Estland bis 75,0 % in den Niederlanden; die Impfquote für Deutschland beträgt 56,2 %.[15]
+
+Besonders für Kleinkinder und für Erwachsene jenseits der 65 kann ferner eine Impfung gegen Pneumokokken sinnvoll sein. Diese Bakterien sind häufig verantwortlich für die einer Virusinfektion unmittelbar folgenden Lungenentzündung: Wer sich mit einem Influenza-Virus infiziert und an dessen Folgen stirbt, stirbt normalerweise nicht unmittelbar durch die Viren, sondern an einer Sekundärinfektion, und diese wird häufig durch Pneumokokken hervorgerufen. Mittlerweile gilt auch die Impfung gegen die neue Influenza (H1N1) auch bei Schwangeren als sicher, beziehungsweise ist das Risiko einer Influenza für Mutter und Kind größer als das Risiko der Impfung.[16]
+Hygiene
+
+Während einer Grippewelle sind ganz allgemein und besonders bei einem Krankheitsfall in der allernächsten Umgebung wie etwa in der Familie auf Grund der Übertragbarkeit der Influenzaviren die Grundregeln der Hygiene zu beachten. So sollte vor allem die Verbreitung der Erreger durch das Tragen eines Mundschutzes, durch Waschen und Desinfizieren der Hände und durch Vermeidung eines zu engen Kontaktes mit dem bereits Infizierten vermindert werden.
+Vitamin D
+
+Während Impfungen nur die adaptive Immunität stärken, spielt Vitamin D eine wesentliche Rolle bei der angeborenen und der adaptiven Immunität. Seine aktive Form 1,25(OH)2D greift auf verschiedene Weise in das Immunsystem ein und fördert unter anderem die Bildung von antimikrobiellen Peptiden wie z. B. Cathelicidin.[17] Verschiedene Studien zeigen, dass bei Personen mit Vitamin-D-Mangel die Anfälligkeit für Influenza signifikant gesenkt werden konnte, wenn deren 25(OH)D-Spiegel durch tägliche Gaben von 2000 I.E. angehoben wurde.[18][19][20] Ein Mangel wird begünstigt durch dunkle Hautfarbe, hohen Breitengrad, vermehrten Aufenthalt in Räumen und Fahrzeugen, die dunklere Jahreszeit oder Regenzeit. Eine Kontrolle des 25(OH)D-Spiegels ist zu empfehlen und bei Werten unter 30 ng/ml sollte Vitamin D zugeführt werden.
+Historisches
+
+Der Name „Influenza“ (it. für „Einfluss“) leitet sich zunächst von der bis ins Mittelalter vorherrschenden medizinisch-astrologischen Vorstellung ab, alle Krankheiten seien durch bestimmte Planetenstellungen beeinflusst (coeli influencia: Einfluss der Gestirne). Erst seit dem 15. Jahrhundert wird der Name nur noch im Zusammenhang mit der „echten Grippe“ verwendet. Berichtigend sprach man ab der Mitte des 18. Jahrhunderts dann vom Einfluss der Kälte (influenza di freddo), da man die Krankheit in der Regel in den kalten Jahreszeiten auftreten sah. Bezeichnungen für diese Krankheit differierten sehr stark: male mattone (die wütende Krankheit, Italien 1580), Schafshusten, Lungensucht, Hirnwehe, Hauptkrankheit (=Kopfkrankheit!), hirntobendes Fieber (1580), neue Brustkrankheit (1602), Schlafkrankheit (1712), (epidemisches) Flußfieber (1730, 1762, 1782), epidemischer Katarrh, epidemisches Fieber, Schnuppenfieber (1782), Spanischer Ziep (1580), Spanischer Pips, Russische oder Nordische Epidemie oder Katarrh (1782), Die Russische, Die Nordische, maladie russe, catarrhe russe, la russe, die Sibirische oder Chinesische Krankheit (in Russland), Krankheit à la mode (wegen der großen Verbreitung), Galanterie-Krankheit, Modefieber (1712), Catarrhal-Seuche (1730), Modekrankheit (1730, 1732, 1782), Blitzkatarrh (1782), le Tac (1413, vermutlich), le Horion (1413, vermutlich), Bremer Pip, Nürnberger Pipf (1580), Eiderstedtsche Krankheit (1733), Coqueluche (1414), Ladendo (1427), Coquelucha (1510), Laune (1782 bei kurzem und wenig aggressivem Verlauf), Hühnerwehe, Hühenerziep, Schafshusten, Schafskrankheit (1580), Hundskrankheit (1782), male della zucha (Italien 1580, Kürbiskrankheit wegen der heftigen Kopfschmerzen), contagiöses oder epidemisches Catarrh-Fieber (1730), synoque catarrhale (1730), le grand rhume (1730).[21]
+
+Die Geschichte der Virologie ist unter anderem eng mit den Namen Adolf Mayer, Dmitri Iwanowski, Martinus Beijerinck sowie Wendell Meredith Stanley verknüpft. Deren Arbeiten und die Isolation des für die Influenza beim Menschen „verantwortlichen“ Virus durch Andrewes, Smith und Laidlaw vom National Institute for Medical Research[22] im Jahr 1933 waren nötig, um gegen die Influenza effektiv vorgehen zu können (zumal gegen die bakteriellen Folgeinfektionen auch noch keine Antibiotika verfügbar waren).
+
+Die Londoner Times benutzte in einem Bericht über eine Grippeepedemie in Königsberg und anderen Teilen Preußens im März 1833 ein ans Deutsche angelehnte Wort:
+
+    „...a disease called the griep, or influenza“.[23]
+
+Es tauchte in der Zeitung später nie wieder auf. Die ältere englische medizinische Fachliteratur kennt das Wort „Grippe“. „Influenza“ war bereits in den frühesten Ausgaben der Times geläufig. In einem Parlamentsbericht von 1785 hieß es:
+
+    „Es ist erstaunlich, dass Lord Mulgrave unmittelbar nach seinem Eintreffen im House [of Lords] eine Influenza auslöst, die sich in Form eines Konzerts des Nießens und Naseputzens manifestiert.“[24]
+
+Die österreichische Tageszeitung beschrieb 1889 eine ganz Europa durchziehende Grippeepedemie so (die Existenz von Viren war damals noch nicht bekannt):
+
+    „Im Wiener Allgemeinen Krankenhause gibt es keine Klinik und Abteilung, wo das Wartepersonal von Influenzafällen frei wäre. [...] In Petersburg und Moskau wurden über 300.000 Menschen davon befallen. Die Influenza greift überaus rapid um sich, wie dies von keiner anderen Krankheit, selbst Cholera oder gelbes Fieber, gesagt werden kann. [...] Die Krankheit ist nach Prof. Nothnagel in Wien unzweifelhaft eine Bakterienkrankheit; sie verbreitet sich nicht durch ein Contagium, sondern mittels Miasmen durch die Luft.“
+
+Epidemien/Pandemien
+
+Von einer Influenza-Epidemie oder Grippewelle spricht man, wenn 10–20 % der Bevölkerung infiziert sind und die Ausbrüche lokal begrenzt bleiben, während eine Influenzapandemie sich über den ganzen Globus verbreitet. Auslöser der Epidemien und Pandemien sind Influenzaviren der Gruppen A und – seltener – B, da diese in der Lage sind, ihre antigenen Oberflächenmoleküle Hämagglutinin: HA und Neuraminidase: NA ständig zu verändern. Das führt dazu, dass sie bei einer erneuten Infektion vom Immunsystem nicht mehr oder nur schlecht erkannt werden.
+
+Weltweite Ausbrüche gab es 1889 (Subtyp A/H2N2), 1918 (Spanische Grippe, Subtyp A/H1N1), 1957 (Asiatische Grippe, erneut Subtyp A/H2N2), 1968 (Hongkong-Grippe, Subtyp A/H3N2) und 1977 (Russische Grippe, erneut Subtyp A/H1N1).[25] Unter anderem auf diese Historie berufen sich Gesundheitsbehörden, die sagen, vereinzelte Übergänge der Vogelgrippe H5N1-Viren (Subtyp A/H5N1) auf den Menschen sowie die Influenza-Pandemie 2009 gäben Anlass zu Besorgnis.
+
+In der EU (und assoziierten Staaten) sammelt das Programm European Influenza Surveillance Scheme Landesdaten zu Influenzaerkrankungen und wertet diese wöchentlich aus.
+Statistik
+Erkrankungen
+
+Vom Robert-Koch-Institut werden Erkrankungen infolge Influenza unter Einbeziehung ehrenamtlich mitarbeitender Ärzte, deutschen Landesuntersuchungsämtern, Gesundheitsämtern, Universitäten und Landeslaboren ermittelt und ausgewertet.[26] Für die Zeit zwischen 2001 und 2009 wurden für die Wintermonate jeweils zwischen 629 und 1677 Influenzaerkrankungen nachgewiesen.[27] Es ist jedoch davon auszugehen, dass die Zahl der tatsächlich daran Erkrankten deutlich höher liegt, da nur ein Teil der Ärzte an diesem Meldesystem teilnimmt und virologische Nachweise nur an Patienten mit deutlichen Symptomen durchgeführt wurden.[26]
+Todesfälle
+Erhebungen
+
+Todesfälle werden in zahlreichen Ländern von den statistischen Institutionen entsprechend der internationalen Statistik-Klassifikation für Krankheiten erfasst, welche derzeit in der Fassung ICD-10 vorliegt. Bei der Grippe wird unterschieden zwischen nachgewiesenen Fällen (Code J10), welche im Allgemeinen durch virologische Untersuchungen im Labor ermittelt werden, und nicht nachgewiesenen Fällen (Code J11), welche im Allgemeinen aus der Diagnose des Arztes resultieren.
+
+Das Statistische Bundesamt in Deutschland ermittelte für die Zeit zwischen 1998 und 2007 jährlich zwischen 3 und 34 nachgewiesene Fälle (J10). Die Zahl nicht nachgewiesener Fälle (J11) lag zwischen 63 bis 330 jährlich.[28]
+
+Nach Angaben des Bundesamtes für Statistik Österreich starben zwischen 1998 und 2007 zwischen 6 und 145 Menschen an der Grippe (J10-J11).[29]
+
+Gemäß dem Bundesamt für Statistik in der Schweiz starben in der Zeit zwischen 1998 und 2006 zwischen 8 und 129 Menschen an der Grippe (J10-J11).[30]
+
+In der Todesursachenstatistik wird zwar das vom Arzt eingetragene Grundleiden, aber zum Beispiel nicht die „unmittelbaren Todesursachen“ oder „mit zum Tode führende Krankheiten“ gezählt.[31] Deshalb ist davon auszugehen, dass der Influenza noch weitere Todesfälle ursächlich zuzurechnen sind.
+Berechnungen
+
+Bei der Ermittlung der Sterblichkeit verfolgt das Robert-Koch-Institut einen Ansatz mit der Berechnung der Übersterblichkeit in der Wintersaison.[32] Da im Sommer deutlich weniger Menschen als im Winter sterben, ergibt sich über die Jahre hinweg ein konstanter wellenförmiger Verlauf der Sterbefälle.[33] Wenn eine erhöhte Influenzawelle auftritt, dann geht die Zahl der tatsächlich auftretenden Todesfälle über das zu Erwartende hinaus. Diese Differenz wird berechnet. Auf diese Weise wurden zum Beispiel für die Wintersaison 2000/2001 die Zahl von 7000 Toten über dem Normalwert ermittelt.[34] Die Berechnungsmethodik wurde 2007 weiter präzisiert, weshalb für die Wintersaison 2000/2001 die Zahl auf 0 bis 81 korrigiert wurde.[31] Die höchste Übersterblichkeit wurde für die Wintersaison 1995/96 mit etwa 31.000 Toten ermittelt. Nicht enthalten in den Berechnungen ist eine Differenzierung zwischen den unterschiedlichen Todesursachen. Todesfälle infolge der echten Grippe sind deshalb nur ein Teil der so ermittelten Übersterblichkeiten.[31]
+Forschung
+
+Respiratory-Syncytial-Virus (RSV)-Infektionen können mit Influenzawellen überlappen. Berechnungen aus den USA legen nahe, dass die Übersterblichkeit durch RSV etwa ein Drittel so hoch wie die von Influenza sein kann. [35]
+Literatur
+
+    Wilfried Witte: Die Grippe-Pandemie 1918–1920 in der medizinischen Debatte. In Reihe: Berichte zur Wissenschaftsgeschichte 29 (1), 2006, S. 5–20, ISSN 0170-6233
+
+    Werner Lange, Georg E. Vogel, Helmut Uphoff: Influenza: Virologie, Epidemiologie, Klinik, Therapie und Prophylaxe. Blackwell Wissenschafts-Verlag, Berlin 1999
+
+Siehe auch
+
+    Liste von Subtypen des Influenza-A-Virus
+
+Weblinks
+ Commons: Influenza – Sammlung von Bildern, Videos und Audiodateien
+ Wiktionary: Influenza – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Wiktionary: Grippe – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+
+    Literatur zum Thema Influenza im Katalog der Deutschen Nationalbibliothek
+    Influenza – Informationen des Robert-Koch-Instituts
+    Grippe – Informationen bei Gesundheitsinformation.de (Online-Angebot des Instituts für Qualität und Wirtschaftlichkeit im Gesundheitswesen)
+    Arbeitsgemeinschaft Influenza Deutschland mit aktuellem Influenza-Index (auch auf Länderebene)
+    Europäisches Influenza-Überwachungssystem (European Influenza Surveillance Network, EISN) (englisch)
+    Influenza-Seite der Weltgesundheitsorganisation (WHO) (englisch)
+    Informationen der US-Gesundheitsbehörde Centers for Disease Control and Prevention (englisch)
+    Influenza Report 2006 (englisch), Deutsche Ausgabe
+    Cochrane Database of Systematic Reviews Recherchemaske für die Suche nach systematischen Übersichtsarbeiten zum Thema Influenza der Cochrane Collaboration (kostenlose Volltexte, englisch)
+
+Einzelnachweise
+
+    Arbeitsgemeinschaft Influenza: Saisonberichte, Saisonberichte ab 1b 1996; zuletzt eingesehen am 29. Oktober 2012
+    R. Tellier: Review of aerosol transmission of influenza A virus. Emerg Infect Dis. 2006 Nov.; 12 (11): S. 1657–1662. Abstract
+    F. L, Schaffer, M. E. Soergel, D. C. Straube (1976): Survival of airborne influenza virus: effects of propagating host, relative humidity, and composition of spray fluids. Arch Virol 51: 263–273.
+    Jeffrey Shaman and Melvin Kohn, Absolute humidity modulates influenza survival, transmission, and seasonality, PNAS (PDF; 368 kB)
+    http://de.wikibooks.org/wiki/Medizinische_Mikrobiologie:_Orthomyxoviridae#cite_note-0
+    B. Bean, B. M. Moore, B. Sterner, L. R. Peterson, D. N. Gerding, H. H. Balfour Jr.: Survival of influenza viruses on environmental surfaces. J Infect Dis. 1982 Jul; 146(1):47-51. PMID 6282993
+    Y. Thomas, G. Vogel, W. Wunderli, P. Suter, M. Witschi, D. Koch, C. Tapparel, L. Kaiser: Survival of influenza virus on banknotes. Appl Environ Microbiol. 2008 May;74(10):3002-7. Epub 2008 Mar 21. PMID 18359825
+    Longini et al. (PDF; 194 kB) oder Fergurson et al (PDF; 110 kB)
+    WHO: Influenza A virus resistance to oseltamivir and other antiviral medicines. Veröffentlicht am 4. Juni 2009
+    WHO: Pandemic (H1N1) 2009 - update 66
+    A. Monto: The role of antivirals in the control of influenza. Vaccine (2003) 21: 1796–1800
+    Declan Butler: Cheaper approaches to flu divide researchers. Nature 448, S. 976–977, 2007
+    Varsha K. Jain, Luis Rivera, Khalequ Zaman, Roberto A. Espos, Chukiat Sirivichayakul, Beatriz P. Quiambao, Doris M. Rivera-Medina, Pirunghul Kerdpanich, Mehmet Ceyhan, Ener C. Dinleyici, Alejandro Cravioto, Mohammed Yunus, Pornthep Chanthavanich, Kriengsak Limkittikul, Zafer Kurugol, Emre Alhan, Adrian Caplanusi, Serge Durviaux, Philippe Boutet, Opokua Ofori-Anyinam, Vijayalakshmi Chandrasekaran, Ghassan Dbaibo, Bruce L. Innis: Vaccine for Prevention of Mild and Moderate-to-Severe Influenza in Children. In: New England Journal of Medicine. 2013, S. 131211140229007, doi:10.1056/NEJMoa1215817.
+    Thomas D. Szucs u. a.: Grippeimpfung in Deutschland. Eine bevölkerungsbezogene Querschnittsanalyse der drei Influenzasaisons von 2002 bis 2005. In: Medizinische Klinik 7/2006, S. 537–545
+    J. Thelen, N. Kirsch, J. Hoebel: Gesundheit in Europa - Daten des Gesundheitsmonitorings der EU. In: GBE kompakt. Nr. 6, 2012, Robert-Koch-Institut, Berlin 2012, PDF-Datei (Stand: 17. Januar 2013)
+    S. E. Haberg et al.: Risk of Fetal Death after Pandemic Influenza Virus Infection or Vaccination. In: New England Journal of Medicine. 2013. doi:10.1056/NEJMoa1207210
+    John S Adams, Martin Hewison: Unexpected actions of vitamin D: new perspectives on the regulation of innate and adaptive immunity. In: Nat Clin Pract Endocrinol Metab. Februar 2008, Bd. 4, Nr. 2, S. 80–90.
+    John J. Cannell et al.: On the epidemiology of influenza. (PDF; 327 kB) In: Virology Journal. 2008, Bd. 5, Nr. 29.
+    Mitsuyoshi Urashima et al.: Randomized trial of vitamin D supplementation to prevent seasonal influenza A in schoolchildren. In: Am J Clin Nutr. Mai 2010 Bd. 91, Nr. 5, S. 1255–1260.
+    Adit A. Ginde et al.: Association Between Serum 25-Hydroxyvitamin D Level and Upper Respiratory Tract Infection in the Third National Health and Nutrition Examination Survey. (PDF; 113 kB) In: Arch Int Med. 2009, 169, Nr. 4, S. 384–390.
+    Schindler, Untermann: Grippe, Kamm und Eulenspiegel. S, 333 ff.
+    National Institute for Medical Research
+    The Times, 29. März 1833, S. 9
+    The Times: Court Circular vom 23. Februar 1785, S. 3, übersetzt aus dem Englischen
+    C. W. Potter: A history of Influenza. In: Journal of Applied Microbiology. 91, Nr. 4, 2001, S. 572–579, doi:10.1046/j.1365-2672.2001.01492.x.
+    Abschlussbericht der Influenzasaison 2008/09 (PDF; 2,6 MB), Arbeitsgemeinschaft Influenza, Berlin, 2009
+    Abschlussberichte der Influenzasaison, Arbeitsgemeinschaft Influenza
+    Anzahl der Sterbefälle ab 1998 nach Region, Alter, Geschlecht, Nationalität, die Tabelle ist abzurufen auf http://www.gbe-bund.de/, Suchbegriffe: „Influenza Todesursache“, Ad-hoc-Tabelle: „Sterbefälle (ab 1998)“
+    Gestorbene insgesamt ab 1970 nach Todesursachen, Statistik Austria
+    Todesursachenstatistik, Ursachen der Sterblichkeit, Bundesamt für Statistik in der Schweiz, Thema eingeben: 14.2.5 Sterblichkeit, Todesursachen
+    Epidemiologisches Bulletin Nr. 35/2007, aktuelle Daten und Informationen zu Infektionskrankheiten und public Health (PDF; 105 kB), Robert-Koch-Institut, 31. August 2007
+    U. Buchholz: Vortrag: Neue Berechnungen zur jährlichen Zahl influenzabedingter Todesfälle, Robert-Koch-Institut, 27. September 2005
+    U. Buchholz: Wie man Grippe-Tote berechnet, in: BR-Online, 17. November 2009
+    Abschlussbericht der Influenzasaison 2004/05 (PDF; 2,0 MB), Arbeitsgemeinschaft Influenza, Berlin, 2005
+    W. Thompson, D. K. Shay, E. Weintraub, L. Brammer, N. Cox, L. Anderson, K. Fukuda: Mortality associated with influenza and respiratory syncytial virus in the United States. In: Journal of the American Medical Association. (JAMA) 2003, Vol. 289, Iss. 2, S. 179-186, doi:10.1001/jama.289.2.179.
+
+Gesundheitshinweis 	Bitte den Hinweis zu Gesundheitsthemen beachten!
+Normdaten (Sachbegriff): GND: 4022090-4
+Von „http://de.wikipedia.org/w/index.php?title=Influenza&oldid=127592371“
+Kategorien:
+
+    Virale Infektionskrankheit des Menschen
+    Meldepflichtige Krankheit
+
+    Diese Seite wurde zuletzt am 15. Februar 2014 um 12:32 Uhr geändert.
+    Abrufstatistik
+
+    Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+    Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
