@@ -1,3 +1,4 @@
+<%= stylesheet_link_tag 'results' %>
 <h2>Search Results</h2>
 
 <%if @results_articles.empty? %>
@@ -5,6 +6,10 @@
 <%end%>
 
 <table>
+<tr>
+  <th>Article Name</th>
+  <th>Wikipedia Id</th> 
+</tr>
 	<% @results_articles.each do |article| %>
 	<tr>
 		<td><%= article.name %></td>
