@@ -1,3 +1,14 @@
 <h2>Search Results</h2>
 
-<%= @text %>
+<%if @results_articles.empty? %>
+<p>Nothing found.</p>
+<%end%>
+
+<table>
+	<% @results_articles.each do |article| %>
+	<tr>
+		<td><%= article.name %></td>
+		<td><%= article.idwiki %></td>
+	</tr>
+	<%end%>
+</table>

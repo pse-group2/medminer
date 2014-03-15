@@ -3,9 +3,9 @@ class TextMiningController < ApplicationController
   end
 
   def results
-    @text = params[:search_text]
-    client = Mysql2::Client.new(:host => "localhost", :username => "root", :password => "toor", :database => "dewiki")
+    text = params[:search_text]
+    #client = Mysql2::Client.new(:host => "localhost", :username => "root", :password => "toor", :database => "dewiki")
 
-    @text = @text + Article.find(1).name
+    @results_articles = ArticleTermLink.getRelevantArticles(text)
   end
 end
