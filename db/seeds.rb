@@ -1,3 +1,4 @@
+require 'json'
 # This file should contain all the record creation needed to seed the database with its default values.
 # The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
 #
@@ -23,4 +24,11 @@ ArticleTermLink.create(article_id: 3, term_id: 3, ranking: 22)
 ArticleTermLink.create(article_id: 4, term_id: 3, ranking: 2)
 ArticleTermLink.create(article_id: 5, term_id: 3, ranking: 3)
 
+json = File.read('AB_codes.json')
+terms = JSON.parse(json)
 
+terms.each do |term|
+  text = term['text']
+  code = term['code']
+  Term.create(text: text, icd: code)
+end
