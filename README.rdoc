@@ -16,4 +16,4 @@ require 'treat'
 
 Treat::Core::Installer.install 'german'
 
-We use the the german language package here.
+We use the the german language package here. For more more information, visit https://github.com/louismullie/treat/wiki/Manual#installing-treat-core
