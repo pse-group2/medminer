@@ -24,6 +24,7 @@ ArticleTermLink.create(article_id: 3, term_id: 3, ranking: 22)
 ArticleTermLink.create(article_id: 4, term_id: 3, ranking: 2)
 ArticleTermLink.create(article_id: 5, term_id: 3, ranking: 3)
 
+#Fill in the terms from external json
 json = File.read('AB_codes.json')
 terms = JSON.parse(json)
 
