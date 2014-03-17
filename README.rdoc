@@ -13,6 +13,7 @@ To start the server, go to the project location and run 'rails server'. In your 
 To install treat, run gem install treat in your console. For the additional language package, run in your irb the following:
 
 require 'treat' 
+
 Treat::Core::Installer.install 'german'
 
 We use the the german language package here.
