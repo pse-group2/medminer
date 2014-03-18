@@ -8,7 +8,7 @@ class TextProcessor
   
   def initialize(text)
     @text = text.to_entity
-    @text.apply(:chunk, :segment, :tokenize)
+    @text.do(:chunk, :segment, :tokenize)
   end
   
   def frequency_of(word)
@@ -21,7 +21,7 @@ class TextProcessor
   
   # Returns an array of all the words occurring in the text.
   def words
-    @text.to_a.uniq 
+    @text.words.map {|word| word.to_s}.uniq
   end
   
   # Returns an array of all the nouns occurring in the text.
