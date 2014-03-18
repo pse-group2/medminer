@@ -27,11 +27,12 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+# Text processing
 gem 'treat'
-
 gem 'engtagger'
-
 gem 'stanford-core-nlp'
+gem 'tactful_tokenizer'
+gem 'scalpel'
 
 gem 'mysql2'  
 
