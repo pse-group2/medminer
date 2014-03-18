@@ -6,6 +6,6 @@ class Page < ActiveRecord::Base
   
   def getLatestText
     id = Revision.where(:rev_page => page_id).order(:rev_timestamp).last.rev_text_id
-    text = Text.where(:old_id => id).first.old_text
+    text = Text.where(:old_id => id).first
   end
 end

@@ -27,6 +27,7 @@ GEM
       tzinfo (~> 0.3.37)
     arel (4.0.2)
     atomic (1.1.15)
+    birch (0.0.8)
     builder (3.1.4)
     coffee-rails (4.0.1)
       coffee-script (>= 2.2.0)
@@ -35,6 +36,7 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.7.0)
+    engtagger (0.1.2)
     erubis (2.7.0)
     execjs (2.0.2)
     hike (1.2.3)
@@ -54,6 +56,7 @@ GEM
     multi_json (1.8.4)
     mysql2 (0.3.15)
     polyglot (0.3.4)
+    progressbar (0.21.0)
     rack (1.5.2)
     rack-test (0.6.2)
       rack (>= 1.0)
@@ -73,17 +76,18 @@ GEM
     rake (10.1.1)
     rdoc (4.1.1)
       json (~> 1.4)
+    rubyzip (0.9.9)
     sass (3.2.14)
     sass-rails (4.0.1)
       railties (>= 4.0.0, < 5.0)
       sass (>= 3.1.10)
       sprockets-rails (~> 2.0.0)
+    schiphol (1.0.1)
+      progressbar (>= 0.10.0)
+      rubyzip (~> 0.9.9)
     sdoc (0.4.0)
       json (~> 1.8)
       rdoc (~> 4.0, < 5.0)
-    simple_form (3.0.1)
-      actionpack (>= 4.0.0, < 4.1)
-      activemodel (>= 4.0.0, < 4.1)
     sprockets (2.11.0)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -98,6 +102,10 @@ GEM
     thread_safe (0.2.0)
       atomic (>= 1.1.7, < 2)
     tilt (1.4.1)
+    treat (2.0.7)
+      birch
+      schiphol
+      yomu
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
@@ -107,19 +115,22 @@ GEM
     uglifier (2.4.0)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
+    yomu (0.1.10)
+      mime-types (~> 1.23)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   coffee-rails (~> 4.0.0)
+  engtagger
   jbuilder (~> 1.2)
   jquery-rails
   mysql2
   rails (= 4.0.3)
   sass-rails (~> 4.0.0)
   sdoc
-  simple_form
   sqlite3
+  treat
   turbolinks
   uglifier (>= 1.3.0)
