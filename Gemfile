@@ -31,6 +31,8 @@ gem 'treat'
 
 gem 'engtagger'
 
+gem 'stanford-core-nlp'
+
 gem 'mysql2'  
 
 group :doc do
