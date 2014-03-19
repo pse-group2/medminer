@@ -26,7 +26,7 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     arel (4.0.2)
-    atomic (1.1.15)
+    atomic (1.1.16)
     bind-it (0.2.7)
       rjb (~> 1.4.3)
     birch (0.0.8)
