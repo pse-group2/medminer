@@ -20,17 +20,18 @@ We use the the german language package here. For more more information, visit ht
 === MySQL
 
 To connect to the MySQL database, we use the mysql2 gem. Install it (gem install mysql2) and modify the database.yml in your projects config folder:
-development:
-  adapter: mysql2
-  database: dewiki
-  username: root
-  password: toor
-  encoding: utf8
-  port: 3306
-  host: localhost
+  
+  development:
+    adapter: mysql2
+    database: dewiki
+    username: root
+    password: toor
+    encoding: utf8
+    port: 3306
+    host: localhost
   
 Fill in the corresponing values.
-Make sure you have a mysql server installed. For Windows or Mac operating systems, there is [Apache](http://www.apachefriends.org/de/index.html), which brings all you need.
+Make sure you have a mysql server installed. For Windows or Mac operating systems, there is xampp (http://www.apachefriends.org/de/index.html), which brings just all you need.
 If you are on Debian, just 
 
   sudo apt-get install mysql-server apache2 phpmyadmin
