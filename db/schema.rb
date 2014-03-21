@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20140313132834) do
+ActiveRecord::Schema.define(version: 20140320142618) do
 
   create_table "archive", primary_key: "ar_id", force: true do |t|
     t.integer "ar_namespace",                       default: 0,                                                                                      null: false
@@ -306,6 +306,13 @@ ActiveRecord::Schema.define(version: 20140313132834) do
 
   add_index "msg_resource_links", ["mrl_message", "mrl_resource"], name: "mrl_message_resource", unique: true, using: :btree
 
+  create_table "nouns", force: true do |t|
+    t.integer  "term_id"
+    t.integer  "word_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "objectcache", primary_key: "keyname", force: true do |t|
     t.binary   "value",   limit: 16777215
     t.datetime "exptime"
@@ -573,6 +580,13 @@ ActiveRecord::Schema.define(version: 20140313132834) do
   add_index "templatelinks", ["tl_from", "tl_namespace", "tl_title"], name: "tl_from", unique: true, using: :btree
   add_index "templatelinks", ["tl_namespace", "tl_title", "tl_from"], name: "tl_namespace", unique: true, using: :btree
 
+  create_table "term_word_links", force: true do |t|
+    t.integer  "term_id"
+    t.integer  "word_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "terms", force: true do |t|
     t.binary   "text",       limit: 255
     t.binary   "icd",        limit: 255
@@ -686,5 +700,12 @@ ActiveRecord::Schema.define(version: 20140313132834) do
 
   add_index "watchlist", ["wl_namespace", "wl_title"], name: "namespace_title", using: :btree
   add_index "watchlist", ["wl_user", "wl_namespace", "wl_title"], name: "wl_user", unique: true, using: :btree
+
+  create_table "words", force: true do |t|
+    t.binary   "text",       limit: 255
+    t.integer  "count"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
 end

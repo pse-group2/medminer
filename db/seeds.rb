@@ -1,11 +1,12 @@
 require 'json'
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rake db:seed (or created alongside the db with db:setup).
-#
-# Examples:
-#
-#   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
-#   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Article.delete_all
+Term.delete_all
+ArticleTermLink.delete_all
+Word.delete_all
+Noun.delete_all
+TermWordLink.delete_all
+
 
 Article.create(name: "Mumps Artikel 1", idwiki: 22)
 Article.create(name: "Krebs", idwiki: 144)
@@ -33,3 +34,7 @@ terms.each do |term|
   code = term['code']
   Term.create(text: text, icd: code)
 end
+
+#Fill up the word and noun tables based on the terms.
+TermSplitter.fill_word_tables
+

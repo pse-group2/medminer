@@ -34,4 +34,13 @@ class TextProcessor
     end
     nouns
   end
+  
+  def self.is_noun(word)
+    if word.category == 'noun'
+      result = true
+    else 
+      result = false
+    end
+      result
+  end
 end
