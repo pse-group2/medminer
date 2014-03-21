@@ -30,3 +30,11 @@ development:
   host: localhost
   
 Fill in the corresponing values.
+Make sure you have a mysql server installed. For Windows or Mac operating systems, there is [Apache](http://www.apachefriends.org/de/index.html), which brings all you need.
+If you are on Debian, just 
+
+  sudo apt-get install mysql-server apache2 phpmyadmin
+  
+and start the services with 
+
+  sudo service apache2 start
