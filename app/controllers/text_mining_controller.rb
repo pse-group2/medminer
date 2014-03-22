@@ -6,6 +6,6 @@ class TextMiningController < ApplicationController
     text = params[:search_text]
     #client = Mysql2::Client.new(:host => "localhost", :username => "root", :password => "toor", :database => "dewiki")
 
-    @results_articles = ArticleTermLink.getRelevantArticles(text)
+    @results = ArticleTermLink.getRelevantArticles(text)
   end
 end

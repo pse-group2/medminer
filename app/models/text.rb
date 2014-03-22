@@ -6,4 +6,5 @@ class Text < ActiveRecord::Base
   def text
     old_text
   end
-  
+
+end

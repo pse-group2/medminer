@@ -1,19 +1,24 @@
 <%= stylesheet_link_tag 'results' %>
 <h2>Search Results</h2>
 
-<%if @results_articles.empty? %>
+<%if @results.blank?%>
 <p>Nothing found.</p>
-<%end%>
+<%else%>
 
 <table>
 <tr>
   <th>Article Name</th>
-  <th>Wikipedia Id</th> 
+  <th>Ranking</th> 
 </tr>
-	<% @results_articles.each do |article| %>
+	<% @results.each do |result| %>
 	<tr>
-		<td><%= article.name %></td>
-		<td><%= article.idwiki %></td>
+		<% page = Page.where(:page_id => result.article_id).first %>
+		<% base_link = 'http://de.wikipedia.org/wiki?curid=' %>
+		<% link = base_link << "#{page.page_id}"%>
+		<td><%= link_to(page.title, link) %></td>
+		<td><%= result.ranking %></td>
 	</tr>
 	<%end%>
 </table>
+
+<%end%>
