@@ -1,11 +1,11 @@
 class Page < ActiveRecord::Base
   self.table_name = "page"
   
-  has_many :revisions
+  has_many :revisions, :foreign_key => 'rev_page'
   
   def getLatestText
-    id = Revision.where(:rev_page => page_id).order(:rev_timestamp).last.rev_text_id
-    text = Text.where(:old_id => id).first
+    newest = revisions.order(:rev_timestamp).last
+    text = Text.where(:old_id => newest.rev_text_id).first
   end
   
   def title
