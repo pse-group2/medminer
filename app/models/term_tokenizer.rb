@@ -1,4 +1,4 @@
-class TermSplitter
+class TermTokenizer
   def self.fill_word_tables
     Term.all.each do |term|
       words = term.words
