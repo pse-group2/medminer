@@ -36,5 +36,5 @@ terms.each do |term|
 end
 
 #Fill up the word and noun tables based on the terms.
-TermSplitter.fill_word_tables
+TermTokenizer.fill_word_tables
 
