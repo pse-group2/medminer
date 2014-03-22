@@ -8,16 +8,6 @@ class Term < ActiveRecord::Base
 
   has_many :article_term_links
   has_many :nouns
-  has_many :words
   has_many :term_word_links
   
-  #Returns the words in this term.
-  def words
-    TextProcessor.new(text).words
-  end
-
-  #Returns the nouns from this term.
-  def nouns
-    TextProcessor.new(text).nouns
-  end
 end
