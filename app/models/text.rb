@@ -1,7 +1,7 @@
 class Text < ActiveRecord::Base
   self.table_name = "text"
   
-  belongs_to :page
+  has_many :revisions
   
   def text
     old_text
