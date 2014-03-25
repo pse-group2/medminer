@@ -1,4 +1,4 @@
-require 'Downloader.rb'
+require './Downloader'
 require 'json'
 #WICHTIG: schema für die DB:
 #TABLE page mit ROW page_id (int) und ROW page_title (text)
@@ -6,7 +6,7 @@ require 'json'
 #parameter
 threadNumber = 45;
 username = "root"
-password = "toor"
+password = "team2"
 dbname = "newtestwiki"
 
 #mysql client und artikel-IDs
@@ -21,7 +21,7 @@ downloaders = []
 threads = []
 i = 0
 while i < threadNumber
-  downloaders << Downloader.new("newtestwiki", "root", "toor", parsed[(totalLength/threadNumber)*i+i..(totalLength/threadNumber)*(i+1)+i], "downloader#{i+1}")
+  downloaders << Downloader.new(dbname, username, password, parsed[(totalLength/threadNumber)*i+i..(totalLength/threadNumber)*(i+1)+i], "downloader#{i+1}")
   i+=1
 end
 
