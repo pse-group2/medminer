@@ -1,5 +1,8 @@
 require './Downloader'
+require './JSONGetter'
 require 'json'
+require 'open-uri'
+
 #WICHTIG: schema für die DB:
 #TABLE page mit ROW page_id (int), ROW page_title (text) und ROW text_id(int)
 #TABLE text mit ROW page_id (int), ROW content (medium_blob) und ROW text_id(int)
@@ -8,13 +11,20 @@ threadNumber = 45;
 username = "root"
 password = "toor"
 dbname = "testwiki"
+filename = 'articles.json'
+source = "http://tools.wmflabs.org/catscan2/quick_intersection.php?lang=de&project=wikipedia&cats=Medizin&ns=0&depth=-1&max=100000&start=0&format=json&redirects=&callback="
+
+#lädt json file von der angegebenen adresse herunter und vereinfacht es (gespeichert in filename).
+jsongetr = JSONGetter.new(filename, source)
+#falls json file bereits vorhanden ist, auskommentieren - runterladen dauert!!!
+jsongetr.download
 
 #mysql client und artikel-IDs
 client = Mysql2::Client.new(:host => "localhost", :username => username, :password => password, :database => dbname)
-file = open("wiki-IDs.json")
+file = open(filename)
 json = file.read
 parsed = JSON.parse(json)
-p totalLength = parsed.length.to_i
+totalLength = parsed.length
 
 #erstelle downloader
 downloaders = []
@@ -32,7 +42,7 @@ start = Time.now
 downloaders.each do |d|
     threads << Thread.new{d.startDownload}
 end
-p "Running #{downloaders.count} downloaders..."
+print "Running #{downloaders.count} downloaders on #{parsed.length.to_i} entries...\n"
 pct = 0
 #loop ist nur für die anzeige. 
 while pct < 100
@@ -41,13 +51,12 @@ while pct < 100
     sum += d.c
   end
   pct = (sum.to_f/totalLength.to_f*100).round(3)
-  p "#{sum} of #{totalLength}. #{pct}%."
+  print "\rDownloading: #{sum} of #{totalLength} articles\t#{pct}%"
   sleep 1
 end
 #zeitmessung
 finish = Time.now
 t = finish-start
-mm, ss = t.divmod(60)            #=> [4515, 21]
-hh, mm = mm.divmod(60)           #=> [75, 15]
-dd, hh = hh.divmod(24)           #=> [3, 3]
-puts "Time elapsed: %d hours, %d minutes and %d seconds" % [hh, mm, ss]
+mm, ss = t.divmod(60)          
+hh, mm = mm.divmod(60)          
+print "Time elapsed: %d hours, %d minutes and %d seconds\n" % [hh, mm, ss]
