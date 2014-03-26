@@ -6,18 +6,20 @@ require 'open-uri'
 #WICHTIG: schema für die DB:
 #TABLE page mit ROW page_id (int), ROW page_title (text) und ROW text_id(int)
 #TABLE text mit ROW page_id (int), ROW content (medium_blob) und ROW text_id(int)
-#parameter
-threadNumber = 45;
+#parameter - username, password and dbname for the local mysql DB, filename is where the JSON file is located and source is the address of the new json file
+threadNumber = 100;
 username = "root"
 password = "toor"
 dbname = "testwiki"
 filename = 'articles.json'
 source = "http://tools.wmflabs.org/catscan2/quick_intersection.php?lang=de&project=wikipedia&cats=Medizin&ns=0&depth=-1&max=100000&start=0&format=json&redirects=&callback="
 
-#lädt json file von der angegebenen adresse herunter und vereinfacht es (gespeichert in filename).
-jsongetr = JSONGetter.new(filename, source)
-#falls json file bereits vorhanden ist, auskommentieren - runterladen dauert!!!
-jsongetr.download
+#falls kein json file vorhanden ist, wird ein json file von der angegebenen adresse heruntergeladen und vereinfacht (gespeichert in filename).
+
+unless File.exists?(filename)
+  jsongetr = JSONGetter.new(filename, source)
+  jsongetr.download
+end
 
 #mysql client und artikel-IDs
 client = Mysql2::Client.new(:host => "localhost", :username => username, :password => password, :database => dbname)
