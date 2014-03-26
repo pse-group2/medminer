@@ -34,7 +34,7 @@ class JSONGetter
       newEntry["text_id"] = entry["page_latest"]
       result << newEntry
       c+=1
-      print "\rExtracting relevant data...#{c} of #{pages.count} entries extracted."
+      print "\rExtracting relevant data... #{c} of #{pages.count} entries extracted."
     end
 
     print "\nWriting to file '#{@filename}'...\n"

@@ -61,4 +61,4 @@ finish = Time.now
 t = finish-start
 mm, ss = t.divmod(60)          
 hh, mm = mm.divmod(60)          
-print "Time elapsed: %d hours, %d minutes and %d seconds\n" % [hh, mm, ss]
+print "\nTime elapsed: %d hours, %d minutes and %d seconds\n" % [hh, mm, ss]
