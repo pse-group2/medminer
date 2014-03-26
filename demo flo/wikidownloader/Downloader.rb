@@ -28,7 +28,7 @@ class Downloader
       #p "#{@name} downloading article #{name["page_id"]} with name #{name["page_title"]}"
       @pct = (@c.to_f/@length.to_f*100).round(3)
       check = @client.query("SELECT * FROM page WHERE page_id = #{name["page_id"]}").count
-      if check == 0
+      unless check == 1
         url = "http://de.wikipedia.org/w/index.php?curid=#{name["page_id"]}"
         doc = Nokogiri::HTML(openURL(url))
         text = ''

@@ -45,6 +45,7 @@ while pct < 100
   sleep 1
 end
 #zeitmessung
+finish = Time.now
 t = finish-start
 mm, ss = t.divmod(60)            #=> [4515, 21]
 hh, mm = mm.divmod(60)           #=> [75, 15]
