@@ -2,7 +2,7 @@ class Indexer
   def self.run
     Page.all.each do |page|
       puts page.title
-      text = page.getLatestText
+      text = page.text
 
       procText = TextProcessor.new(text.text)
 
