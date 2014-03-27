@@ -1,4 +1,4 @@
-class Noun < ActiveRecord::Base
+class NounWord < ActiveRecord::Base
   
   belongs_to :word
   belongs_to :term

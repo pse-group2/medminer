@@ -3,6 +3,7 @@ class Page < ActiveRecord::Base
   
   has_many :article_term_links, :foreign_key => 'article_id'
   has_one :text
+  belongs_to :text
   
   # def getLatestText
     # newest = revisions.order(:rev_timestamp).last
