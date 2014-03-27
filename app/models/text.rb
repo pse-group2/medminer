@@ -3,9 +3,5 @@ class Text < ActiveRecord::Base
   
   has_one :page
   belongs_to :page
-  
-  def text
-    content
-  end
 
 end

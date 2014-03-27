@@ -1,29 +1,41 @@
 class Indexer
-  def self.run
-    Page.all.each do |page|
-      puts page.title
-      text = page.text
+  
+  def self.index_nouns
+    TermNoun.all.group(:word_id).each do |noun|
+      noun_word = noun.word
+      puts noun_word.text
 
-      procText = TextProcessor.new(text.text)
+      texts = Text.where("content LIKE '%#{noun_word.text}%'")
+      texts.each do |text|
+        freq = measure_frequency(noun_word.text, text.content)
+        update_total_frequency(noun.word, freq)
 
-      Noun.all.each do |noun|
-        noun_word = Word.find_by_id(noun.word_id)
-        freq = procText.frequency_of(noun_word.text)
-
-        if freq > 0
-          puts "#{noun_word.text} in #{page.title} with freq = #{freq}"
-
-          old_freq = noun_word.count
-          noun_word.count = old_freq + freq
-          noun_word.save
-
-          indexed = ArticleTermLink.where(:article_id => page.page_id, :term_id => noun.term_id).first_or_initialize
-          indexed.ranking += freq
-          indexed.save
-        end
-
+        terms = noun.word.term_word_links.map {|tw| Term.find_by_id(tw.term_id)}
+        update_index(terms, text.page, freq)
       end
-
     end
   end
+
+  def self.measure_frequency(noun_str, text_str)
+    procText = TextProcessor.new(text_str)
+    procText.frequency_of noun_str
+  end
+
+  def self.update_total_frequency(word, freq)
+    if freq > 0
+    word.count += freq
+    word.save
+    end
+  end
+
+  def self.update_index(terms, page, freq)
+    if freq > 0
+      terms.each do |term|
+        indexed = ArticleTermLink.where(:article_id => page.id, :term_id => term.id).first_or_initialize
+        indexed.ranking += freq
+        indexed.save
+      end
+    end
+  end
+
 end

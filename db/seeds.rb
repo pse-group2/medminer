@@ -4,7 +4,7 @@ require 'json'
 Term.delete_all
 ArticleTermLink.delete_all
 Word.delete_all
-Noun.delete_all
+TermNoun.delete_all
 TermWordLink.delete_all
 
 #Fill in the terms from external json
