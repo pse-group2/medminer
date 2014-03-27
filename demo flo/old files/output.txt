@@ -1,0 +1,48 @@
+cholera.txt
+cholera - 219.24506045414333
+
+grippe.txt
+cholera - 2.577984016499098
+
+hepatitis b.txt
+
+infektionskrankheit.txt
+pest - 6.234413965087282
+cholera - 6.234413965087282
+lyme-krankheit - 3.117206982543641
+pocken - 3.117206982543641
+katzenkratzkrankheit - 3.117206982543641
+keuchhusten - 3.117206982543641
+masern - 3.117206982543641
+creutzfeldt-jakob-krankheit - 3.117206982543641
+q-fieber - 3.117206982543641
+babesiose - 3.117206982543641
+kandidose - 3.117206982543641
+aspergillose - 3.117206982543641
+toxoplasmose - 3.117206982543641
+
+malaria.txt
+gelbfieber - 1.3197835554968986
+
+masern.txt
+masern - 162.63698089373125
+mumps - 6.316121901152693
+scharlach - 4.737091425864519
+keuchhusten - 3.1580609505763464
+toxoplasmose - 1.5790304752881732
+pocken - 1.5790304752881732
+diphtherie - 1.5790304752881732
+
+meningitis.txt
+mumps - 4.8732943469785575
+listeriose - 1.2183235867446394
+kokzidioidomykose - 1.2183235867446394
+kryptokokkose - 1.2183235867446394
+rifttalfieber - 1.2183235867446394
+
+schlafkrankheit.txt
+
+syphilis.txt
+spätsyphilis - 1.593879502709595
+frambösie - 1.593879502709595
+

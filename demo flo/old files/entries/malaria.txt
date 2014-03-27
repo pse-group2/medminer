@@ -1,0 +1,470 @@
+Malaria
+
+Malaria (von lateinisch mala aria oder mal'aria ‚schlechte Luft‘, die insbesondere aus den Sümpfen steigt) – auch Sumpffieber oder Wechselfieber genannt – ist eine Tropenkrankheit, die von einzelligen Parasiten der Gattung Plasmodium hervorgerufen wird. Die Krankheit wird heutzutage hauptsächlich in den Tropen und Subtropen durch den Stich einer weiblichen Stechmücke (Moskito) der Gattung Anopheles übertragen. Außerhalb dieser Gebiete lösen gelegentlich durch den Luftverkehr eingeschleppte Moskitos die sogenannte „Flughafen-Malaria“ aus. Hierbei sind alle Personen im direkten Umfeld von Flughäfen gefährdet, z. B. Flughafenbedienstete oder Anwohner. Bis auf eine Übertragung durch Bluttransfusion und Laborunfälle ist eine Mensch-zu-Mensch-Ansteckung nur gelegentlich von der Mutter auf das ungeborene Kind möglich, wenn die Plazenta (besonders während der Geburt) verletzt wird. Der Mensch und die Anopheles-Mücken stellen das einzige nennenswerte Erregerreservoir humanpathogener Plasmodien dar.
+
+Mit Computermodellen haben Forscher der University of Washington in Seattle für das Jahr 2010 rund 1,2 Millionen Todesfälle aufgrund einer Malariainfektion errechnet. Sie sammelten alle verfügbaren Daten von 1980 bis 2010. Demnach erreichte die Malariasterblichkeit im Jahr 2004 mit 1,8 Millionen Todesfällen einen Höhepunkt.[1]
+
+Bislang galten nur vier Erreger als humanpathogen: Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale und Plasmodium malariae. Neueste Forschungsergebnisse deuten jedoch darauf hin, dass ein weiterer Stamm aus Südostasien, der bislang hauptsächlich als für Makaken gefährlich galt, auch in größerer Zahl als bislang angenommen den Menschen infizieren kann: Plasmodium knowlesi.[2] Hinsichtlich ihres Krankheitsverlaufes und ihrer geographischen Verbreitung unterscheiden sie sich erheblich. Plasmodium falciparum ist der klinisch bedeutsamste und bedrohlichste Erreger.
+
+Die Symptome der Malaria sind hohes, wiederkehrendes bis periodisches Fieber, Schüttelfrost, Beschwerden des Magen-Darm-Trakts und Krämpfe. Besonders bei Kindern kann die Krankheit rasch zu Koma und Tod führen.
+
+In Deutschland besteht nach § 7 Abs. 3 Infektionsschutzgesetz (IfSG) eine nichtnamentliche Meldepflicht des direkten Nachweises des Krankheitserregers.[3]
+Die Stechmücke Anopheles bei der Blutmahlzeit
+
+Inhaltsverzeichnis
+
+    1 Epidemiologie
+        1.1 Geographische Verteilung
+        1.2 Genetische Mutationen und Bedeutung der Malaria in der Menschheitsgeschichte
+        1.3 Jährliche Opfer und Inzidenz
+    2 Erreger
+        2.1 Liste humanpathogener Erreger
+        2.2 Lebenszyklus
+            2.2.1 Im Menschen (asexuelle Phase/Schizogonie)
+            2.2.2 In der Mücke (sexuelle Phase/Sporogonie)
+    3 Pathogenese
+        3.1 Plasmodium falciparum
+        3.2 Übrige Plasmodien
+    4 Klinisches Bild, Symptomatik
+        4.1 Malaria tropica
+            4.1.1 Inkubationszeit
+            4.1.2 Fieber
+            4.1.3 Neurologische Komplikationen
+            4.1.4 Anämie
+            4.1.5 Hämoglobinurie
+            4.1.6 Veränderungen anderer Organsysteme
+        4.2 Malaria tertiana
+            4.2.1 Inkubationszeit
+            4.2.2 Fieber
+        4.3 Malaria quartana
+            4.3.1 Inkubationszeit
+            4.3.2 Fieber
+            4.3.3 Nierenbeteiligung
+        4.4 Rezidive
+    5 Diagnostik
+    6 Vorbeugung und Behandlung
+        6.1 Impfung
+        6.2 Insektenschutz
+        6.3 Chemoprophylaxe und Therapie
+        6.4 Vektorkontrolle
+    7 Forschung
+        7.1 Verteiltes Rechnen (Distributed Computing)
+    8 Armutsbedingte Krankheit
+    9 Volkswirtschaftliche Auswirkung
+    10 Geschichte
+    11 Siehe auch
+    12 Literatur
+        12.1 Leitlinien
+        12.2 Deutschsprachige Bücher
+        12.3 Englischsprachige Bücher
+        12.4 Zeitschriften-Beiträge
+    13 Weblinks
+    14 Einzelnachweise
+
+Epidemiologie
+Geographische Verteilung
+
+Die geographische Verteilung der Malaria (siehe Karte 2005 – aktuelle Karte bei der DTG, Weblinks) ähnelt im 21. Jahrhundert der Temperaturverteilung der Erde. Die als Überträger geeigneten Anophelesarten kommen jedoch auf allen Kontinenten (außer der Antarktis) vor, wobei das Verbreitungsgebiet der Anopheles-Mücke auf niedrige Meereshöhen (unter 2500 m am Äquator und unter 1500 m in den restlichen Regionen) begrenzt ist. Die globale Erwärmung hat auch einen Einfluss auf die Verbreitung der Malaria, beispielsweise in höher gelegenen Regionen. Das Ausmaß dieses Einflusses ist jedoch umstritten.[4][5] Malaria war insbesondere gegen Ende des Zweiten Weltkriegs bis in den Norden Europas und Nordamerikas verbreitet. Das Risiko in den einzelnen Endemiegebieten ist sehr unterschiedlich, was auch saisonale und geographische Gründe hat. Im subsaharischen Afrika überwiegt Plasmodium falciparum deutlich vor allen anderen Plasmodienarten. Eine Rückkehr der Malaria nach Mitteleuropa wird von vielen Wissenschaftlern in den nächsten Jahren für unwahrscheinlich gehalten.[4]
+Malariarisikogebiete mit Chemoprophylaxeempfehlungen der DTG
+Genetische Mutationen und Bedeutung der Malaria in der Menschheitsgeschichte
+Ausbreitung des Homo sapiens in den letzten 200.000 Jahren.
+
+Der moderne Mensch (Homo sapiens) war während des größten Teils der Menschheitsgeschichte der Bedrohung durch Malaria-Infektionen ausgesetzt. Man schätzt, dass die ersten Vertreter des Homo sapiens vor ungefähr 200.000 Jahren in Ostafrika auftraten. Von dort breiteten sie sich allmählich über die ganze Erde aus. Die klimatisch kalten und Malaria-freien Regionen der Welt wurden erst in den letzten 20.000–30.000 Jahren durch moderne Menschen besiedelt.
+
+Im Laufe der Zeit sind in der menschlichen Population Mutationen aufgetreten, die eine gewisse Resistenz gegen die schweren Verlaufsformen der Malaria bieten. Diese Mutationen betreffen die Erythrozyten (roten Blutkörperchen), in denen sich der Malaria-Parasit entwickelt. In erster Linie handelt es sich um Mutationen in den Genen des Hämoglobins (Hämoglobinopathien) aber auch um Mutationen im Stoffwechsel der Erythrozyten:
+
+    Bildung von Hämoglobin-Mutanten:
+        Sichelzellenanämie (Bildung von Hämoglobin S, im tropischen Afrika)
+        Hämoglobin C (in Westafrika)
+        Hämoglobin E (in Südostasien)
+        Hämoglobin D (in Indien)
+    Verminderte Synthese des Hämoglobins:
+        α-/β-Thalassämie (im Mittelmeerraum, ganz Südasien, Nordafrika)
+    Enzymdefekte im Erythrozytenstoffwechsel:
+        Glucose-6-phosphat-Dehydrogenase (G6PDH)-Mangel
+
+Heterozygote Anlageträger (mit nur einem mutierten Allel) können an Malaria erkranken, sind jedoch gegenüber den schweren Verlaufsformen geschützt, da sich die Malariaparasiten nicht so gut in den Erythrozyten vermehren können. Homozygote Anlageträger (beide Allele mutiert) haben unbehandelt häufig eine deutlich verkürzte Lebenserwartung (z. B. bei Sichelzellanämie), da die Funktion der Erythrozyten gestört ist. Weltweit gesehen sind etwa 8 % der heutigen Weltbevölkerung von einer der obigen Mutationen betroffen. Die Hämoglobinopathien sind damit die bei weitem häufigsten menschlichen Erbkrankheiten. In manchen Regionen der Welt (Gebiet um die ostafrikanischen Seen, Teile Südostasiens) sind bis zu 50 % der dortigen Bevölkerung Anlageträger. Die Tatsache, dass sich derartige Mutationen, die größtenteils erhebliche Nachteile vor allem in homozygoter Form für den jeweiligen Träger mit sich bringen, in der menschlichen Population haben halten können, ist ein eindrucksvoller Beleg dafür, welchen großen genetischen Druck die Malaria auf die Menschheitsentwicklung ausgeübt hat. In Gebieten mit seltenerem oder nur episodischen Auftreten der Malaria (Nordeuropa, Nordasien) sind die oben genannten Mutationen bei der einheimischen Bevölkerung nicht zu finden, sie sind durch den Selektionsdruck innerhalb einiger tausend Jahre eliminiert worden.
+
+Daneben ist seit 2012 bekannt, dass es Genvariationen (Polymorphismen) in zwei Genen gibt, deren Träger seltener einen lebensgefährlichen Verlauf der Erkrankung zeigen. Das eine dieser Gene steuert die Zellmembranpumpe für Kalzium, die unter anderem auch auf Erythrozyten vorhanden ist, das andere spielt eine Rolle bei der Abdichtung von Gefäßwänden. Bei Trägern der Blutgruppe 0 ist ebenso eine verringerte Wahrscheinlichkeit für einen schweren Krankheitsverlauf zu beobachten.[6]
+Jährliche Opfer und Inzidenz
+
+Nach Angaben der Weltgesundheitsorganisation (WHO) sterben weltweit jährlich knapp eine Million Menschen an Malaria, etwa die Hälfte von ihnen sind Kinder unter fünf Jahren. 90 % der Erkrankten leben auf dem afrikanischen Kontinent. Die Zahl der Malariakranken weltweit wird nach Zahlen des Robert-Koch-Instituts auf 300–500 Millionen Fälle geschätzt.[7] Die WHO schätzte die Zahl der Malariafälle 2009 auf 243 Millionen.[8]
+
+In Deutschland werden jährlich ca. 900 Erkrankte gemeldet, von denen 3–8 sterben (0,3–0,9 %). Der Großteil der Patienten ist in afrikanischen Endemiegebieten unterwegs gewesen (ca. 87 %).
+Jahr 	1980 	1981 	1982 	1983 	1984 	1985 	1996 	1998 	1999 	2000 	2001 	2002 	2003 	2004 	2005 	2006
+Gemeldete Fälle
+in Deutschland * 	573 	393 	514 	447 	482 	530 	> 1000 	1008 	931 	800 	1049 	860 	820 	708 	628 	568
+
+* vor 1990 nur für die Bundesrepublik Deutschland mit West-Berlin Quelle,[9] Datenstand 1. August 2007.
+Erreger
+Plasmodium 	Inkubationszeit 	Malariaform 	Teilungsdauer/Fieberanfälle
+P. falciparum 	7–30 Tage (90 %)
+länger (10 %)* 	Malaria tropica 	unregelmäßig
+P. malariae 	16–50 Tage 	Malaria quartana 	72 Stunden
+P. ovale 	12–18 Tage
+länger (10 %)* 	Malaria tertiana 	48 Stunden
+P. vivax 	12–18 Tage
+länger (10 %)* 	Malaria tertiana 	48 Stunden
+(* bei unzureichender Malariaprophylaxe)
+Liste humanpathogener Erreger
+
+Für den Menschen gefährlich sind die Erreger Plasmodium falciparum, Plasmodium vivax, Plasmodium ovale, Plasmodium malariae und Plasmodium knowlesi, die verschiedene Formen der Malaria auslösen können.
+
+Darüber hinaus kann auch Plasmodium semiovale Malaria auslösen. Bei Mehrfachinfektionen mit gleichen oder verschiedenen Plasmodien können die Fieberanfälle auch unregelmäßig sein. Das sonst typische Wechselfieber bleibt aus, es herrscht konstantes Fieber.
+Lebenszyklus
+Lebenszyklus der Plasmodien
+
+Im Laufe ihres Lebenszyklus vollziehen die Erreger der Malaria, die Plasmodien, einen Wirtswechsel. Der Mensch dient dabei als Zwischenwirt. Als Endwirt dienen Stechmücken, insbesondere der Gattung Anopheles. In ihnen findet die Vermehrung der Plasmodien statt.
+Im Menschen (asexuelle Phase/Schizogonie)
+
+Nachdem der Mensch von einer infizierten Anopheles-Mücke gestochen wurde, sondert sie mit ihrem Speichel, welcher Gerinnungshemmer enthält, mehrere hundert Sporozoiten ab. Diese werden mit dem Blutstrom zur Leber geleitet, wo sie in die Zellen des Lebergewebes eindringen und darin zum Leberschizont heranreifen. Dort findet eine Vermehrung (Teilung) statt, die exoerythrozytäre Schizogonie genannt wird. Dadurch entstehen bis zu 30.000 Merozoiten. Der Schizont löst sich auf und gibt die Merozoiten schrittweise in Vesikel verschnürt in die Blutbahn ab. Bei Plasmodium vivax und Plasmodium ovale gehen nicht alle Merozoiten diesen Weg, ein kleiner Teil kann als Hypnozoit ungeteilt in der Leberzelle persistieren. In diesem Ruhezustand können sie über Monate bis Jahre unentdeckt vom Immunsystem verbleiben. Durch einen unbekannten Stimulus reifen die Hypnozoiten zu Schizonten heran, was zu charakteristischen Rückfällen der Malaria tertiana führt.[10]
+
+Die Merozoiten gehen in den Blutkreislauf über und heften sich an Rezeptormoleküle von roten Blutkörperchen, woraufhin sie in diese eindringen können und dort innerhalb einer membranbegrenzten, parasitophoren Vakuole eingeschlossen sind. Mit dem Befall der roten Blutkörperchen beginnt die Erythrozytäre Schizogonie. Die Merozoiten reifen daraufhin zu einem Trophozoiten heran. Der Erreger erscheint in diesem Stadium als Ring um seine eigene Nahrungsvakuole mit dunkel gefärbtem, randständigem Kern. Der Throphozoit reift weiter zu einem Schizonten, der sich hauptsächlich von Glukose und Hämoglobin ernährt. Dabei entsteht Häm, dass allerdings sofort zu Hämozoin kristallisiert wird, da freies Häm für den Trophozoiten toxisch wirkt. Dies ist der Ansatzpunkt für die Chloroquin-Therapie. Nach Vielfachteilung gehen aus dem Schizonten je nach Plasmodium-Art 6 bis 36 Merozoiten hervor. Diese sorgen durch ihre große Menge für ein Platzen des Erythrozyten und somit für ihre Verteilung im Blutplasma. Dort können die Merozyten weitere Erythrozyten befallen und der asexuelle Zyklus beginnt von vorn. Die Schizogoniezyklen verlaufen nach kurzer Initialphase synchronisiert in regelmäßigen Abständen von 48 (Plasmodium vivax, ovale, falciparum, letzteres aber unsynchronisiert) und 72 Stunden (Plasmodium malariae). Das auf die Zerstörung des Erythrozyten folgende Fieber tritt durch die Synchronisation dieses Zyklus dementsprechend alle 3 bzw. 4 Tage auf (Malaria tertiana und Malaria Quartana). Eine geringe Zahl der Merozoiten entwickeln sich weiter zu ihren Geschlechtsformen, den Gametozyten. Diese finden sich dann im Blut, wo sie nach einiger Zeit (Plasmodium vivax: 1 Tag, Plasmodium falciparum: bis zu 22 Tage) wieder absterben, sofern sie nicht von einer Anopheles-Mücke aufgenommen werden. Die männlichen Gametozyten werden Mikrogametozyten, die weiblichen Makrogametozyten genannt.
+In der Mücke (sexuelle Phase/Sporogonie)
+
+Beim erneuten Stich einer Mücke werden die Gametozyten in die Mücke aufgenommen. Sie entwickeln sich in ihrem Darm zu Gameten. Der Mikrogamet penetriert den Makrogameten, und es entsteht eine Zygote. Diese verändert sich, nimmt eine längliche Form an und wird motil (= beweglich), diese Zelle heißt nun Ookinet. Er lagert sich zwischen den Gewebeschichten des Mückendarms an und verwandelt sich dort zur Oozyste. In ihr entstehen bis zu 1.000 neue Sporozoiten. Nach ihrer Freisetzung wandern sie in die Speicheldrüsen der Mücke und stehen nun zur Neuinfektion bereit. Der Zyklus in der Anopheles dauert abhängig von der Außentemperatur zwischen 8–16 Tagen. Dabei ist eine Mindesttemperatur von 15 °C erforderlich. Unterhalb dieser Temperatur kommt kein Zyklus mehr zustande.
+Pathogenese
+Plasmodium im Zytoplasma einer befallenen Zelle (EM-Aufnahme in Falschfarben)
+Plasmodium falciparum – Ringformen
+
+Die mit Plasmodien infizierten, reifenden und platzenden roten Blutkörperchen setzen mit den Merozoiten Toxine (z. B. Phospholipide) frei, welche wiederum zur Freisetzung von Zytokinen führen. Die Zytokine sind hauptsächlich für den Fieberanstieg und einer beobachteten Absenkung des Blutzuckerspiegels (Hypoglykämie) verantwortlich. Die mit einer Laktatazidose verbundene Hypoglykämie wird nicht nur durch die Wirkung der Zytokine hervorgerufen, sondern ist auch eine Folge des Stoffwechsels der Parasiten. Ebenso kommt es bei hoher Parasitenanzahl im Blut durch Auflösung (Lyse) der roten Blutkörperchen, Abbau von befallenen roten Blutkörperchen in der Milz und Dämpfung der Erythropoese im Knochenmark durch die Zytokinfreisetzung (insbesondere durch den Tumornekrosefaktor-Alpha) zu einer Anämie.
+
+Darüber hinaus bestehen zwischen Plasmodium falciparum und den anderen Malariaerregern wichtige pathogenetische Unterschiede.
+Plasmodium falciparum
+
+In den roten Blutkörperchen produziert der Trophozoit Proteine, wie zum Beispiel PfEMP1 (Plasmodium falciparum infected erythrocyte membrane protein 1), welches eine Bindung der infizierten Blutkörperchen an das Endothel der Blutgefäße bewirkt. Die damit verbundenen Mikrozirkulationsstörungen erklären zumindest teilweise den deutlich schwereren Verlauf der durch Plasmodium falciparum hervorgerufenen Malaria tropica.
+
+Die Anhaftung der roten Blutkörperchen am Endothel und die mangelnde Verformbarkeit der befallenen Zellen, führt zu einer Verengung der Kapillaren und somit zu einer Störung der Sauerstoff- und Nährstoffversorgung der Umgebung. Dies hat im zentralen Nervensystem besonders dramatische Auswirkungen und die häufigen zentralen Komplikationen der Malaria tropica zur Folge. Besonders kleine Kinder können in ein lebensbedrohliches Koma verfallen (cerebrale Malaria).
+Übrige Plasmodien
+
+Die übrigen Plasmodienarten sind nicht in der Lage, am Endothel zu haften, womit auch die geringere Anzahl an Durchblutungsstörungen und somit die geringe Gefährlichkeit zu erklären ist. Plasmodium malariae unterscheidet sich von den anderen humanpathogenen Plasmodien dadurch, dass es vereinzelt auch andere höhere Primaten befällt.
+Klinisches Bild, Symptomatik
+
+Aufgrund des unterschiedlichen Verlaufs der Erkrankung kann zwischen der Malaria tropica, der Malaria tertiana und der Malaria quartana unterschieden werden. Die Malaria tropica ist dabei die schwerste Verlaufsform der Malaria.
+Malaria tropica
+
+Die Malaria tropica wird durch den Erreger Plasmodium falciparum verursacht. Charakteristisch für die Malaria tropica sind die hohe Parasitämie, die teils ausgeprägte Anämie und die häufig vorkommenden neurologischen Komplikationen. Es kann ein rhythmischer Fieberverlauf vorliegen. Ein Fehlen der Fieberrhythmik ist jedoch kein Ausschlusskriterium einer Malaria tropica.
+Inkubationszeit
+
+Zwischen dem Stich der Anopheles-Mücke und dem Krankheitsausbruch liegen im Mittel zwölf Tage. Erheblich kürzere Zeitintervalle treten bei einer Infektion mit erregerhaltigem Blut auf. Längere Inkubationszeiten sind unter Einnahme einer unzureichenden Chemoprophylaxe möglich.
+Fieber
+
+Das typische wechselnde Fieber mit Schüttelfrost beim Fieberanstieg und Schweißausbrüchen bei Entfieberung, wie es bei anderen Malariaformen auftritt, wird bei der Malaria tropica in der Regel nicht beobachtet. Daher kann man eine Malaria, eine Malaria tropica insbesondere, nicht allein aufgrund der Tatsache ausschließen, dass keine typische Fieberrhythmik vorliegt. Ein hohes Fieber über 39,5 °C tritt häufig bei Kindern auf und ist als prognostisch ungünstig zu beurteilen. Häufig kommt es zu zentralen Komplikationen und Koma.
+Neurologische Komplikationen
+
+Bewusstseinsstörungen, die bis zum Koma reichen können, stellen eine typische Komplikation der Malaria tropica dar. Dabei sind plötzliche Wechsel der Bewusstseinslage ohne Vorzeichen durchaus möglich. Es kann auch zu einer langsamen Eintrübung des Patienten kommen. Im Rahmen einer zerebralen Malaria können auch neurologische Herdsymptome wie Lähmungen und Krampfanfälle auftreten. Die normale neurologische Diagnostik führt hier kaum zu einer adäquaten Diagnose. Eine hohe Parasitenzahl im Blut dient als entscheidender Hinweis.
+
+Bei Schwangeren und Kindern können Hypoglykämien auftreten, die allein oder mit der zentralen Problematik zum Koma führen.
+Anämie
+
+Anämien treten häufig bei schweren Infektionen auf. Eine besondere Risikogruppe für schwere Anämien stellen Säuglinge und Kleinkinder dar. Meist handelt es sich um eine hämolytische Anämie durch Zerstörung roter Blutkörperchen. Wie oben erwähnt besitzt auch die Hemmung der Erythropoese eine gewisse Bedeutung. Die Schwere der Anämie korreliert stark mit dem Ausmaß des Parasitenbefalls.
+Hämoglobinurie
+
+Der durch die massive Hämolyse angestiegene Hämoglobin-Spiegel im Blut führt zu einer Hämoglobinurie (daher die frühere Bezeichnung Schwarzwasserfieber), dem Ausscheiden von Hämoglobin über die Nieren. Diese Hämoglobinurie kann zu einem akuten Nierenversagen führen.
+Veränderungen anderer Organsysteme
+Kind mit massiven Ödemen (Anasarka) aufgrund malariabedingter Niereninsuffizienz
+
+Im Laufe der Erkrankung kann es zu einer Vergrößerung der Milz (Splenomegalie) kommen, bedingt durch die große Zahl dort abzubauender Trümmer roter Blutkörperchen. In seltenen Fällen führt das Gewebswachstum zu einer Spannung der Kapsel, so dass diese leicht einreißen kann (Milzruptur). Den Magen-Darm-Trakt betreffende Symptome wie Durchfälle sind häufig und differentialdiagnostisch von Bedeutung, da sie bei fehlendem oder schwach ausgeprägtem Fieber zur falschen Diagnose bakterielle Enteritis führen können.
+
+In bis zu zehn Prozent der Fälle kann eine Lungenbeteiligung auftreten, die von leichten Symptomen bis zu einem Lungenödem reichen kann.
+
+Nicht selten kommt es durch eine Durchblutungsstörung der Niere zu einem akuten Nierenversagen. Nach ausgeheilter Infektion erholt sich die Niere meist.
+Malaria tertiana
+
+Die Malaria tertiana wird durch die Erreger Plasmodium vivax oder Plasmodium ovale verursacht. Sie ist eine der gutartigen Verlaufsformen der Malariaerkrankung. Es treten im Vergleich zur Malaria tropica kaum Komplikationen auf. Das Hauptproblem besteht darin, die unspezifischen Vorsymptome von der bösartigen Malaria tropica abzugrenzen. Dies gelingt meist nur in der mikroskopischen Diagnostik.
+Inkubationszeit
+
+Die Inkubationszeit beträgt zwischen 12 und 18 Tagen, kann aber auch mehrere Monate dauern, wenn der Verlauf der Infektion durch die Chemoprophylaxe verlangsamt wird.
+Fieber
+
+Nach einer unspezifischen Prodromalphase von wenigen Tagen stellt sich normalerweise die typische Dreitagesrhythmik ein, die der Malaria tertiana ihren Namen gab: Tag 1 mit Fieber, Tag 2 ohne Fieber und Tag 3 wieder mit Fieber.
+
+Die Fieberattacken gehorchen meist folgendem Schema:
+
+    Froststadium (1 Stunde): Der Patient leidet unter Schüttelfrost und dem subjektiven Gefühl starker Kälte. In dieser Phase steigt die Temperatur steil an.
+    Hitzestadium (4 Stunden): Die Haut brennt häufig quälend. Es treten schwere Übelkeit, Erbrechen und Mattigkeit auf. Die Temperatur kann über 40 °C betragen, die Haut ist im Gegensatz zum nächsten Stadium meist trocken.
+    Schweißstadium (3 Stunden): Unter starkem Schwitzen sinkt die Temperatur bis zum Normalwert von 37 °C, Nachlassen der Mattigkeit noch vor Entfieberung.
+
+Wie bei allen anderen Malariaformen gilt auch hier, dass das Fehlen der Fieberrhythmik keineswegs ausreicht, um die Krankheit auszuschließen.
+Malaria quartana
+
+Die Malaria quartana (veraltete deutsche Bezeichnung: „Quartanfieber“) wird durch den Erreger Plasmodium malariae verursacht. Auch hier handelt es sich um eine gutartige Form der Malaria. Eine charakteristische Komplikation ist das nephrotische Syndrom. Besonders an dieser Form ist, dass es selbst nach einer sehr langen Zeit (> 50 Jahre) noch zu Rezidiven kommen kann. Auch ist die Inkubationszeit erheblich länger als bei den beiden anderen Formen.
+Inkubationszeit
+
+Die Inkubationszeit beträgt zwischen 16 und 50 Tagen. Somit ist sie erheblich länger als bei den übrigen Krankheitsformen.
+Fieber
+
+Die Prodromalphase ist genauso unspezifisch wie die der Malaria tertiana. Schon nach wenigen Tagen stellt sich die Vier-Tages-Rhythmik ein. Nach einem Tag mit Fieber sind zwei fieberfreie Tage zu beobachten, ehe wieder ein Tag mit Fieber folgt. Die Stadienabfolge (Frost-Hitze-Schweiß) am Fiebertag entspricht der Malaria tertiana. Auch hier gilt: fehlende Fieberrhythmik schließt die Diagnose Malaria nicht aus.
+Nierenbeteiligung
+
+Im Verlauf der Malaria quartana kann es zu einer schweren Nierenbeteiligung kommen. Diese wird unter anderem als Malarianephrose bezeichnet. Es handelt sich hierbei um ein nephrotisches Syndrom mit folgenden Symptomen:
+
+    niedriges Serumeiweiß Albumin (im Blutkreislauf mitverantwortlich für die Regulation des Wasserhaushalts)
+    Wasseransammlung im Bindegewebe (Ödeme) und der Bauchhöhle (Aszites) durch den Albuminmangel
+    erhöhtes Serumcholesterin
+
+Epidemiologische Studien haben gezeigt, dass diese Komplikation gehäuft bei Kindern zwischen zwei und zehn Jahren im tropischen Afrika auftritt.
+Rezidive
+
+Wie schon oben erwähnt, bilden sich im Lebenszyklus von Plasmodium vivax und Plasmodium ovale Ruheformen, die sogenannten Hypnozoiten, aus. Sie können der Anlass dafür sein, dass es nach einer Ruhephase von Monaten bis Jahren zum erneuten Ausbruch der Krankheit kommt. Diesem muss nicht unbedingt eine anamnestisch bekannte Malariaerkrankung vorausgehen. Die Rezidive sind besonders tückisch, da oft weder vom Patient noch vom Arzt ein Zusammenhang mit der Malaria hergestellt wird. Das Besondere an Plasmodium malariae sind die Rezidive nach besonders langem krankheitsfreiem Intervall (mehrere Jahre). Rezidive nach Krankheitsfreiheit von mehr als 50 Jahren wurden beschrieben. Die Rezidive kommen aber hier nicht durch Hypnozoiten in der Leber zustande (es gibt keine Hypnozoitformen des Plasmodium malariae), sondern durch einen fortdauernden Parasitenbefall des Blutes. Dieser ist so gering, dass er mikroskopisch meist nicht nachgewiesen werden kann. Dies ist besonders in der Transfusionsmedizin in Endemiegebieten von großer klinischer Bedeutung, da es auch bei negativ getestetem Spender zu einer Malariaübertragung kommen kann, wenn Frischblut eingesetzt wird. Blutkonserven werden hingegen gekühlt gelagert, was Malaria-Erreger abtötet.[11] Rezidive können jedoch in der Regel durch medikamentöse Maßnahmen (in erster Linie unter Einsatz von Primaquin) langfristig unterbunden werden.
+Diagnostik
+
+Die Diagnose Malaria sollte mit Hilfe labordiagnostischer Methoden abgesichert werden. Die in der Praxis wichtigste und kostengünstigste Methode bei Malariaverdacht ist die mikroskopische Untersuchung von normalen Blutausstrichen (Dünner Tropfen) und dem bis zu 10-fach angereicherten Dicken Tropfen unter Verwendung der Giemsa-Färbung auf Plasmodien. Eine Differenzierung der vier Plasmodien ist anhand morphologischer Kriterien möglich (siehe Maurersche Fleckung oder Schüffnersche Tüpfelung). Die ermittelte Parasiten- und Leukozytenzahl ist ein Maß der Schwere der Erkrankung. Ein negatives Ergebnis der mikroskopischen Untersuchung kann aufgrund der geringen Sensitivität dieser Methode eine Malaria jedoch nicht ausschließen.
+
+Alternativ können die Erreger der Malaria immunologisch und molekularbiologisch nachgewiesen werden. Die zur Verfügung stehenden Malaria-Schnelltests (z. B. ICT Malaria P.F.®-Test, OptiMal®-Test) beruhen auf Nachweis parasitenspezifischer Antigene. Ein negatives Ergebnis kann jedoch auch bei diesen Tests eine Malaria nicht ausschließen.[12] Das mit Abstand sensitivste Verfahren für die Malaria-Diagnostik ist die Polymerasekettenreaktion (PCR). Sie ist jedoch aufgrund des hohen Material- und Zeitaufwands für den Akutfall wenig geeignet.
+Vorbeugung und Behandlung
+
+Da kein hundertprozentiger Schutz gegen Malaria besteht (fehlende Impfmöglichkeit gegen Malaria), sollte das Risiko einer Malariaerkrankung gesenkt werden. Der wirksamste Schutz ist der Verzicht auf Reisen in Gebiete, in denen Malaria übertragen wird (Endemiegebiete). Da dies nicht immer möglich ist, ist die Vermeidung von Insektenstichen (Expositionsprophylaxe) das wichtigste Element der Malariavorbeugung. Zusätzlich sollte durch vorbeugende Einnahme (Chemoprophylaxe) oder Mitführen (Stand-by-Therapie) von Malaria-Medikamenten das Risiko verringert werden, an einer schweren Malaria zu erkranken.[13]
+
+Unabhängig davon, ob eine Chemoprophylaxe oder eine Stand-by-Therapie gewählt wurde, muss bei jedem unklaren Fieber in den Tropen und auch lange Zeit nach der Rückkehr umgehend ein Arzt aufgesucht werden. Dieser sollte mittels eines geeigneten Bluttests den Malariaverdacht schnellstmöglich bestätigen oder ausschließen, da eine nicht rechtzeitig behandelte Malaria tropica tödlich sein kann.
+Impfung
+
+Zurzeit steht noch kein Impfstoff zur Verfügung.
+
+Auf diesem Gebiet wird seit Jahren geforscht, mehrere Impfstoffkandidaten wurden entwickelt (siehe Forschung), mit der Einführung eines Impfstoffes wird derzeit nicht vor 2019 gerechnet.[14]
+Insektenschutz
+
+Der Insektenschutz ist der wichtigste Bestandteil der Malariavorbeugung. Dazu zählt das Tragen heller, hautbedeckender, langer Kleidung, der Aufenthalt in mückensicheren Räumen (insbesondere nachts; Klimaanlage, Fliegengitter, Moskitonetz) sowie die Behandlung von Haut und Kleidung mit moskitoabweisenden Mitteln, sogenannter Repellents (z. B. Icaridin oder DEET). Die zusätzliche Verwendung von Insektiziden in Sprays (allen voran Pyrethroide), Verdampfern, Räucherspiralen („mosquito coils“) und ähnlichem kann zusätzlichen Schutz bieten.
+
+Nach wie vor schützen sich jedoch viele Reisende nicht konsequent gegen Mücken. So ergab eine im April 2006 veröffentlichte Untersuchung aus Frankreich, dass weniger als 10 % der an Malaria erkrankten Patienten Maßnahmen zur Abwehr von Insekten verwendet hatten.
+Chemoprophylaxe und Therapie
+
+Für viele Reiseziele reicht es aus, für den tatsächlichen Krankheitsfall ein Medikament zur notfallmäßigen Eigenbehandlung (Stand-by-Therapie) mitzuführen. Dennoch wird eine Chemoprophylaxe unter Beachtung möglicher Arzneimittelnebenwirkungen und unter Berücksichtigung der persönlichen Gesundheitssituation (Vorerkrankungen, Immunstatus, …) bei Reisen in Malariagebiete mit hohem Infektionsrisiko häufig empfohlen.
+
+Seit dem 17. Jahrhundert wird die Chinarinde und das daraus gewonnene Chinin zur Therapie der Malaria verwendet – die Legende besagt, dass britische Kolonialisten daher regelmäßig stark chininhaltiges Tonic Water tranken und, um den damals sehr bitteren Geschmack zu verbessern, oft dieses mit Gin mischten und so den Gin Tonic erfanden. Seit Mitte des 20. Jahrhunderts haben sich die Therapiemöglichkeiten vervielfacht, und es besteht die Möglichkeit einer medikamentösen Vorbeugung (Chemoprophylaxe). Das größte Problem bei der medikamentösen Vorbeugung und Behandlung ist eine zunehmende Resistenz des Erregers. Die Deutsche Gesellschaft für Tropenmedizin und Internationale Gesundheit e. V. empfiehlt (Stand 2013):[15]
+
+    in Gebieten mit hohem Malariarisiko und bekannter Chloroquin- und Mefloquin-Resistenz (z. B. Goldenes Dreieck): keine Prophylaxe, bei Erkrankung Notfalltherapie mit Artemether-Lumefantrin oder Atovaquon-Proguanil.
+    in Gebieten mit hohem Malariarisiko und bekannter Chloroquinresistenz (z. B. Hochrisikogebiete Afrikas, Neuguinea, Salomonen, Brasilien (Bundesstaaten Rondônia, Roraima und Amapá)): Prophylaxe mit Atovaquon-Proguanil, Doxycyclin oder Mefloquin. Eine systematische Analyse vorhandener Studien konnte die bessere Verträglichkeit von Atovaquon-Proguanil und Doxycyclin im Vergleich zu Mefloquin belegen.[16]
+    in Gebieten mit geringem Malariarisiko und bekannter Chloroquin- und Mefloquinresistenz (z. B. Südost-Asien ohne Hochrisikogebiete): keine Prophylaxe, bei Erkrankung Notfalltherapie mit Artemether-Lumefantrin oder Atovaquon-Proguanil.
+    in Gebieten mit geringem Malariarisiko und bekannter Chloroquinresistenz (z. B. Brasilien ohne Aufenthalt in den Hochrisikogebieten, China, Vanuatu, Arabische Halbinsel, Indien, Irak, Iran, Afghanistan, Pakistan, Bangladesch, Sri Lanka, Indonesien ohne Aufenthalt in Hochrisikogebieten, Philippinen): keine Prophylaxe, bei Erkrankung Notfalltherapie mit Artemether-Lumefantrin, Atovaquon-Proguanil oder Mefloquin.
+    in Gebieten mit geringem Malariarisiko ohne bekannte Resistenzen (z. B. Mittelamerika, Haiti, Dominikanische Republik): keine Prophylaxe, bei Erkrankung Notfalltherapie mit Chloroquin.
+
+Des Weiteren stehen Chinin (zur Therapie, insbesondere bei der komplizierten Malaria tropica), Primaquin (Therapie der Malaria tertiana oder Malaria quartana; beugt Rezidiven vor; Verwendung zur Prophylaxe nur in Ausnahmefällen) und Proguanil (Prophylaxe; meist in Kombination mit Chloroquin; Verwendung nur noch in Ausnahmefällen) zur Verfügung.
+
+Vor allem in China, Südostasien und Afrika werden Artemisinin-haltige Präparate (einschließlich deren Abkömmlinge Artemether, Artesunat, Arteflene, Artemotil, Dihydroartemisinin und Arteether) eingesetzt. Diese im Rahmen einer Kombinationstherapie (Artemisinin-based combination therapy) eingesetzten Präparate werden von der WHO als Mittel der ersten Wahl für die Akutbehandlung der Malaria empfohlen.[17] Artesunat wird seit neuestem auch von der AG Malaria der Paul-Ehrlich-Gesellschaft als Mittel der ersten Wahl zur Therapie der komplizierten Malaria tropica empfohlen. Großflächige klinische Studien liegen jedoch noch nicht vor.[18]
+
+Die Stand-by-Therapeutika Halofantrin und Amodiaquin wurden in Europa wegen schwerer Nebenwirkungen mittlerweile vom Markt genommen, sind jedoch noch vereinzelt in Malariagebieten als Notfallmedikamente verfügbar. Halofantrin wurde mit Herzrhythmusstörungen in Verbindung gebracht, während unter der Therapie mit Amodiaquin vermehrt Leberschäden und Blutbildschäden (Agranulozytose, aplastische Anämie) auftraten.
+
+Insbesondere in Endemiegebieten ist die Kombination von Sulfadoxin-Pyrimethamin, die sowohl zur Therapie als auch zur Prophylaxe für einheimische schwangere Frauen in Endemiegebieten als „intermittent Preventive Treatment“ (IPT) angewendet wird, verfügbar. Diese Arzneistoffkombination wurde jedoch in Deutschland aufgrund schwerer Hautreaktionen (Stevens-Johnson-Syndrom) vom Markt genommen.
+
+In jedem Falle ist es wichtig und sinnvoll, sich rechtzeitig vor jeder Reise über die aktuelle Risiko- und Resistenzsituation zu informieren und mit einem tropenmedizinisch erfahrenen Arzt die persönliche Vorsorge zu planen.
+Vektorkontrolle
+
+Als Vektorkontrolle (Bekämpfung des Überträgers) bezeichnet man den Versuch, Neuinfektionen durch gezielte Bekämpfung der Anopheles-Mücke zu verhindern. Zu diesem Zweck werden Insektizide in den Wohnstätten der Menschen versprüht oder es wird die Verwendung von insektizidimprägnierten Bettnetzen (IIB) propagiert.
+
+In den 1950er und 1960er Jahren wurde unter Federführung der WHO versucht, Malaria im Rahmen des Global Eradication of Malaria Program zu vernichten. Ein wichtiger Bestandteil der Kampagne war das Besprühen der Innenwände aller Wohnungen und Häuser mit DDT. Das Testgebiet Sardinien wurde 1950 von Malaria befreit, ohne jedoch den Vektor auszurotten.[19] Trotz der anfänglichen Erfolge wurde das Projekt Anfang der 1970er Jahre als gescheitert eingestellt.
+
+Der Einsatz von DDT in Wohnhäusern (Innenraumbesprühung) ist umstritten. Die Zunahme von Resistenzen gegen DDT kann seine Wirksamkeit einschränken. Das Ausbringen von DDT in Innenräumen birgt möglicherweise gesundheitliche Risiken: Es gibt Hinweise darauf, dass das DDT zu einem höheren Risiko von Fehlgeburten oder Missbildungen führen, die Samenqualität bei Männern senken oder an der Entstehung verschiedener Formen von Krebs beteiligt sein könnte.[20]
+
+Heute ist die Herstellung und Verwendung von DDT weltweit nur noch zum Zwecke der Bekämpfung von Krankheitsüberträgern zugelassen.
+Forschung
+
+Die Basensequenzen in den Genomen von Plasmodium falciparum und Anopheles gambiae wurden im Herbst 2002 vollständig entschlüsselt. Etwa zeitgleich wurden neue Malariatherapeutika, wie z. B. Atovaquon, Lumefantrin und die vom Naturstoff Artemisinin abgeleiteten Wirkstoffe Artesunat und Artemether auf den Markt gebracht. Erste Erfolg versprechende Ergebnisse der Behandlung Malariakranker mit Tafenoquin und dem Antibiotikum Fosmidomycin wurden ebenso vorgestellt. Fosmidomycin blockiert den MEP-Weg (Methylerythritolphosphatweg), einen Stoffwechselweg zum Dimethylallylpyrophosphat (DMAPP). Den MEP-Weg benutzen Plasmodien, nicht aber der Mensch. Durch seine Blockade können wichtige, vom DMAPP ausgehende zelluläre Grundbausteine in Zellmembranen und Zellanker des Erregers nicht mehr synthetisiert werden.
+
+Versuche, einen weltweit wirkenden Impfstoff gegen Malaria zu entwickeln, schlugen trotz einiger anfänglicher Erfolge jedoch bisher fehl. Das größte Problem bei der Entwicklung eines wirksamen Impfstoffes ist die hohe Variabilität der Malaria-Antigene. Eine neue Hoffnung versprechen entschärfte lebende Erreger, denen das Gen UIS3 eliminiert wurde. Diese Sporozoiten wurden Mäusen gespritzt, wobei keinerlei Plasmodienformen entstanden, die von der Leber (deren Befall keine Symptome hervorruft) in die roten Blutkörperchen hätten wechseln können. Das Ergebnis der Immunreaktion war eindrucksvoll: Keine einzige geimpfte Maus steckte sich nach einer Infektion mit normalen Plasmodien an, während in der Kontrollgruppe alle erkrankten.[21]
+
+Seit 1987 ist RTS,S („Mosquirix“) in Entwicklung. Dies ist ein weiterer Impfstoff, der aus dem Hepatitis-B-Impfstoff Hepatitis-B-Virus (RTS,S) besteht, welcher zusätzlich Bestandteile (RTS,S) des circumsporozoite protein der Oberfläche des Plasmodium-falciparum-Sporozoiten sowie ein weiteres Oberflächen-Antigen (RTS,S) des Hepatitis-B-Virus trägt.[22] Dadurch wird eine Immunantwort ausgelöst, die die Plasmodien in einem frühen Stadium, noch bevor sie die Leber infizieren, bekämpft. Zusätzlich wird ein Impfschutz gegen das Hepatitis-B-Virus induziert.[23] Für einen vollständigen Immunschutz ist geplant, den Impfstoff mit weiteren Antigenen des Malaria-Erregers zu kombinieren.[24] GlaxoSmithKline führte 2010 eine Schlüsselstudie mit RTS,S durch.[25] Die Bewertung einer randomisierten Doppelblind-Studie, die mehr als 15.400 Kinder einbezog, ergab nach einem Jahr als vorläufiges Ergebnis bei einer mit RTS,S geimpften Patientengruppe eine Reduktion der Malaria-Fälle um ungefähr die Hälfte gegenüber der Kontrollgruppe; für die Untergruppe schwerer Verläufe fällt der Unterschied um ca. 5 % geringer aus.[26]
+
+Die Ergebnisse einer klinischen Phase-III-Studie bewertet der Auftraggeber GlaxoSmithKline als positiv und plant auf dieser Grundlage, im Jahr 2014 eine so genannte „regulatory application“ für bei der europäischen Arzneimittelbehörde EMA zu beantragen. Damit sei eine Empfehlung der WHO Anfang 2015 möglich.[27]
+
+Wie eine 2012 an Mäusen durchgeführte Studie ergab, können Impfstoffe dieser Art (Anregung des Immunsystems, um die Plasmodien am Eindringen in die roten Blutkörperchen zu hindern) jedoch zur Herausbildung besonders aggressiver Erregerstämme mit deutlich schwererem Krankheitsverlauf führen.[28]
+
+US-Forschern ist es 2013 gelungen, Plasmodium falciparum so zu kultivieren, dass daraus ein Impfstoff hergestellt werden kann.[29][30]
+
+Ein alternativer Therapieansatz könnte im Sinne einer passiven Immuinisierung einen Antikörper gegen Plasmodien verwenden.
+
+Ein weiterer Ansatz aktueller Forschung ist, die Vermehrung der Plasmodien zu verhindern. Untersuchungen an Mäusen zeigten, dass es prinzipiell möglich ist, über einen Impfstoff die Verschmelzung weiblicher und männlicher Keimzellen des Plasmodiums zu blockieren, und somit die Weitergabe des Erregers einzudämmen.[31][32]
+
+Eine weitere Möglichkeit der Bekämpfung der Malaria ist das Unterbrechen der Infektionskette durch Bekämpfen der Anopheles-Mücke. Ein entsprechender Versuch zur Ausrottung der Malaria in den 1960er Jahren mit Hilfe von DDT (Dichlordiphenyltrichlorethan) war nur örtlich und zeitlich begrenzt erfolgreich; in der Folgezeit wurden umweltschädigende Wirkungen offenbar. Ein neuer Ansatz ist der Einsatz des Bakteriums Bacillus thuringiensis israelensis (bti), das im Labor einfach vermehrt werden kann (siehe Bacillus thuringiensis). Bti ist gegenüber Stechmücken erprobt und hochwirksam, schont aber bei richtiger Anwendung „Nicht-Ziel-Organismen“ weitgehend. Zur Anwendung werden Bti-Sporen in von Anopheles-Larven bewohnte Gewässer ausgebracht. Die Larven nehmen die Bakterien mit der Nahrung auf. In ihrem Darm setzen Verdauungsenzyme ein Delta-Endotoxin aus der Sporenwand frei; dieses Eiweiß tötet Zellen der Darmwand, indem es kationen-durchlässige Poren in deren Membran erzeugt.[33] Die Insekten stellen daraufhin ihre Nahrungsaufnahme ein und gehen noch im Larvenstadium zugrunde. Bti wird in flüssiger, Tabletten-, Pulver- und Granulatform kommerziell angeboten. Für den großflächigen Einsatz im Freiland hat sich die Verwendung von Granulat bewährt; bei starker Durchseuchung von Gewässern wird dieses mit Hubschraubern ausgebracht.
+
+Außerdem forscht die gemeinsame Abteilung der IAEO und FAO an einer neuartigen Methode zur Bekämpfung der Anopheles-Mücke durch massenweise Aussetzung steriler Mückenmännchen (Sterile-Insekten-Technik).
+
+In Anbetracht der zunehmenden Resistenz gegen die in den letzten Jahrzehnten entwickelten Wirkstoffe rückt seit 2002 die synergistische Wirkung der länger bekannten Wirkstoffe Methylenblau und Chloroquin ins Blickfeld der Forschung.[34][35]
+
+In Zusammenarbeit mit der WHO erarbeiten gegenwärtig das Kenya Medical Research Institute und die britische Universität Oxford im Internet verfügbare Weltkarten, auf denen das gesamte Wissen über die Verbreitung der Malaria zusammengetragen wird (z. B. Infektionsrate Plasmodium falciparum, Plasmodium vivax). Dieses Malaria Atlas Projekt genannte Unterfangen wird vom englischen Wellcome Trust finanziert und ständig erweitert.[36]
+
+Ein neuer Therapieansatz ist die Bekämpfung von Plasmodium im Mückendarm durch genetisch veränderte Mückendarmflora. Das mit Anopheles in Symbiose lebende Bakterium Pantoea agglomerans wird dabei so verändert, dass es gegen den Parasit wirksame Peptide ausscheidet. Mit dem Ansatz kann die Prävalenz infizierter Mücken stark gesenkt werden.[37]
+Verteiltes Rechnen (Distributed Computing)
+
+Es existieren derzeit (Stand August 2013) mehrere nicht-kommerzielle Projekte des Verteilten Rechnens für die Suche nach neuen Medikamenten resp. effektiven Gegenmaßnahmen. Dabei können Privatpersonen die überschüssige Rechenzeit ihres Computers zur Verfügung stellen.
+
+Das World Community Grid-Projekt GO Fight Against Malaria wurde Mitte 2013 erfolgreich abgeschlossen, die Datenauswertung läuft momentan. Aktiv sind aktuell die Projekte FightMalaria@Home sowie Malaria Control.
+
+Siehe für genauere Informationen hierzu auch die Liste der Projekte verteilten Rechnens.
+Armutsbedingte Krankheit
+
+Die Malaria wird auch als armutsbedingte Krankheit bezeichnet. Hinter dieser Bezeichnung steht zum einen das Kalkül, dass von der Krankheit hauptsächlich arme Menschen betroffen sind, die über wenig Kaufkraft verfügen und folglich keinen attraktiven Markt bilden. Für Pharmaunternehmen ist es daher ökonomisch sinnvoller, Mittel gegen medizinisch weniger „dringende“ Krankheiten zu erforschen, deren Betroffene kaufkräftiger sind.
+
+Norbert Blüm schreibt dazu in der Süddeutschen Zeitung vom 7. Oktober 2003:[38]
+
+    „Die Pharmaindustrie gibt weltweit doppelt so viel Forschungsmittel im Kampf gegen Haarausfall und Erektionsschwächen aus wie gegen Malaria, Gelbfieber und Bilharziose. Das ist marktwirtschaftlich konsequent, denn die Kunden mit Erektionsschwächen und Haarausfall haben in der Regel mehr Kaufkraft als die Malaria- und Gelbfieberkranken.“
+
+Die Europäische Union will als Reaktion auf diesen Mechanismus die Entwicklung von Mitteln gegen armutsbedingte Krankheiten mit 600 Millionen Euro fördern.[39]
+
+Andererseits ist es fraglich, ob gerade für Regionen, in denen die Malaria wie die Armut verbreitet sind, die Bekämpfung der Malaria durch Entwicklung eines Impfstoffes im Vordergrund stehen sollte. Der Parasitologe Paul Prociv weist darauf hin, dass Erwachsene in Malariagebieten durch ständige Reinfektion praktisch immun gegen die Krankheit sind. Vorrang hätte die Hebung der allgemeinen Gesundheitsfürsorge und Lebensumstände. Von einem Malariaimpfstoff würden hauptsächlich westliche Besucher der Tropen profitieren, die die Nebenwirkungen der herkömmlichen Malariavorsorge scheuen.[40]
+
+Als armutsbedingte Erkrankung kann Malaria auch gelten, da in vielen Ländern der dritten Welt die Wohnverhältnisse der meisten Menschen nicht den Standards zur Infektionsvermeidung (geschlossene Wohnräume, Moskitonetze, Klimaanlage, Insektensprays, usw.) entsprechen, keine Chemoprophylaxe zur Verfügung steht und Medikamente teuer und schwer zu beschaffen sind[4] (siehe auch Abschnitt Vorbeugung und Behandlung).
+
+Aufgrund der mangelnden finanziellen Unterstützung gab Bill Gates Ende Oktober 2005 bekannt, dass er zur Förderung der Malariaforschung eine Summe von 258,3 Millionen Dollar zur Verfügung stellen werde. Seiner Meinung nach stelle „es für die Welt eine Schande dar, dass sich in den letzten 20 Jahren jene durch Malaria hervorgerufenen Todesfälle verdoppelten, zumal gegen jene Krankheit sehr stark vorgegangen werden könnte.“[41]
+Volkswirtschaftliche Auswirkung
+
+Nach Jeffrey Sachs sind tropische Krankheiten, insbesondere aber Malaria, eine Hauptursache für die wirtschaftliche Misere der ärmsten Länder der Erde: Wo diese Krankheit auftritt, also vor allem in den Tropen und Subtropen, herrscht auch Armut. So hatten Mitte der 1990er-Jahre von Malaria heimgesuchte Länder ein durchschnittliches Volkseinkommen von rund 1.500 Dollar pro Kopf, während nicht betroffene Länder mit durchschnittlich 8.200 Dollar über mehr als das Fünffache verfügten. Volkswirtschaften mit Malaria sind zwischen 1965 und 1990 durchschnittlich nur um 0,4 Prozent im Jahr gewachsen, die anderen dagegen um 2,3 Prozent.[42] Der durch die Krankheit verursachte volkswirtschaftliche Schaden für Afrika allein wird umgerechnet auf rund 9,54 Milliarden Euro pro Jahr geschätzt.
+
+Nach Studien liegt die durch Malaria verursachte Lähmung der Volkswirtschaften der betroffenen Länder nicht nur an den direkten Kosten für Medikamente und medizinische Behandlung. Malaria hat eine negative Auswirkung auf die Arbeitsproduktivität und somit auf das Bruttoinlandsprodukt des Landes, womit nötige Investitionen, wie beispielsweise in Bildung, ausbleiben. Zudem meiden ausländische Investoren solche Länder ebenso wie Touristen und Handelsunternehmen.[43]
+
+Mittlerweile hat AIDS die ungünstige Situation für diese Länder noch dramatisch verschlimmert.
+Geschichte
+Aus einem Brief Dürers an seinen Arzt. Dürer zeigt auf seine schmerzende Milz. Er hatte sich vermutlich bei einem Holland-Aufenthalt eine Malaria zugezogen.
+
+Die frühesten Berichte von Malariaepidemien stammen von den Alten Ägyptern (u. a. aus dem Papyrus Ebers). Die ältesten DNA-Funde wurden neuerdings dann auch von Münchener Pathologen um Andreas Nerlich in zwei ägyptischen Mumien aus Theben gefunden, die ca. 3500 Jahre alt sind.[44] Aber auch in rund 3000 Jahre alten indischen Schriften taucht das Wechselfieber auf. Die Chinesen hatten vor über 2000 Jahren sogar schon ein Gegenmittel. Sie nutzten die Pflanze 青蒿 (qīnghāo), ein Beifuß-Gewächs. In der Neuzeit konnten Forscher tatsächlich einen wirksamen Stoff aus dieser Pflanze isolieren: das Artemisinin.
+
+In der Antike verbreitete sich die Malaria rund um das Mittelmeer. Hippokrates erkannte, dass Menschen aus Sumpfgebieten besonders häufig betroffen waren, jedoch vermutete er, dass das Trinken von abgestandenem Sumpfwasser die Körpersäfte (siehe Humoralpathologie) in ein Ungleichgewicht bringt. Von unsichtbaren Krankheitserregern wusste man damals noch nichts.
+
+Auch das Römische Reich wurde regelmäßig von schweren Malariaepidemien heimgesucht. Einige Historiker gehen sogar davon aus, dass sie einen der entscheidenden Faktoren für den Untergang des Römischen Reiches darstellen. Erst unlängst wurde bei Rom ein Kindermassengrab mit über 50 Leichen entdeckt, das auf das Jahr 50 datiert wurde. Aus den Knochenresten dieser Kinderskelette konnte die DNA von Plasmodium falciparum isoliert werden.
+
+Im Mittelalter bis zur Mitte des 20. Jahrhunderts war die Malaria nicht nur in Süd-, sondern auch in Mitteleuropa verbreitet. Zum Beispiel war es in Norddeutschland als Marschenfieber bekannt. Berühmte europäische Malariapatienten waren Albrecht Dürer, Oliver Cromwell und Friedrich Schiller. Erst durch die Trockenlegung von Sumpfgebieten und durch den systematischen Einsatz von Insektiziden konnte die Malaria in den 1960er Jahren in Europa ausgerottet werden.
+Chinarinde (Chinchona sp.)
+
+Aus Nord- und Südamerika sind die ersten Malariafälle erst im 16. Jahrhundert dokumentiert. Man geht heute davon aus, dass sie durch die Europäer bzw. durch den von ihnen organisierten Sklavenhandel dort eingeschleppt worden ist. Der Erreger verbreitete sich dort sehr schnell: Zu Beginn des 20. Jahrhunderts starben beispielsweise im Süden der USA ein Prozent der Bevölkerung jährlich an Malaria, in den Sumpfgebieten des Mississippi lag die Mortalitätsrate sogar bei drei Prozent.[45] Das Heilmittel, das heute noch Verwendung findet, hat seinen Ursprung jedoch auch in Südamerika. Peruanische Arbeiter bekämpften Fieber erfolgreich mit der Rinde eines Baumes aus der Familie der Rötegewächse, zu denen auch die Kaffeepflanze gehört. Mitglieder des Jesuitenordens beobachteten diese Wirkung und brachten das Mittel in Pulverform erstmals 1640 nach Europa, wo es auch „Jesuitenpulver“ genannt wurde. Der Baum wurde später als „Chinarinde“ (Cinchonia) bekannt, das Medikament als „Chinin“. Chinin hat einen äußerst bitteren Geschmack. Es wird als Aromastoff für Tonic Water und Bitter Lemon verwendet. Bis heute hält sich die Legende, regelmäßiges Trinken von Gin Tonic schütze vor Malaria. Jedoch ist heutzutage die Chininkonzentration in einem Gin-Tonic-Drink viel zu gering.
+
+Der Malariaerreger wurde am 6. November 1880 vom Franzosen Alphonse Laveran entdeckt, der in Constantine (Algerien) am Militärkrankenhaus arbeitete. Er erhielt dafür 1907 den Nobelpreis für Medizin.
+Ronald Ross
+
+Ronald Ross, Chirurg und General aus England, fand 1897 den Zusammenhang zwischen dem Malariaerreger und dem Stich der Anophelesmücke heraus und erhielt dafür 1902 nicht ganz unumstritten den Nobelpreis für Medizin. Den Zusammenhang zwischen Mücken und Malaria hatten im übrigen schon die alten Ägypter 3000 v. Chr. erkannt. Sie wurde als Fluch der Götter bzw. des Nils angesehen.
+
+Julius Wagner-Jauregg infizierte 1917 einige seiner Patienten gezielt mit Malaria, um mit den auftretenden Fieberschüben die progressive Paralyse zu behandeln. Diese sogenannte Malariatherapie erwies sich als erfolgreich und wurde bis zum Aufkommen von Antibiotika praktiziert, 1927 erhielt Wagner-Jauregg dafür den Medizin-Nobelpreis. Wegen der damit verbundenen Risiken gilt der Einsatz von Malaria als Therapeutikum heute jedoch als nicht mehr vertretbar.
+
+In den 1950er-Jahren begann die WHO das Global Eradication of Malaria Program. Neuansteckungen durch Mückenstiche sollten durch Besprühen der Innenwände der Häuser mit DDT-Lösung verhindert werden. Parallel dazu sollten die bereits Erkrankten mit Chloroquin behandelt werden, um auch die eigentlichen Erreger, die Plasmodien, zu bekämpfen.
+
+Die Kampagne war nur teilweise erfolgreich. In den Niederlanden, Italien, Polen, Ungarn, Portugal, Spanien, Bulgarien, Rumänien und Jugoslawien wurde Malaria bis Ende der 1960er Jahre dauerhaft ausgerottet. Auch in vielen Ländern Asiens sowie Süd- und Mittelamerikas konnte die Zahl der Neuansteckungen mit Malaria drastisch gesenkt werden. Hier wurden häufig nach ersten Erfolgen Geld und medizinisches Personal aus den Anti-Malaria-Kampagnen abgezogen und anderweitig eingesetzt. Dadurch blieben neue Malariafälle unentdeckt oder konnten nicht ausreichend behandelt werden. Im Lauf der Jahre traten DDT-Resistenzen bei verschiedenen Arten der Anophelesmücke auf. Zudem waren auch die Plasmodien teilweise gegen Chloroquin resistent geworden. Die WHO stellte ihr Programm zur Ausrottung der Malaria 1972 offiziell als gescheitert ein.
+
+2007 beschloss die WHO den Weltmalariatag (World Malaria Day), ein Aktionstag, der jährlich zum 25. April stattfindet.
+Siehe auch
+
+    Erreger/Überträger: Parasiten des Menschen, Sporozoen, Protozoeninfektion
+    Bekämpfung: Moskitonetz, Zimtöl, DDT, Heptachlor
+        Pflanzliche Heilmittel: Sauerdorngewächse, Artemisia (Pflanze) bzw. Einjähriger Beifuß (Artemisinin), auch: Blauer Eisenhut, Gelber Enzian, Cannabis, Schwarzdorn-Akazie, Gewöhnlicher Buchsbaum, Afrikanischer Affenbrotbaum
+        Medikamente: Primaquin, Sulfonamid, Tetracycline
+    Immunität: Sichelzellenanämie (Erythrozyt), Favismus (G6PD-Mangel), Immunität (Medizin)
+
+Literatur
+Leitlinien
+
+    S1-Leitlinie Diagnostik und Therapie der Malaria der Deutsche Gesellschaft für Tropenmedizin und Internationale Gesundheit (DTG). In: AWMF online (Stand November 2013)
+
+Deutschsprachige Bücher
+
+    Jürgen Knobloch: Malaria – Grundlagen und klinische Praxis. Uni-Med, Bremen 2002, ISBN 3-89599-623-8.
+    Waldemar Malinowski: Impfungen für Auslandsreisende und Malariaprophylaxe. Vademecum für niedergelassene Ärzte. Facultas, Wien 2001, ISBN 3-85076-538-5.
+    Martin Kappas: Klimatologie: Klimaforschung im 21. Jahrhundert – Herausforderung für Natur- und Sozialwissenschaften. Spektrum, Heidelberg 2009, ISBN 978-3-8274-1827-2; 7.2.1. Auswirkungen von Temperaturveränderungen auf die Malariaübertragung; 7.2.2. Auswirkungen von Niederschlagsveränderungen auf die Malariaübertragung eingeschränkte Vorschau in der Google-Buchsuche.
+    Fritz H. Kayser u. a.: Taschenlehrbuch medizinische Mikrobiologie. 11. Auflage, Thieme, Stuttgart 2005, ISBN 3-13-444811-4.
+    Charles C. Mann: Kolumbus’ Erbe. 2. Auflage. Rowohlt, Hamburg 2013, ISBN 978-3-498-04524-1. (Auswirkungen der Malaria-Einschleppung durch Europäer auf frühe amerikanische Kolonien)
+
+Englischsprachige Bücher
+
+    Peter Perlmann, Marita Troye-Blomberg: Malaria Immunology. Karger, Basel 2002, ISBN 3-8055-7376-6.
+    David Sullivan, Sanjeev Krishna (Hrsg.): Malaria. Drugs, disease and post-genomic biology. Springer, Berlin 2005, ISBN 3-540-25363-7.
+    David A. Warrell, Herbert M. Gilles: Essential Malariology. Arnold, London 2002, ISBN 0-340-74064-7.
+
+Zeitschriften-Beiträge
+
+    Joel G. Breman, Martin S. Alilio, Anne Mills: The intolerable burden of Malaria II. In: The American journal of tropical medicine and hygiene. Band 71, Heft 2, Supplement. American Society of Tropical Medicine and Hygiene, Northbrook 2004, ISSN 0002-9637.
+    B. M. Greenwood, K. Bojang, C. J. Whitty, G. A. Targett: Malaria. In: Lancet. Band 365, Nummer 9469, 2005, ISSN 1474-547X, doi:10.1016/S0140-6736(05)66420-3, PMID 15850634, S. 1487–1498 (Review).
+    Giacomo Maria Paganotti, Claudia Palladino, Mario Coluzzi: Der Ursprung der Malaria. In: Spektrum der Wissenschaft. 2004, Nr. 3, Heidelberg 2004, ISSN 0170-2971, S. 82–89.
+    August Stich, Katja Fischer, Michael Lanzer: Eine Seuche auf dem Vormarsch – Die Überlebensstrategie des Malariaerregers. In: Biologie in unserer Zeit. 2000, Band 30, Heft 4, ISSN 0045-205X, S. 194–201.
+    W. A. Maier: Umweltveränderungen und deren Einflüsse auf krankheitsübertragende Arthropoden in Mitteleuropa am Beispiel der Stechmücken. Denisia 6, 2002, S. 535–547.
+    Jochen Wiesner, Regina Ortmann, Hassan Jomaa, Martin Schlitzer: Neue Antimalaria-Wirkstoffe. In: Angewandte Chemie. 2003, Band 115, Heft 43, ISSN 0044-8249, S. 5432–5451.
+    I. Stock: Therapie der Malaria. In: Medizinische Monatsschrift für Pharmazeuten. 2004, Band 27. Heft 8, ISSN 0342-9601, S. 260–272.
+    H. Idel: Malaria. Prophylaxe und reisemedizinische Bedeutung. In: Bundesgesundheitsblatt. 5, Springer, Berlin 1999, ISSN 1436-9990, S. 402–407.
+    Helge Kampen: Vektor-übertragene Infektionskrankheiten auf dem Vormarsch? Wie Umweltveränderungen Krankheitsüberträgern und -erregern den Weg bereiten. In: Naturwissenschaftliche Rundschau. 2005, Band 58, Heft 4, ISSN 0028-1050, S. 181–189.
+    Margot Kathrin Dalitz: Autochthone Malaria im mitteldeutschen Raum. Dissertation Martin-Luther-Universität, Halle-Wittenberg 2005.
+    Malaria Journal. Fachjournal im Open Access (englisch)
+    Winfried Schröder, Marcel Holy, Roland Pesch, Gunther Schmidt: Klimawandel und zukünftig mögliche temperaturgesteuerte Malariatransmission in Deutschland. In: Umweltwissenschaften und Schadstoffforschung. Band 22, Heft 3, 2010, ISSN 0934-3504, S. 177–187.
+
+Weblinks
+ Wiktionary: Malaria – Bedeutungserklärungen, Wortherkunft, Synonyme, Übersetzungen
+ Commons: Malaria – Sammlung von Bildern, Videos und Audiodateien
+ Wikinews: Malaria – in den Nachrichten
+
+    Malaria – Informationen des Robert-Koch-Instituts
+    Empfehlungen zur Malariaprophylaxe der Deutschen Gesellschaft für Tropenmedizin und Internationale Gesundheit e. V. (DTG)
+    Aktuelle Malariakarte der DTG 2013 (PDF; 360 kB)
+    WHO World Malaria Report 2013
+    WHO-Empfehlungen für die Behandlung der Malaria WHO, Februar 2006 (englisch)
+    Erbgutsequenz von Plasmodium falciparum ist entschlüsselt. (Nature)
+    Malaria – eine bekannte Krankheit? (OEW)
+    Matthias Giger: „Rückblick in die Geschichte der Malaria und historische Behandlungsmethoden.“ 1999.
+    Geschichte der Malaria in den Nordseemarschen (englisch)
+    D. Sägesser, B. Thoet: Lernprogramm für Studierende der Medizin. Dissertation Universität Bern, Abteilung für Unterrichtsmedien (AUM). Bern 1999, 2005.
+    Interaktive Abfrage von Fallzahlen und Inzidenzen meldepflichtiger Infektionskrankheiten in Deutschland.
+    MARA/ARMA Project Malaria-Risikokarten für Afrika
+    Malaria-Atlas-Projekt finanziert durch den Wellcome Trust (englisch)
+    Parasit ohne Gnade. Dokumentation von Heiner Schirmer auf dctp.tv.
+
+Einzelnachweise
+
+    1,2 Millionen Opfer pro Jahr: Malaria tötet viel mehr Menschen als angenommen. In: spiegel.de. 3. Februar 2012, abgerufen am 3. Februar 2014.
+    Trust Sanger Institute, Pain A Böhme U, Berry AE u. a.: The genome of the simian and human malaria parasite Plasmodium knowlesi. In: Nature. Nr. 455, 2008, S. 751–756.
+    Robert-Koch-Institut: Merkblaetter: Ratgeber Malaria.
+    Paul Reiter: Global warming and vector bourne diseases. 28. Juli 1998.
+    Karin Rives: Study: Climate Change Contributes to Malaria Spread. But changing farming practices, migration also cause outbreaks in new areas. 14. April 2010.
+    Malaria: Zwei neue Resistenzgene. In: Deutsches Ärzteblatt. 16. August 2012, abgerufen am 3. Februar 2014.
+    Robert-Koch-Institut: Malaria: RKI-Ratgeber Infektionskrankheiten – Merkblätter für Ärzte.
+    WHO Malaria, abgerufen am 18. Mai 2010.
+    (für Fallzahlen ab 2001): Robert-Koch-Institut: SurvStat
+    S. E. Lindner, J. L. Miller, S. H. Kappe: Malaria parasite pre-erythrocytic infection: preparation meets opportunity. In: Cell Microbiology. März 2012, Vol. 14, Iss. 3, S. 316–24, doi:10.1111/j.1462-5822.2011.01734.x.
+    Transfusions-Malaria
+    Uni Freiburg: Malariaschnelltests. (PDF-Datei)
+    Empfehlungen zur Prophylaxe und Therapie der Malaria der DTG 2013. Deutsche Gesellschaft für Tropenmedizin und Internationale Gesundheit e. V., 2013, abgerufen am 3. Februar 2014.
+    Durchbruch mit neuem Malaria-Impfstoff. In: NZZ. 25. Juli 2011, abgerufen am 3. Februar 2014.
+    Empfehlungen zur Malariavorbeugung. Deutsche Gesellschaft für Tropenmedizin und Internationale Gesundheit e. V., 2013, abgerufen am 3. Februar 2014.
+    F. A. Jacquerioz, A. M. Croft: Drugs for preventing malaria in travellers. In: Cochrane Database Syst Rev. 7. Oktober 2009, Band 7, Heft 4, CD006491, PMID 19821371.
+    Essential Medicines: WHO Model List. 14th Edition, 2005. (PDF-Datei; 422 kB)
+    Gisela Sonnenburg: Krebsbekämpfung: Dynamit aus dem Beifuß. In: taz. 20. Juli 2007, abgerufen am 3. Februar 2014.
+    E. Tognotti: Program to eradicate malaria in Sardinia, 1946–1950. In: Emerg Infect Dis. Sept. 2009, Band 15, Heft 9, S. 1460-6, PMID 19788815, PMC 2819864 (freier Volltext).
+    Brenda Eskenazi u. a.: The Pine River Statement: Human Health Consequences of DDT Use. In: Environmental Health Perspectives. (EHP), Band 117, Heft. 9, 2009.
+    Neue Hoffnung auf Malaria-Impfstoff. In: Spektrum der Wissenschaft. Nr. 5, 2005, S. 20ff.
+    V. Ann Stewart, Shannon M. McGrath, Patrice M. Dubois et al.: Priming with an Adenovirus 35-Circumsporozoite Protein (CS) Vaccine followed by RTS,S/AS01B Boosting Significantly Improves Immunogenicity to Plasmodium falciparum CS Compared to That with Either Malaria Vaccine Alone. In: Infection and Immunity. Mai 2007, Band 75, Heft 5, S. 2283–2290, doi:10.1128/IAI.01879-06, Volltext.
+    Vaccines against malaria-an update. In: The FEBS Journal. Nr. 274, 2007, S. 4680ff.
+    Endlich ein Malaria-Impfstoff? In: Spektrum der Wissenschaft. Nr. 1, 2006, S. 10.
+    Marcus Theurer: Hoffnung im Kampf gegen Malaria. Auf: FAZ.net. 15. Januar 2010.
+    New England Journal of Medicine: First Results of Phase 3 Trial of RTS,S/AS01 Malaria Vaccine in African Children. Auf: New England Journal of Medicine online. 18. Oktober 2011.
+    Positive Studienergebnisse zu möglichem Malaria-Impfstoff für Kinder. GlaxoSmithKline, 8. Oktober 2013, abgerufen am 13. Dezember 2013 (Pressemitteilung).
+    Experiment mit Mäusen: Impfung macht Malariaerreger aggressiver. Auf: Spiegel Online. 1. August 2012.
+    Endlich ein Impfstoff? Anti-Malaria-Serum senkt Erkrankungsrate. n-tv, 8. August 2013, abgerufen am 7. Dezember 2013.
+    Protection Against Malaria by Intravenous Immunization with a Nonreplicating Sporozoite Vaccine. In: Science. Abgerufen am 7. Dezember 2013.
+    wissenschaft.de: Eingeimpfter Fortpflanzungsstopp vom 26. März 2008.
+    William J. Snell u. a.: The conserved plant sterility gene HAP2 functions after attachment of fusogenic membranes in Chlamydomonas and Plasmodium gametes. In: Genes & Development. 15. April 2008, Nr. 22, S. 1051–1068; Vorabdruck 26. März 2008, doi:10.1101/gad.1656508 (Volltext als PDF-Datei)
+    Delta endotoxin
+    Neue Perspektive für den Kampf gegen die Malaria. Universitätsklinikum Heidelberg, 30. Oktober 2002.
+    R. H. Schirmer u. a.: Methylene blue as an antimalarial agent. In: Redox report. 2003, Vol. 8, Iss. 5, PMID 14962363, S. 272–275.
+    Malaria Atlas Projekt
+    S. Wang, A. K. Ghosh u. a.: Fighting malaria with engineered symbiotic bacteria from vector mosquitoes. In: Proceedings of the National Academy of Sciences of the United States of America. Band 109, Nummer 31, Juli 2012, S. 12734–12739. doi:10.1073/pnas.1204158109. PMID 22802646.
+    Norbert Blüm: Ich stelle mir die CDU anders vor. In: Süddeutsche Zeitung. 7. Oktober 2003, abgerufen am 3. Februar 2014.
+    Kampf den armutsbedingten Krankheiten: Kommissionsmitglied Philippe Busquin besucht Afrika und stellt das Programm für klinische Versuche vor. EU-Kommission, 31. Juli 2003, abgerufen am 3. Februar 2014 (Pressemitteilung).
+    Paul Prociv: Malaria Vaccine: Salvation for the World? In: The Skeptic. 2005, S. 58, abgerufen am 3. Februar 2014.
+    Bill Gates will mit $ 258 Mio Malaria bekämpfen. 31. Oktober 2005, archiviert vom Original am 12. Januar 2006, abgerufen am 3. Februar 2014.
+    J. Sachs, P. Malaney: The economic and social burden of malaria. In: Nature. Nr. 415, London 2002, doi:10.1038/415680a, PMID 11832956, ISSN 0028-0836, S. 680–685.
+    B. M. Greenwood, K. Bojang, C. J. Whitty, G. A. Targett: Malaria. In: The Lancet. Nr. 365, London 2005, doi:10.1016/S0140-6736(05)66420-3, PMID 15850634, ISSN 0023-7507, S. 1487–1498.
+    Malaria bei den Alten Ägyptern. In: Epoc. 1, 10, Spektrum, Heidelberg 2009, ISSN 1865-5718, nach: Discovery chanal 8.2008
+    David George Haskell: The Forst Unseen – A Year’s Watch in Nature. Viking, New York 2012, ISBN 978-1-101-56106-5, S. 111.
+
+Gesundheitshinweis 	Bitte den Hinweis zu Gesundheitsthemen beachten!
+
+
+Normdaten (Sachbegriff): GND: 4037197-9
+Von „http://de.wikipedia.org/w/index.php?title=Malaria&oldid=128308634“
+Kategorien:
+
+    Wikipedia:Exzellent
+    Parasitose des Menschen
+    Meldepflichtige Krankheit
+    Tropenkrankheit
+    Malaria
+
+    Diese Seite wurde zuletzt am 8. März 2014 um 16:50 Uhr geändert.
+    Abrufstatistik
+
+    Der Text ist unter der Lizenz „Creative Commons Attribution/Share Alike“ verfügbar; Informationen zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den Nutzungsbedingungen und der Datenschutzrichtlinie einverstanden.
+    Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+
