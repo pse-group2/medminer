@@ -12,11 +12,18 @@
 </tr>
 	<% @results.each do |result| %>
 	<tr>
+		<% if false %>
 		<% page = Page.where(:page_id => result.article_id).first %>
 		<% base_link = 'http://de.wikipedia.org/wiki?curid=' %>
 		<% link = base_link << "#{page.page_id}"%>
 		<td><%= link_to(page.title, link) %></td>
 		<td><%= result.ranking %></td>
+		<% end %> 
+		<% page = Page.where(:page_id => result.page_id).first %>
+		<% base_link = 'http://de.wikipedia.org/wiki?curid=' %>
+		<% link = base_link << "#{page.page_id}"%>
+		<td><%= link_to(page.title, link) %></td>
+		<td><%= result.score %></td>
 	</tr>
 	<%end%>
 </table>

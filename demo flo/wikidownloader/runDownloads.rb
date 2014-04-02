@@ -10,7 +10,7 @@ require 'open-uri'
 threadNumber = 100;
 username = "root"
 password = "toor"
-dbname = "testwiki"
+dbname = "testmedwiki"
 filename = 'articles.json'
 source = "http://tools.wmflabs.org/catscan2/quick_intersection.php?lang=de&project=wikipedia&cats=Medizin&ns=0&depth=-1&max=100000&start=0&format=json&redirects=&callback="
 
